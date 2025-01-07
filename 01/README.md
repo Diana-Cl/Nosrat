@@ -2,7 +2,7 @@
 > ### درس اول آموزش زبان انگلیسی نصرت
 
 
-> برای دریافت فایل صوتی [کلیک کنید](https://raw.githubusercontent.com/sahar-km/Nosrat/refs/heads/main/01/11.amr)
+> برای دریافت فایل صوتی [کلیک کنید](https://raw.githubusercontent.com/Diana-Cl/Nosrat/refs/heads/main/01/01_11.amr)
 
 
 <br> 
