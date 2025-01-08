@@ -3,167 +3,256 @@
 >
 > 
 
-<br><br>  
+<br> <br>
 
 
 ## بخش 1: جملات پایه
 
-street  
-خیابان  
+It's much better.  
+این خیلی بهتر است.  
 
-avenue  
-بلوار  
+Your English is good.  
+انگلیسی تو خوب است.  
 
-on Main Street  
-در خیابان اصلی  
+We can go together.  
+ما می‌توانیم با هم برویم.  
 
-on Sunset Avenue  
-در بلوار سانست  
+a good Persian restaurant  
+یک رستوران ایرانی خوب  
 
-tomorrow  
-فردا  
+then later  
+بعداً  
 
-rice  
-برنج  
+Is that your car?  
+آیا این ماشین تو است؟  
 
-That's not mine.  
-این مال من نیست.  
+Where's yours?  
+مال تو کجاست؟  
 
-an American car  
-یک ماشین آمریکایی  
+It's early.  
+زود است.  
 
-I would like to drink something.  
-من می‌خواهم چیزی بنوشم.  
+I want to have lunch.  
+من می‌خواهم ناهار بخورم.  
 
-I'd like to drink something.  
-من می‌خواهم چیزی بنوشم.  
+You speak very well.  
+تو خیلی خوب صحبت می‌کنی.  
 
-Would you like to eat something?  
-آیا می‌خواهی چیزی بخوری؟  
+I understand very well.  
+من خیلی خوب متوجه می‌شوم.  
 
-Excuse me, Miss.  
-ببخشید، خانم.  
-
-We don't have Pepsi, is Coke okay?  
-ما پپسی نداریم، آیا کوکا خوب است؟  
-
-We'd like to buy a house.  
-ما می‌خواهیم یک خانه بخریم.  
+I want to have dinner.  
+من می‌خواهم شام بخورم.  
 
 <br>
 
 ## بخش 2: سوالات و جواب‌ها
 
-lunch  
-ناهار  
+I want some food.  
+من کمی غذا می‌خواهم.  
 
-my house  
-خانه‌ی من  
+with whom?  
+با چه کسی؟  
 
-my lunch  
-ناهار من  
+with me?  
+با من؟  
 
-Is that my lunch?  
-آیا این ناهار من است؟  
+No, not with you.  
+نه، با تو نه.  
 
-No, that's not your lunch.  
-نه، این ناهار تو نیست.  
+with my son  
+با پسر من  
 
-That's not yours.  
-این مال تو نیست.  
+We want to have breakfast.  
+ما می‌خواهیم صبحانه داشته باشیم.  
 
-Then where's my lunch?  
-پس ناهار من کجاست؟  
+a little later  
+کمی بعد  
 
-Yours is there.  
-مال تو آنجاست.  
+Do you want to have breakfast at home?  
+آیا می‌خواهی در خانه صبحانه بخوری؟  
 
-together  
-با هم  
+Do you want to go with me?  
+آیا می‌خواهی با من بیایی؟  
 
-We want to go together.  
-ما می‌خواهیم با هم برویم.  
+I'm sorry. But I can't.  
+متأسفم. اما نمی‌توانم.  
 
-We're going together.  
-ما با هم می‌رویم.  
+We're not going now.  
+ما الآن نمی‌رویم.  
 
-It's better.  
-این بهتر است.  
+We're going a little later.  
+ما کمی بعد می‌رویم.  
 
-It's better you go together.  
-بهتر است با هم بروید.  
+We want to eat bread and jam.  
+ما می‌خواهیم نان و مربا بخوریم.  
 
-That's a good supermarket.  
-این یک سوپرمارکت خوب است.  
+Do you want to eat something?  
+آیا می‌خواهی چیزی بخوری؟  
 
-That's a better supermarket.  
-این یک سوپرمارکت بهتر است.  
+No, I don't want to eat anything.  
+نه، من نمی‌خواهم چیزی بخورم.  
 
-It's early.  
-زود است.  
+Do you want something to eat?  
+آیا چیزی برای خوردن می‌خواهی؟  
 
-It's a little early.  
-کمی زود است.  
+No, I don't want anything to eat.  
+نه، من چیزی برای خوردن نمی‌خواهم.  
 
-It's early now.  
-الان کمی زود است.  
+Excuse me, sir.  
+ببخشید، آقا.  
 
-We can go much later.  
-ما می‌توانیم خیلی بعد برویم.  
+Do you speak Persian?  
+آیا فارسی صحبت می‌کنید؟  
 
-bread with jam  
-نان با مربا  
+I speak a little Persian.  
+من کمی فارسی صحبت می‌کنم.  
 
-I want some bread with jam.  
-من کمی نان با مربا می‌خواهم.  
+my car  
+ماشین من  
 
-breakfast with bread and jam  
-صبحانه با نان و مربا  
+my English  
+انگلیسی من  
 
-We want to have dinner now.  
-ما می‌خواهیم الآن شام بخوریم.  
+But my English is better than my Persian.  
+اما انگلیسی من بهتر از فارسی من است.  
 
-Do you want to have dinner with me?  
-آیا می‌خواهی با من شام بخوری؟  
+<br>
 
-You speak English very well.  
-تو انگلیسی را خیلی خوب صحبت می‌کنی.  
+## بخش 3: مکالمه نمونه
 
-better than me  
-بهتر از من  
+A: Hello, Behnam. How are you?  
+سلام، بهنام. حالت چطور است؟  
 
-much better than me  
-خیلی بهتر از من  
+B: I'm fine, Elham, thanks. And you?  
+من خوبم، الهام، ممنون. و تو؟  
+
+A: I'm fine, too. Thank you. Do you want to have breakfast with me?  
+من هم خوبم. ممنون. آیا می‌خواهی با من صبحانه بخوری؟  
+
+B: Now or later?  
+الان یا بعداً؟  
+
+A: Not now, a little later. I don't want to eat anything now.  
+الان نه، کمی بعد. من الآن نمی‌خواهم چیزی بخورم.  
+
+B: Okay. But I want to go to a Persian restaurant. I want to have some bread with jam.  
+باشه. اما من می‌خواهم به یک رستوران ایرانی بروم. من می‌خواهم کمی نان با مربا بخورم.  
+
+A: I'm sorry. But I don't want to go to a Persian restaurant now. I want to have some food but not there. We can have something to eat at the restaurant here?  
+متأسفم. اما من الآن نمی‌خواهم به رستوران ایرانی بروم. من می‌خواهم کمی غذا بخورم اما نه آنجا. آیا می‌توانیم چیزی در رستوران اینجا بخوریم؟  
+
+B: Okay. But my car's not at home. Can I go with you?  
+باشه. اما ماشین من در خانه نیست. آیا می‌توانم با تو بیایم؟  
+
+A: Yes, you can. Goodbye.  
+بله، می‌توانی. خداحافظ.  
+
+B: Goodbye.  
+خداحافظ.  
+
+<br>
+
+## بخش 4: جملات کاربردی
+
+Your English is better now.  
+انگلیسی تو الآن بهتر است.  
+
+It's much better.  
+این خیلی بهتر است.  
+
+Your English is much better now.  
+انگلیسی تو الآن خیلی بهتر است.  
 
 You speak much better than me.  
 تو خیلی بهتر از من صحبت می‌کنی.  
 
+much better  
+خیلی بهتر  
+
+much later  
+خیلی بعد  
+
+I want to go to the mall.  
+من می‌خواهم به مرکز خرید بروم.  
+
+but not now  
+اما الآن نه  
+
+much later  
+خیلی بعد  
+
+Do you want to go a little later?  
+آیا می‌خواهی کمی بعد بروی؟  
+
+No, I want to go much later.  
+نه، من می‌خواهم خیلی بعد بروم.  
+
+Tea is much better than coffee.  
+چای خیلی بهتر از قهوه است.  
+
+Your English is good.  
+انگلیسی تو خوب است.  
+
+But your Persian is much better.  
+اما فارسی تو خیلی بهتر است.  
+
+Your English is good, too.  
+انگلیسی تو هم خوب است.  
+
+Where's your house?  
+خانه‌ات کجاست؟  
+
+It's very far.  
+این خیلی دور است.  
+
+It's very good.  
+این خیلی خوب است.  
+
 Your English is very good.  
 انگلیسی تو خیلی خوب است.  
 
-You understand very well.  
-تو خیلی خوب متوجه می‌شوی.  
+I want to go much later.  
+من می‌خواهم خیلی بعد بروم.  
 
-I don't think my English is good.  
-من فکر نمی‌کنم انگلیسی‌ام خوب باشد.  
+Do you want to go with me?  
+آیا می‌خواهی با من بیایی؟  
 
-But I think you speak very well.  
-اما فکر می‌کنم تو خیلی خوب صحبت می‌کنی.  
+Yes, I want to go with you.  
+بله، من می‌خواهم با تو بیایم.  
 
-And you understand very well, too.  
-و تو هم خیلی خوب متوجه می‌شوی.  
+We can go together.  
+ما می‌توانیم با هم برویم.  
 
-You understand much better than me.  
-تو خیلی بهتر از من متوجه می‌شوی.  
+But we can't eat together.  
+اما نمی‌توانیم با هم بخوریم.  
 
-Do you understand English?  
-آیا انگلیسی را متوجه می‌شوی؟  
+I want to eat with my son.  
+من می‌خواهم با پسرَم بخورم.  
 
-I understand a little.  
-من کمی متوجه می‌شوم.  
+but not now, much later  
+اما الآن نه، خیلی بعد  
 
-No, I don't understand English.  
-نه، من انگلیسی را متوجه نمی‌شوم.  
+Your English is much better.  
+انگلیسی تو خیلی بهتر است.  
+
+It's very good now.  
+این الآن خیلی خوب است.  
+
+We can speak English together.  
+ما می‌توانیم با هم انگلیسی صحبت کنیم.  
+
+Do you want to have breakfast now?  
+آیا می‌خواهی الآن صبحانه بخوری؟  
+
+I know a Persian restaurant.  
+من یک رستوران ایرانی می‌شناسم.  
+
+a Persian restaurant  
+یک رستوران ایرانی  
+
+a good restaurant  
+یک رستوران خوب  
 
 a good Persian restaurant  
 یک رستوران ایرانی خوب  
@@ -171,521 +260,324 @@ a good Persian restaurant
 I know a good Persian restaurant.  
 من یک رستوران ایرانی خوب می‌شناسم.  
 
-I'm going with Ali.  
-من با علی می‌روم.  
+But it's very far from here.  
+اما از اینجا خیلی دور است.  
 
-Is Mina going with you, too?  
-آیا مینا هم با تو می‌رود؟  
+Do you want to go now?  
+آیا می‌خواهی الآن بروی؟  
 
-No, Mina's going to the supermarket.  
-نه، مینا به سوپرمارکت می‌رود.  
+No, not now.  
+نه، الآن نه.  
 
-Yes, we're going together.  
-بله، ما با هم می‌رویم.  
+then later  
+بعداً  
+
+I don't want to go now.  
+من نمی‌خواهم الآن بروم.  
+
+We can go later  
+ما می‌توانیم بعداً برویم  
+
+Then we can go later.  
+پس می‌توانیم بعداً برویم.  
+
+I don't want to go with my son.  
+من نمی‌خواهم با پسرَم بروم.  
+
+Then we can go together.  
+پس می‌توانیم با هم برویم.  
+
+Where's your car?  
+ماشینت کجاست؟  
+
+It's not here. It's at home.  
+این اینجا نیست. در خانه است.  
+
+with my car  
+با ماشین من  
+
+Then we can go with my car.  
+پس می‌توانیم با ماشین من برویم.  
+
+But your car is much better.  
+اما ماشین تو خیلی بهتر است.  
 
 Is that your car?  
 آیا این ماشین تو است؟  
 
-No, that's not my car.  
-نه، این ماشین من نیست.  
+Yes, that's my car.  
+بله، این ماشین من است.  
 
-my breakfast  
-صبحانه‌ی من  
+Where's your son?  
+پسرت کجاست؟  
 
-I want to eat my breakfast now.  
-من می‌خواهم الآن صبحانه‌ام را بخورم.  
+My son is there.  
+پسر من آنجاست.  
 
-Can you eat your breakfast later?  
-آیا می‌توانی صبحانه‌ات را بعداً بخوری؟  
+My son's there.  
+پسر من آنجاست.  
 
-Yes, I can.  
-بله، می‌توانم.  
+where?  
+کجا؟  
 
-Do you know Ali?  
-آیا علی را می‌شناسی؟  
+That's my son.  
+این پسر من است.  
 
-a good Persian restaurant  
-یک رستوران ایرانی خوب  
+We want to eat something together.  
+ما می‌خواهیم با هم چیزی بخوریم.  
 
-Do you know a good Persian restaurant?  
-آیا یک رستوران ایرانی خوب می‌شناسی؟  
+We want to have breakfast together.  
+ما می‌خواهیم با هم صبحانه بخوریم.  
 
-No, I'm sorry.  
-نه، متأسفم.  
+That's my car.  
+این ماشین من است.  
 
-I'm not from here.  
-من اهل اینجا نیستم.  
+Where's yours?  
+مال تو کجاست؟  
 
-That's your car.  
-این ماشین تو است.  
-
-That's yours.  
-این مال تو است.  
-
-Is that yours, too?  
-آیا این هم مال تو است؟  
-
-No, that's not mine.  
-نه، این مال من نیست.  
-
-mine  
-مال من  
-
-yours  
-مال تو  
-
-That's mine.  
-این مال من است.  
-
-That's not mine.  
-این مال من نیست.  
-
-That's yours.  
-این مال تو است.  
+Is that your car?  
+آیا این ماشین تو است؟  
 
 Is that yours?  
 آیا این مال تو است؟  
 
-Is that mine?  
-آیا این مال من است؟  
+Is it yours?  
+آیا این مال تو است؟  
 
-Excuse me. Is that your tea?  
-ببخشید. آیا این چای تو است؟  
+Yes, that's my car.  
+بله، این ماشین من است.  
 
-No, that's not mine.  
-نه، این مال من نیست.  
+Then we can go with yours.  
+پس می‌توانیم با مال تو برویم.  
 
-I think it's yours.  
-فکر می‌کنم مال تو است.  
+Yours is very far.  
+مال تو خیلی دور است.  
 
-I want to have dinner with you.  
-من می‌خواهم با تو شام بخورم.  
+Then we can go together.  
+پس می‌توانیم با هم برویم.  
 
-with whom? with me?  
-با چه کسی؟ با من؟  
+I know a good Persian restaurant.  
+من یک رستوران ایرانی خوب می‌شناسم.  
 
-Yes, with you.  
-بله، با تو.  
+very good  
+خیلی خوب  
 
-at the Persian restaurant  
-در رستوران ایرانی  
+I know a very good Persian restaurant.  
+من یک رستوران ایرانی خیلی خوب می‌شناسم.  
 
-Where's that?  
-آن کجاست؟  
+But I know a better restaurant.  
+اما من یک رستوران بهتر می‌شناسم.  
 
-Where's the Persian restaurant?  
-رستوران ایرانی کجاست؟  
+much better  
+خیلی بهتر  
 
-avenue  
-بلوار  
+I know a much better restaurant.  
+من یک رستوران خیلی بهتر می‌شناسم.  
 
-Sunset Avenue  
-بلوار سانست  
+But it's very far from here.  
+اما از اینجا خیلی دور است.  
 
-Where's Sunset Avenue?  
-بلوار سانست کجاست؟  
+Do you want to go now?  
+آیا می‌خواهی الآن بروی؟  
 
-Where's Bundy Avenue?  
-بلوار باندی کجاست؟  
+It's early.  
+زود است.  
 
-Bundy Avenue is there.  
-بلوار باندی آنجاست.  
+I want to go a little later.  
+من می‌خواهم کمی بعد بروم.  
 
-It's there.  
-این آنجاست.  
+It's a little early now.  
+الان کمی زود است.  
 
-street  
-خیابان  
+Then when do you want to go?  
+پس کی می‌خواهی بروی؟  
 
-Main Street  
-خیابان اصلی  
+I want to go much Later.  
+من می‌خواهم خیلی بعد بروم.  
 
-Where's Main Street?  
-خیابان اصلی کجاست؟  
+Is that a restaurant?  
+آیا این یک رستوران است؟  
 
-I don't know.  
-من نمی‌دانم.  
+No, that's a house.  
+نه، این یک خانه است.  
 
-Excuse me, sir. Where's Main Street?  
-ببخشید، آقا. خیابان اصلی کجاست؟  
+Do you want to have breakfast together?  
+آیا می‌خواهید با هم صبحانه بخورید؟  
 
-I'm sorry, ma'am. I don't live here.  
-متأسفم، خانم. من اینجا زندگی نمی‌کنم.  
+I want to have lunch.  
+من می‌خواهم ناهار بخورم.  
 
-I'm not from here.  
-من اهل اینجا نیستم.  
+lunch  
+ناهار  
 
-Main Street's here.  
-خیابان اصلی اینجاست.  
+Do you want to have lunch together?  
+آیا می‌خواهید با هم ناهار بخورید؟  
 
-Where's the Persian supermarket?  
-سوپرمارکت ایرانی کجاست؟  
+No, it's early.  
+نه، زود است.  
 
-It's on Main Street.  
-این در خیابان اصلی است.  
+I want to have lunch.  
+من می‌خواهم ناهار بخورم.  
 
-The Persian supermarket is on Main Street.  
-سوپرمارکت ایرانی در خیابان اصلی است.  
+Then we can have lunch at my house.  
+پس می‌توانیم در خانه‌ی من ناهار بخوریم.  
 
-Is it on Main Street or on Bundy Street?  
-آیا در خیابان اصلی است یا خیابان باندی؟  
+Is that your car?  
+آیا این ماشین تو است؟  
 
-on Bundy Street  
-در خیابان باندی  
+Is that yours?  
+آیا این مال تو است؟  
 
-I live on Main Street.  
-من در خیابان اصلی زندگی می‌کنم.  
+Is it yours?  
+آیا این مال تو است؟  
 
-You're not very far.  
-تو خیلی دور نیستی.  
+Yes, that's my car.  
+بله، این ماشین من است.  
 
-Then you're not very far from the mall.  
-پس تو از مرکز خرید خیلی دور نیستی.  
+Where's yours?  
+مال تو کجاست؟  
 
-The mall's on Main Street, too.  
-مرکز خرید هم در خیابان اصلی است.  
+My car's at home.  
+ماشین من در خانه است.  
 
-I know that.  
-من این را می‌دانم.  
+Then we can go with yours.  
+پس می‌توانیم با مال تو برویم.  
 
-Do you want to have lunch with me?  
-آیا می‌خواهی با من ناهار بخوری؟  
+Then we can have lunch later.  
+پس می‌توانیم بعداً ناهار بخوریم.  
 
-when? today?  
-کی؟ امروز؟  
+Your English is very good now.  
+انگلیسی تو الآن خیلی خوب است.  
 
-Yes, today.  
-بله، امروز.  
+You speak very well.  
+تو خیلی خوب صحبت می‌کنی.  
 
-not today  
-امروز نه  
+That Persian restaurant is very good.  
+آن رستوران ایرانی خیلی خوب است.  
 
-We can go tomorrow.  
-ما می‌توانیم فردا برویم.  
+You speak English very well.  
+تو انگلیسی را خیلی خوب صحبت می‌کنی.  
 
-tomorrow  
-فردا  
+I understand very well.  
+من خیلی خوب متوجه می‌شوم.  
 
-We can go tomorrow.  
-ما می‌توانیم فردا برویم.  
+I understand much better now.  
+من الآن خیلی بهتر متوجه می‌شوم.  
 
-not now  
-الان نه  
+Do you understand me?  
+آیا مرا متوجه می‌شوی؟  
 
-not tomorrow  
-فردا نه  
+No, I can't understand you.  
+نه، من نمی‌توانم تو را متوجه شوم.  
 
-but today  
-اما امروز  
-
-We can go later.  
-ما می‌توانیم بعداً برویم.  
-
-I want to eat something.  
-من می‌خواهم چیزی بخورم.  
-
-I would like.  
-من می‌خواهم.  
-
-I want.  
-من می‌خواهم.  
-
-I would like.  
-من می‌خواهم.  
-
-I want to drink something.  
-من می‌خواهم چیزی بنوشم.  
-
-I would like to drink something.  
-من می‌خواهم چیزی بنوشم.  
-
-You would like to drink something.  
-تو می‌خواهی چیزی بنوشی.  
-
-Would you like to drink something?  
-آیا می‌خواهی چیزی بنوشی؟  
-
-I would like to go there.  
-من می‌خواهم به آنجا بروم.  
-
-I would like to eat something.  
-من می‌خواهم چیزی بخورم.  
-
-Would you like to eat something?  
-آیا می‌خواهی چیزی بخوری؟  
-
-No, thank you.  
-نه، ممنون.  
-
-Would you like to drink something?  
-آیا می‌خواهی چیزی بنوشی؟  
-
-Yes, please.  
-بله، لطفاً.  
-
-tea or coffee?  
-چای یا قهوه؟  
-
-Tea's fine.  
-چای خوب است.  
-
-I don't drink coffee.  
-من قهوه نمی‌نوشم.  
-
-Would you like to drink coffee?  
-آیا می‌خواهی قهوه بنوشی؟  
-
-Yes, please.  
-بله، لطفاً.  
-
-Would you like to go to Main Avenue?  
-آیا می‌خواهی به بلوار اصلی بروی؟  
-
-Yes, I would like to go there.  
-بله، من می‌خواهم به آنجا بروم.  
-
-I would like.  
-من می‌خواهم.  
-
-I'd like.  
-من می‌خواهم.  
-
-I'd like to eat something.  
-من می‌خواهم چیزی بخورم.  
-
-at the restaurant on Main Street.  
-در رستوران در خیابان اصلی.  
-
-I'd like to drink something.  
-من می‌خواهم چیزی بنوشم.  
-
-I would like to drink something.  
-من می‌خواهم چیزی بنوشم.  
-
-Would you like to drink something?  
-آیا می‌خواهی چیزی بنوشی؟  
-
-not now, a little later  
-الان نه، کمی بعد  
-
-I want to have dinner now.  
-من می‌خواهم الآن شام بخورم.  
-
-I'd like to have dinner now.  
-من می‌خواهم الآن شام بخورم.  
-
-When do you want to have lunch?  
-کی می‌خواهی ناهار بخوری؟  
-
-When would you like to have lunch?  
-کی می‌خواهی ناهار بخوری؟  
-
-I'd like to go to a restaurant.  
-من می‌خواهم به رستوران بروم.  
-
-when?  
-کی؟  
-
-tomorrow  
-فردا  
-
-What would you like to eat there?  
-چه می‌خواهی آنجا بخوری؟  
-
-rice  
-برنج  
-
-<br>
-
-## بخش 3: مکالمه نمونه
-
-A: Jim, can we go to a restaurant together?  
-جیم، آیا می‌توانیم با هم به رستوران برویم؟  
-
-B: When? Today?  
-کی؟ امروز؟  
-
-A: Yes, today.  
-بله، امروز.  
-
-B: I can't go today, but we can go tomorrow. Where would you like to go?  
-من امروز نمی‌توانم بروم، اما می‌توانیم فردا برویم. کجا می‌خواهی بروی؟  
-
-A: I'd like to go to a Persian restaurant.  
-من می‌خواهم به یک رستوران ایرانی بروم.  
-
-B: A Persian restaurant?  
-یک رستوران ایرانی؟  
-
-A: Yes, I know a very good Persian restaurant on Bundy Avenue.  
-بله، من یک رستوران ایرانی خیلی خوب در بلوار باندی می‌شناسم.  
-
-B: I know a Persian restaurant on Main Street.  
-من یک رستوران ایرانی در خیابان اصلی می‌شناسم.  
-
-A: Is it very far from here?  
-آیا از اینجا خیلی دور است؟  
-
-B: No, it's not far from here.  
-نه، از اینجا دور نیست.  
-
-A: What would you like to eat there?  
-چه می‌خواهی آنجا بخوری؟  
-
-B: I'd like to eat rice with kebab.  
-من می‌خواهم برنج با کباب بخورم.  
-
-A: What's kebab?  
-کباب چیست؟  
-
-B: Kebab's a Persian food.  
-کباب یک غذای ایرانی است.  
-
-A: Jim, what would you like to drink now?  
-جیم، الآن چه می‌خواهی بنوشی؟  
-
-B: Do you have tea?  
-آیا چای داری؟  
-
-A: I'm sorry. I don't have tea, but I have coffee.  
-متأسفم. من چای ندارم، اما قهوه دارم.  
-
-B: Coffee's fine, thank you.  
-قهوه خوب است، ممنون.  
-
-A: You're welcome.  
-خواهش می‌کنم.  
-
-<br>
-
-## بخش 4: جملات کاربردی
-
-I would like.  
-من می‌خواهم.  
-
-We would like.  
-ما می‌خواهیم.  
-
-We would like to buy a house.  
-ما می‌خواهیم یک خانه بخریم.  
-
-We'd like to buy a house.  
-ما می‌خواهیم یک خانه بخریم.  
-
-Excuse me, Miss.  
-ببخشید، خانم.  
-
-Excuse me, Miss. Where's Main Street?  
-ببخشید، خانم. خیابان اصلی کجاست؟  
-
-Excuse me, ma'am. Where's Main Street?  
-ببخشید، خانم. خیابان اصلی کجاست؟  
-
-Excuse me. Do you understand Persian?  
-ببخشید. آیا فارسی را متوجه می‌شوید؟  
-
-No, I'm sorry.  
-نه، متأسفم.  
-
-But I understand English.  
-اما من انگلیسی را متوجه می‌شوم.  
-
-I'm American.  
-من آمریکایی هستم.  
-
-American  
-آمریکایی  
-
-a Persian restaurant  
-یک رستوران ایرانی  
-
-an American restaurant  
-یک رستوران آمریکایی  
-
-an American  
-یک آمریکایی  
-
-a restaurant  
-یک رستوران  
-
-an American restaurant  
-یک رستوران آمریکایی  
+I don't understand you very well.  
+من تو را خیلی خوب متوجه نمی‌شوم.  
 
 <br>
 
 ## بخش 5: کلمات کلیدی
 
+good  
+خوب  
+
+very good  
+خیلی خوب  
+
+together  
+با هم  
+
+then  
+پس  
+
+that  
+آن  
+
+Is that yours?  
+آیا این مال تو است؟  
+
+early  
+زود  
+
+very well  
+خیلی خوب  
+
+dinner  
+شام  
+
+understand  
+متوجه شدن  
+
 speak  
 صحبت کردن  
 
-street  
-خیابان  
+store  
+فروشگاه  
 
-avenue  
-بلوار  
+stand  
+ایستادن  
 
-tomorrow  
-فردا  
-
-I would like.  
-من می‌خواهم.  
-
-I'd like.  
-من می‌خواهم.  
-
-We would like.  
-ما می‌خواهیم.  
-
-We'd like.  
-ما می‌خواهیم.  
-
-Excuse me, Miss.  
-ببخشید، خانم.  
-
-American  
-آمریکایی  
+understand  
+متوجه شدن  
 
 <br>
 
 ## بخش 6: سوالات و جواب‌ها
 
-a car  
-یک ماشین  
+Do you want to have lunch together?  
+آیا می‌خواهید با هم ناهار بخورید؟  
 
-an American car  
-یک ماشین آمریکایی  
+I want to have dinner.  
+من می‌خواهم شام بخورم.  
 
-I'd like to buy an American car.  
-من می‌خواهم یک ماشین آمریکایی بخرم.  
+but not now, much later  
+اما الآن نه، خیلی بعد  
 
-Sir, would you like to drink something?  
-آقا، آیا می‌خواهید چیزی بنوشید؟  
+Then we can have dinner later.  
+پس می‌توانیم بعداً شام بخوریم.  
 
-Yes, please.  
-بله، لطفاً.  
+Do you want to have lunch now?  
+آیا می‌خواهید الآن ناهار بخورید؟  
 
-What would you like to drink?  
-چه می‌خواهید بنوشید؟  
+No, thanks.  
+نه، ممنون.  
 
-some Pepsi, please  
-کمی پپسی، لطفاً  
+No, thank you.  
+نه، ممنون.  
 
-is Coke okay?  
-آیا کوکا خوب است؟  
+It's early.  
+زود است.  
 
-Yes, Coke's fine. Thanks.  
-بله، کوکا خوب است. ممنون.  
+What do you want to eat?  
+چه می‌خواهی بخوری؟  
 
-We don't have tea.  
-ما چای نداریم.  
+Do you want to have lunch now?  
+آیا می‌خواهی الآن ناهار بخوری؟  
 
-Is coffee okay?  
-آیا قهوه خوب است؟  
+Or do you want to have dinner?  
+یا می‌خواهی شام بخوری؟  
 
-No, thanks. I don't drink coffee.  
-نه، ممنون. من قهوه نمی‌نوشم.  
+I don't understand you very well.  
+من تو را خیلی خوب متوجه نمی‌شوم.  
 
+It's early.  
+زود است.  
+
+something to eat.  
+چیزی برای خوردن  
+
+to have dinner  
+شام خوردن  
+
+It's early to have dinner.  
+برای شام خوردن زود است.  
+
+We can have lunch now.  
+ما می‌توانیم الآن ناهار بخوریم.  
+
+And we can have dinner together.  
+و می‌توانیم با هم شام بخوریم.  
 
 <br>
 
-## پایان درس دهم 
+
+## پایان درس دهم
