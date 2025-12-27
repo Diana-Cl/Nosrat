@@ -1,20 +1,16 @@
 {
-  "name": "nosrat-learning",
+  "name": "language-learning",
   "version": "1.0.0",
-  "description": "Simple language learning site",
-  "type": "module",
+  "description": "Simple language learning course",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "preview": "vitepress preview docs",
     "deploy": "npm run build && gh-pages -d docs/.vitepress/dist"
   },
-  "keywords": [
-    "english",
-    "learning-language"
-  ],
   "author": "Diana",
   "license": "ISC",
+  "type": "module",
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "vitepress": "^1.6.3",

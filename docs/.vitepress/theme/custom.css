@@ -1,49 +1,16 @@
-/* تنظیم فونت وزیر برای کل سایت */
 :root {
-  --vp-font-family-base: "Vazirmatn", system-ui, sans-serif;
-  --vp-font-family-mono: "Vazirmatn", monospace;
+  --vp-font-family-base:
+    'Vazirmatn', 'Inter', ui-sans-serif, system-ui, sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 }
 
-/* استایل زیبای بخش هیرو (گرادینت نام سایت) */
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: linear-gradient(135deg, #5f67ee 0%, #3dd1ff 100%);
-}
-
-/* جهت متن برای کل سایت فارسی باشد */
-body {
-  direction: rtl;
-  text-align: right;
-}
-
-/* --- ابزارهای مخصوص آموزش زبان --- */
-
-/* کلاس برای جملات یا کلمات انگلیسی لابلای متن فارسی */
-.en {
-  direction: ltr;
-  display: inline-block;
-  font-family: sans-serif; /* فونت انگلیسی ساده */
-}
-
-/* کلاس برای یک پاراگراف کامل انگلیسی یا تمرینات */
-.ltr-block {
-  direction: ltr;
-  text-align: left;
-  background: var(--vp-c-bg-soft); /* یک پس‌زمینه ملایم */
-  padding: 15px;
-  border-radius: 8px;
-  border-left: 4px solid var(--vp-c-brand);
-  margin: 10px 0;
-}
-
-/* کدها همیشه از چپ به راست باشند */
 :is(pre, code) {
   direction: ltr;
   text-align: left;
+  font-family: 'Cascadia Code', 'Fira Code', monospace;
 }
 
-/* تنظیم فاصله سایدبار برای زبان فارسی */
-.VPSidebarItem.level-0 {
-  padding-right: 16px;
-  padding-left: 0;
+.ltr {
+  direction: ltr;
+  text-align: left;
 }

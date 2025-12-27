@@ -19,11 +19,12 @@ head:
 # درس چهاردهم
 > آموزش زبان انگلیسی نصرت
 
-
-<br/> <br/>
+<br/>
 
 
 ## بخش 1: جملات پایه
+
+<div dir="ltr">
 
 I want to borrow some money.
 من می‌خواهم کمی پول قرض بگیرم.
@@ -67,7 +68,7 @@ thanks anyway
 We have more money than you.
 ما پول بیشتری از تو داریم.
 
-<br/>
+<hr/><br/>
 
 ## بخش 2: سوالات و جواب‌ها
 
@@ -299,62 +300,62 @@ I don't have any cash.
 I can give you some cash.
 من می‌توانم به تو کمی پول نقد بدهم.
 
-<br/>
+<hr/><br/>
 
 ## بخش 3: مکالمه نمونه
 
-A: Hello, Mina. How are you?
-سلام، مینا. حالت چطور است؟
+A: Hello, Mina. How are you?  
+سلام، مینا. حالت چطور است؟  
 
-B: I'm fine, Sahar. Thanks. And you?
-من خوبم، سحر. ممنون. و تو؟
+B: I'm fine, Sahar. Thanks. And you?  
+من خوبم، سحر. ممنون. و تو؟  
 
-A: I'm fine, too. Thank you. What are you doing here Mina?
-من هم خوبم. ممنون. مینا، اینجا چه کار می‌کنی؟
+A: I'm fine, too. Thank you. What are you doing here Mina?  
+من هم خوبم. ممنون. مینا، اینجا چه کار می‌کنی؟  
 
-B: I want to buy a book.
-من می‌خواهم یک کتاب بخرم.
+B: I want to buy a book.  
+من می‌خواهم یک کتاب بخرم.  
 
-A: Do you want to buy it now?
-آیا می‌خواهی الآن آن را بخری؟
+A: Do you want to buy it now?  
+آیا می‌خواهی الآن آن را بخری؟  
 
-B: Yes, but I don't have any money with me. Can I borrow some money from you?
-بله، اما من هیچ پولی همراه ندارم. آیا می‌توانم کمی پول از تو قرض بگیرم؟
+B: Yes, but I don't have any money with me. Can I borrow some money from you?  
+بله، اما من هیچ پولی همراه ندارم. آیا می‌توانم کمی پول از تو قرض بگیرم؟  
 
-A: I'm sorry. I don't have any cash with me.
-متأسفم. من هیچ پول نقدی همراه ندارم.
+A: I'm sorry. I don't have any cash with me.  
+متأسفم. من هیچ پول نقدی همراه ندارم.  
 
-B: That's okay. I can buy it tomorrow.
-اشکالی ندارد. من می‌توانم فردا آن را بخرم.
+B: That's okay. I can buy it tomorrow.  
+اشکالی ندارد. من می‌توانم فردا آن را بخرم.  
 
-A: I'd like to have dinner with you Mina.
-من می‌خواهم با تو شام بخورم، مینا.
+A: I'd like to have dinner with you Mina.  
+من می‌خواهم با تو شام بخورم، مینا.  
 
-B: Okay, but when?
-باشه، اما کی؟
+B: Okay, but when?  
+باشه، اما کی؟  
 
-A: Tonight.
-امشب.
+A: Tonight.  
+امشب.  
 
-B: I can't tonight. I have to go to the mall tonight, but we can have lunch tomorrow.
-من امشب نمی‌توانم. من امشب باید به مرکز خرید بروم، اما می‌توانیم فردا ناهار بخوریم.
+B: I can't tonight. I have to go to the mall tonight, but we can have lunch tomorrow.  
+من امشب نمی‌توانم. من امشب باید به مرکز خرید بروم، اما می‌توانیم فردا ناهار بخوریم.  
 
-A: All right. Tomorrow is fine.
-خیلی خوب. فردا خوب است.
+A: All right. Tomorrow is fine.  
+خیلی خوب. فردا خوب است.  
 
-B: Do you know a good, Persian restaurant?
-آیا یک رستوران ایرانی خوب می‌شناسی؟
+B: Do you know a good, Persian restaurant?  
+آیا یک رستوران ایرانی خوب می‌شناسی؟  
 
-A: Yes, I know a good restaurant on Bundy Avenue.
-بله، من یک رستوران خوب در بلوار باندی می‌شناسم.
+A: Yes, I know a good restaurant on Bundy Avenue.  
+بله، من یک رستوران خوب در بلوار باندی می‌شناسم.  
 
-B: All right. Goodbye.
-خیلی خوب. خداحافظ.
+B: All right. Goodbye.  
+خیلی خوب. خداحافظ.  
 
-A: Goodbye.
-خداحافظ.
+A: Goodbye.  
+خداحافظ.  
 
-<br/>
+<hr/><br/>
 
 ## بخش 4: جملات کاربردی
 
@@ -634,7 +635,7 @@ We need some bread.
 all right
 خیلی خوب
 
-<br/>
+<hr/><br/>
 
 ## بخش 5: کلمات کلیدی
 
@@ -653,7 +654,7 @@ I need it.
 dollar
 دلار
 
-<br/>
+<hr/><br/>
 
 ## بخش 6: سوالات و جواب‌ها
 
@@ -685,8 +686,7 @@ I need some more money.
 من به پول بیشتری نیاز دارم.
 
 
-<br/>
-
+</div>
 
 
 ::: tip پایان درس چهاردهم
