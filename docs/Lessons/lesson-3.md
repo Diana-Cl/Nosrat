@@ -19,10 +19,12 @@ head:
 # درس سوم
 > آموزش زبان انگلیسی نصرت
 
+
 <br/><br/>
 
 
 <hr/><br/>
+
 
 
 please
@@ -67,6 +69,7 @@ We're from Iran.
 
 
 <hr/><br/>
+
 
 
 tea
@@ -518,6 +521,7 @@ I don't think.
 
 <hr/><br/>
 
+
 A: Ali, do you want some coffee?
 A: علی، یک مقدار قهوه می‌خواهی؟
 
@@ -560,6 +564,7 @@ B: بله، من فکر می‌کنم بهتر از تو صحبت می‌کنم.
 <hr/><br/>
 
 
+
 You speak English.
 تو انگلیسی صحبت می‌کنی.
 
@@ -594,6 +599,7 @@ No, I'm not from Canada.
 
 <hr/><br/>
 
+
 please
 لطفا
 
@@ -614,6 +620,7 @@ We are.
 
 
 <hr/><br/>
+
 
 
 Know.
@@ -750,6 +757,8 @@ You're welcome.
 خواهش می‌کنم.
 
 <hr/><br/>
+
+
 
 ::: tip پایان درس سوم
 

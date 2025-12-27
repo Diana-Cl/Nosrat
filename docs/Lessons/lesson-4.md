@@ -19,10 +19,12 @@ head:
 # درس چهارم
 > آموزش زبان انگلیسی نصرت
 
+
 <br/><br/>
 
 
 <hr/><br/>
+
 
 
 here
@@ -71,6 +73,7 @@ goodbye
 خداحافظ
 
 <hr/><br/>
+
 
 I want some tea.
 من مقداری چای می‌خواهم.
@@ -152,6 +155,7 @@ I want some coffee, please.
 
 <hr/><br/>
 
+
 A: Hello, George. How are you?
 A: سلام، جورج. حالت چطوره؟
 
@@ -180,6 +184,7 @@ A: I'm from Iran, too, and I speak English better than Persian.
 A: من هم از ایران هستم و انگلیسی را بهتر از فارسی صحبت می‌کنم.
 
 <hr/><br/>
+
 
 I speak Persian.
 من فارسی صحبت می‌کنم.
@@ -558,6 +563,7 @@ goodbye
 
 <hr/><br/>
 
+
 live
 زندگی کردن
 
@@ -604,6 +610,7 @@ goodbye
 خداحافظ
 
 <hr/><br/>
+
 
 I'm at home.
 من در خانه هستم.
@@ -672,6 +679,8 @@ We're not going to the mall.
 ما داریم به مرکز خرید نمی‌رویم.
 
 <hr/><br/>
+
+
 
 ::: tip پایان درس چهارم
 
