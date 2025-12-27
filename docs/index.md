@@ -9,15 +9,12 @@ hero:
   name: "آموزش زبان نصرت"
   text: "یادگیری سریع و آسان زبان انگلیسی"
   tagline: "متد مرتضی نصرت، ساده، کاربردی و همیشه در دسترس"
-  image:
-    src: /logo-h.svg
-    alt: آموزش زبان
   actions:
     - theme: brand
-      text: شروع از درس اول
+      text: شروع یادگیری
       link: /Lessons/lesson-1
     - theme: alt
-      text: مشاهده در گیت‌هاب
+      text: گروه ما در تلگرام
       link: https://github.com/Diana-Cl/Nosrat
 
 features:

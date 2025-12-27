@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress';
-import './custom.css';
 
 export default defineConfig({
   lang: 'fa-IR',
