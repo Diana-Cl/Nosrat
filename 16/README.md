@@ -1,82 +1,82 @@
 > [!NOTE]
-> ### درس شانزدهم آموزش زبان انگلیسی نصرت
->
 > 
+> ## درس شانزدهم
+> 
+> آموزش زبان انگلیسی نصرت
 
-<br><br>
+<br/>
 
-
-## بخش 1: جملات پایه
+## بخش ۱: جملات پایه
 
 I have thirteen dollars.  
 من سیزده دلار دارم.  
 
-fourteen  
-چهارده  
+Fourteen.  
+چهارده.  
 
 Where's my wallet?  
-کیف پول من کجاست؟  
+کیف پولم کجاست؟  
 
 It's on the floor.  
-این روی زمین است.  
+روی زمینه.  
 
 You owe me fourteen dollars.  
-تو به من چهارده دلار بدهکاری.  
+تو بهم چهارده دلار بدهکاری.  
 
 How much do I owe you?  
-چقدر به تو بدهکارم؟  
+چقدر بهت بدهکارم؟  
 
 You don't owe me anything.  
-تو به من چیزی بدهکار نیستی.  
+هیچی به من بدهکار نیستی.  
 
 Who is that?  
-این کیست؟  
+اون کیه؟  
 
 That's my daughter.  
-این دختر من است.  
+اون دخترمه.  
 
 That's my husband.  
-این شوهر من است.  
+اون شوهرمه.  
 
 He's in Iran now.  
-او الآن در ایران است.  
+اون الان تو ایرانه.  
 
 He wants some tea.  
-او کمی چای می‌خواهد.  
+اون کمی چای می‌خواد.  
 
 Is he your husband?  
-آیا او شوهر تو است؟  
+آیا اون شوهر شماست؟  
 
-<br>
+<hr/><br/>
 
-## بخش 2: سوالات و جواب‌ها
+## بخش ۲: ادامه جملات
 
 I want to buy it.  
-من می‌خواهم آن را بخرم.  
+می‌خوام بخرمش.  
 
 I don't have any money.  
 من هیچ پولی ندارم.  
 
 I can't buy it.  
-من نمی‌توانم آن را بخرم.  
+نمی‌تونم بخرمش.  
 
 I need eleven dollars.  
-من به یازده دلار نیاز دارم.  
+من یازده دلار احتیاج دارم.  
 
 I want to give you twelve dollars.  
-من می‌خواهم به تو دوازده دلار بدهم.  
+می‌خوام دوازده دلار بهت بدم.  
 
 Thanks a lot.  
 خیلی ممنون.  
 
 I'm going to have dinner now.  
-من می‌خواهم الآن شام بخورم.  
+الان دارم شام می‌خورم.  
 
 It's too early.  
-خیلی زود است.  
+خیلی زوده.  
 
 I have a lot of money.  
-من پول زیادی دارم.  
+من یه عالمه پول دارم.  
 
 How much money do you have?  
 چقدر پول داری؟  
@@ -85,527 +85,376 @@ I have twelve dollars.
 من دوازده دلار دارم.  
 
 That's not a lot.  
-این زیاد نیست.  
+اون خیلی نیست.  
 
 We need more money.  
-ما به پول بیشتری نیاز داریم.  
+ما پول بیشتری لازم داریم.  
 
 Maybe we can borrow some money.  
-شاید بتوانیم کمی پول قرض بگیریم.  
+شاید بتونیم کمی پول قرض کنیم.  
 
 Can we go to the supermarket now?  
-آیا می‌توانیم الآن به سوپرمارکت برویم؟  
+می‌تونیم الان بریم سوپرمارکت؟  
 
 No, it's too late now.  
-نه، الآن خیلی دیر شده است.  
+نه، الان خیلی دیره.  
 
 We can go tomorrow.  
-ما می‌توانیم فردا برویم.  
+می‌تونیم فردا بریم.  
 
 But we're going to go to Canada tomorrow.  
-اما ما فردا به کانادا می‌رویم.  
+ولی ما فردا داریم می‌ریم کانادا.  
 
 We're going to Canada tomorrow night.  
-ما فردا شب به کانادا می‌رویم.  
+ما فرداشب داریم می‌ریم کانادا.  
 
-all right  
-خیلی خوب  
+All right.  
+باشه.  
+
+<hr/><br/>
+
+## بخش ۳: سوالات و عبارات
 
 Excuse me. How much is a coffee?  
-ببخشید. قیمت یک قهوه چقدر است؟  
+ببخشید، یه قهوه چنده؟  
 
 It's seven dollars.  
-هفت دلار است.  
+هفت دلاره.  
 
 That's too much.  
-این خیلی زیاد است.  
+اون خیلی زیاده.  
 
 Excuse me, ma'am.  
-ببخشید، خانم.  
+ببخشید خانم.  
 
 Do you know where Sunset Avenue is?  
-آیا می‌دانید بلوار سانست کجاست؟  
+می‌دونید خیابون سانست کجاست؟  
 
 Yes, I do.  
-بله، می‌دانم.  
+آره.  
 
 No, I don't.  
-نه، نمی‌دانم.  
+نه.  
 
 How much?  
 چقدر؟  
 
 How much do you want to borrow?  
-چقدر می‌خواهی قرض بگیری؟  
+چقدر می‌خوای قرض کنی؟  
 
 I have to borrow a lot of money.  
-من باید پول زیادی قرض بگیرم.  
-
-You owe.  
-تو بدهکار هستی.  
+من باید یه عالمه پول قرض کنم.  
 
 You owe me.  
-تو به من بدهکار هستی.  
-
-You want some Pepsi.  
-تو کمی پپسی می‌خواهی.  
-
-Do you want some Pepsi?  
-آیا کمی پپسی می‌خواهی؟  
-
-some money  
-کمی پول  
+تو به من بدهکاری.  
 
 You owe me some money.  
-تو به من کمی پول بدهکار هستی.  
+تو به من کمی پول بدهکاری.  
 
 Do you owe me some money?  
-آیا به من کمی پول بدهکار هستی؟  
+آیا تو به من کمی پول بدهکاری؟  
 
 I don't understand you.  
-من تو را متوجه نمی‌شوم.  
-
-I don't owe you.  
-من به تو بدهکار نیستم.  
+من حرفتو نمی‌فهمم.  
 
 I don't owe you anything.  
-من به تو چیزی بدهکار نیستم.  
+من هیچی به تو بدهکار نیستم.  
 
 Are you sure?  
-آیا مطمئنی؟  
+مطمئنی؟  
 
 Yes, I'm sure.  
-بله، مطمئنم.  
+آره، مطمئنم.  
+
+<hr/><br/>
+
+## بخش ۴: بدهکاری و اعداد
 
 Do you owe me?  
-آیا به من بدهکار هستی؟  
+آیا به من بدهکاری؟  
 
 No, I don't owe you.  
 نه، من به تو بدهکار نیستم.  
 
 Yes, I owe you a lot.  
-بله، من به تو خیلی بدهکار هستم.  
+آره، من خیلی بهت بدهکارم.  
 
 How much?  
 چقدر؟  
 
 How much do you owe me?  
-چقدر به من بدهکار هستی؟  
+چقدر به من بدهکاری؟  
 
-thirteen dollars  
-سیزده دلار  
-
-You owe me.  
-تو به من بدهکار هستی.  
+Thirteen dollars.  
+سیزده دلار.  
 
 You owe me thirteen dollars.  
-تو به من سیزده دلار بدهکار هستی.  
+تو به من سیزده دلار بدهکاری.  
 
 Are you sure?  
-آیا مطمئنی؟  
+مطمئنی؟  
 
 Yes, I am.  
-بله، هستم.  
+آره.  
 
 Here's a dollar.  
-این یک دلار است.  
+بفرما یه دلار.  
 
 How much do I owe you?  
-چقدر به تو بدهکارم؟  
+چقدر بهت بدهکارم؟  
 
 You owe me thirteen dollars.  
-تو به من سیزده دلار بدهکار هستی.  
+تو به من سیزده دلار بدهکاری.  
 
 I don't owe you thirteen dollars.  
 من به تو سیزده دلار بدهکار نیستم.  
 
 Then how much do you owe me?  
-پس چقدر به من بدهکار هستی؟  
+پس چقدر به من بدهکاری؟  
 
-only  
-فقط  
+Only four dollars.  
+فقط چهار دلار.  
 
-only four dollars  
-فقط چهار دلار  
+Or maybe five dollars.  
+یا شاید پنج دلار.  
 
-or maybe five dollars  
-یا شاید پنج دلار  
+<hr/><br/>
 
-How much do you owe me?  
-چقدر به من بدهکار هستی؟  
+## بخش ۵: کیف پول و مکان‌ها
 
-twelve dollars  
-دوازده دلار  
+Wallet.  
+کیف پول.  
 
-only twelve dollars  
-فقط دوازده دلار  
+Your wallet.  
+کیف پولت.  
 
-I owe you nine dollars.  
-من به تو نه دلار بدهکار هستم.  
-
-I only have three dollars.  
-من فقط سه دلار دارم.  
-
-I only owe you three dollars.  
-من فقط سه دلار به تو بدهکار هستم.  
-
-how much?  
-چقدر؟  
-
-How much do you owe me?  
-چقدر به من بدهکار هستی؟  
-
-only three dollars  
-فقط سه دلار  
-
-How much do you owe me?  
-چقدر به من بدهکار هستی؟  
-
-How much do I owe you?  
-چقدر به تو بدهکارم؟  
-
-six dollars  
-شش دلار  
-
-Do you owe me thirteen dollars?  
-آیا به من سیزده دلار بدهکار هستی؟  
-
-No, I owe you ten dollars.  
-نه، من به تو ده دلار بدهکار هستم.  
-
-only ten dollars?  
-فقط ده دلار؟  
-
-fourteen dollars  
-چهارده دلار  
-
-fourteen  
-چهارده  
-
-I owe you fourteen dollars.  
-من به تو چهارده دلار بدهکار هستم.  
-
-more  
-بیشتر  
-
-I think.  
-فکر می‌کنم.  
-
-You owe me more.  
-تو به من بیشتر بدهکار هستی.  
-
-I think you owe me more.  
-فکر می‌کنم تو به من بیشتر بدهکار هستی.  
-
-You owe me a lot of money.  
-تو به من پول زیادی بدهکار هستی.  
-
-You speak better than me.  
-تو بهتر از من صحبت می‌کنی.  
-
-better than me  
-بهتر از من  
-
-more than me  
-بیشتر از من  
-
-more than that  
-بیشتر از آن  
-
-I owe you thirteen dollars.  
-من به تو سیزده دلار بدهکار هستم.  
-
-You owe me more than that.  
-تو به من بیشتر از آن بدهکار هستی.  
-
-You owe me fourteen dollars.  
-تو به من چهارده دلار بدهکار هستی.  
-
-all right  
-خیلی خوب  
-
-Here's fourteen dollars.  
-این چهارده دلار است.  
-
-That's only thirteen dollars.  
-این فقط سیزده دلار است.  
-
-I'm sorry.  
-متأسفم.  
-
-Here's a dollar.  
-این یک دلار است.  
-
-I want to give you your money.  
-من می‌خواهم پولت را به تو بدهم.  
-
-wallet  
-کیف پول  
-
-your money  
-پول تو  
-
-your wallet  
-کیف پول تو  
-
-my wallet  
-کیف پول من  
+My wallet.  
+کیف پولم.  
 
 Where's Main Street?  
-خیابان اصلی کجاست؟  
+خیابون مین کجاست؟  
 
 Where's my wallet?  
-کیف پول من کجاست؟  
+کیف پولم کجاست؟  
 
 Your wallet's here.  
-کیف پول تو اینجاست.  
+کیف پولت اینجاست.  
 
 It's here.  
-این اینجاست.  
+اینجاست.  
 
 It's there.  
-این آنجاست.  
+اونجاست.  
 
 Do you know where Bundy Avenue is?  
-آیا می‌دانی بلوار باندی کجاست؟  
+می‌دونی خیابون باندی کجاست؟  
 
 Do you know where my wallet is?  
-آیا می‌دانی کیف پول من کجاست؟  
+می‌دونی کیف پولم کجاست؟  
 
 No, I don't.  
-نه، نمی‌دانم.  
-
-Yes, I do.  
-بله، می‌دانم.  
+نه.  
 
 Where is it?  
 کجاست؟  
 
-It's there.  
-این آنجاست.  
-
 Is that your wallet?  
-آیا این کیف پول تو است؟  
+اون کیف پول شماست؟  
 
 No, that's not mine.  
-نه، این مال من نیست.  
+نه، مال من نیست.  
 
 Yes, that's mine.  
-بله، این مال من است.  
+آره، مال منه.  
 
 I live in Iran.  
-من در ایران زندگی می‌کنم.  
+من تو ایران زندگی می‌کنم.  
 
-in Iran  
-در ایران  
-
-my wallet  
-کیف پول من  
-
-in my wallet  
-در کیف پول من  
-
-I have some money.  
-من کمی پول دارم.  
+In my wallet.  
+تو کیف پولم.  
 
 I have some money in my wallet.  
-من کمی پول در کیف پولم دارم.  
+تو کیف پولم کمی پول دارم.  
 
 I have some cash in my wallet.  
-من کمی پول نقد در کیف پولم دارم.  
+تو کیف پولم کمی پول نقد دارم.  
 
-in my wallet  
-در کیف پول من  
+<hr/><br/>
 
-in your house  
-در خانه‌ی تو  
+## بخش ۶: مکالمه
 
-My wallet's in your house.  
-کیف پول من در خانه‌ی تو است.  
+Hello, Mina.  
+سلام مینا.  
 
-I owe you some money.  
-من به تو کمی پول بدهکار هستم.  
+Hello, Jim.  
+سلام جیم.  
 
-You owe me some money.  
-تو به من کمی پول بدهکار هستی.  
+Can I borrow some money, Mina?  
+مینا، می‌تونم کمی پول قرض کنم؟  
 
-But you don't owe me a lot.  
-اما تو به من خیلی بدهکار نیستی.  
+Do you want cash?  
+پول نقد می‌خوای؟  
 
-You only owe me thirteen dollars.  
-تو فقط سیزده دلار به من بدهکار هستی.  
-
-That's not too much money.  
-این پول خیلی زیادی نیست.  
-
-<br>
-
-## بخش 3: مکالمه نمونه
-
-A: Hello, Mina.  
-سلام، مینا.  
-
-B: Hello, Jim.  
-سلام، جیم.  
-
-A: Can I borrow some money, Mina?  
-آیا می‌توانم کمی پول قرض بگیرم، مینا؟  
-
-B: Do you want cash?  
-آیا پول نقد می‌خواهی؟  
-
-A: Yes, please.  
+Yes, please.  
 بله، لطفاً.  
 
-B: Okay. I have some cash in my wallet. How much do you need?  
-باشه. من کمی پول نقد در کیف پولم دارم. چقدر نیاز داری؟  
+Okay. I have some cash in my wallet. How much do you need?  
+اوکی. من تو کیف پولم کمی پول نقد دارم. چقدر لازم داری؟  
 
-A: Fourteen dollars.  
+Fourteen dollars.  
 چهارده دلار.  
 
-B: That's a lot of money. I only have ten dollars with me, but I can give four more dollars tomorrow night.  
-این پول زیادی است. من فقط ده دلار همراه دارم، اما می‌توانم چهار دلار بیشتر فردا شب به تو بدهم.  
+That's a lot of money. I only have ten dollars with me, but I can give four more dollars tomorrow night.  
+اون پول زیادیه. من فقط ده دلار همراهم دارم، ولی می‌تونم فرداشب چهار دلار دیگه بدم.  
 
-A: I need the money now. Tomorrow night is too late anyway.  
-من الآن به پول نیاز دارم. فردا شب به هر حال خیلی دیر است.  
+I need the money now. Tomorrow night is too late anyway.  
+من الان پول لازم دارم. فرداشب به هر حال خیلی دیره.  
 
-B: All right. Then here's ten dollars. Maybe Sarah can give you some more money.  
-خیلی خوب. پس این ده دلار است. شاید سارا بتواند کمی پول بیشتر به تو بدهد.  
+All right. Then here's ten dollars. Maybe Sarah can give you some more money.  
+باشه. پس بفرما ده دلار. شاید سارا بتونه کمی پول بیشتری بهت بده.  
 
-A: Thanks a lot.  
+Thanks a lot.  
 خیلی ممنون.  
 
-B: You're welcome.  
+You're welcome.  
 خواهش می‌کنم.  
 
-<br>
+<hr/><br/>
 
-## بخش 4: جملات کاربردی
+## بخش ۷: جملات کاربردی
 
 It's late.  
-دیر شده است.  
+دیره.  
 
 It's too late.  
-خیلی دیر شده است.  
+خیلی دیره.  
 
 It's not too late.  
-خیلی دیر نشده است.  
+خیلی دیر نیست.  
 
 Where's my wallet?  
-کیف پول من کجاست؟  
+کیف پولم کجاست؟  
 
 It's on the floor.  
-این روی زمین است.  
+(عملاً کف اتاقه) روی زمینه.  
 
 Your wallet is on the floor.  
-کیف پول تو روی زمین است.  
+کیف پولت روی زمینه.  
 
 I don't know where it is.  
-من نمی‌دانم کجاست.  
+نمی‌دونم کجاست.  
 
 I need some money.  
-من به کمی پول نیاز دارم.  
+من کمی پول احتیاج دارم.  
 
 I want to borrow some money.  
-من می‌خواهم کمی پول قرض بگیرم.  
+من می‌خوام کمی پول قرض کنم.  
 
-from Ali  
-از علی  
+From Ali.  
+از علی.  
 
 Who is Ali?  
-علی کیست؟  
+علی کیه؟  
 
-Who's Ali?  
-علی کیست؟  
+Who is Ali?  
+(فشرده) علی کیه؟  
 
-Who's Mina?  
-مینا کیست؟  
-
-who?  
+Who?  
 کی؟  
 
 Where are you?  
-کجا هستی؟  
+شما کجایید؟  
 
 Who are you?  
-تو کیستی؟  
+شما کی هستید؟  
 
 I'm Shadi.  
 من شادی هستم.  
 
 Hello, Shadi. How are you?  
-سلام، شادی. حالت چطور است؟  
+سلام شادی. حالت چطوره؟  
 
 I'm fine, thanks.  
-من خوبم، ممنون.  
+خوبم، مرسی.  
 
 That's my son.  
-این پسر من است.  
+اون پسرمه.  
 
 Who's that?  
-این کیست؟  
+اون کیه؟  
 
 That's my son.  
-این پسر من است.  
+اون پسرمه.  
 
 That's my daughter.  
-این دختر من است.  
+اون دخترمه.  
 
-daughter  
-دختر  
+Daughter.  
+دختر.  
 
-my daughter  
-دختر من  
+My daughter.  
+دخترم.  
 
 That's my daughter.  
-این دختر من است.  
+اون دخترمه.  
 
 And that's my son.  
-و این پسر من است.  
+و اون پسرمه.  
 
-<br>
+<hr/><br/>
 
-## بخش 5: کلمات کلیدی
+## بخش ۸: کلمات کلیدی
 
-owe  
-بدهکار بودن  
+Owe.  
+بدهکار بودن.  
 
-thirteen  
-سیزده  
+You owe me.  
+تو به من بدهکاری.  
 
-wallet  
-کیف پول  
+Thirteen.  
+سیزده.  
 
-water  
-آب  
+Wallet.  
+کیف پول.  
 
-daughter  
-دختر  
+Water.  
+آب.  
 
-<br>
+Daughter.  
+دختر.  
 
-## بخش 6: سوالات و جواب‌ها
+<hr/><br/>
+
+## بخش ۹: سوال جواب‌ها
 
 Who's that?  
-این کیست؟  
+اون کیه؟  
 
 That's my husband.  
-این شوهر من است.  
+اون شوهرمه.  
 
-husband  
-شوهر  
+Husband.  
+شوهر.  
 
 Where's your husband?  
 شوهرت کجاست؟  
 
 My husband is in Iran now.  
-شوهر من الآن در ایران است.  
+شوهرم الان تو ایرانه.  
 
 He is in Iran now.  
-او الآن در ایران است.  
+او الان تو ایرانه (مذکر).  
 
-he  
-او  
+He.  
+او (مذکر).  
+
+> [!CAUTION]
+> 
+> **نکته:** 
+> 
+> توجه کنید در زبان انگلیسی «او مونث، او مذکر و او خنثی» با هم فرق دارند.  
+> 
+> <br/>
 
 I am.  
 من هستم.  
@@ -614,126 +463,133 @@ He is.
 او هست.  
 
 He's.  
-او هست.  
+او هست (فشرده).  
 
 He's in Iran.  
-او در ایران است.  
+او تو ایرانه (مذکر).  
 
 That's not my wallet.  
-این کیف پول من نیست.  
+اون کیف پول من نیست.  
 
 He's not my husband.  
-او شوهر من نیست.  
+اون شوهر من نیست.  
 
 Is he your husband?  
-آیا او شوهر تو است؟  
+آیا اون شوهر شماست؟  
 
 No, he's not my husband.  
-نه، او شوهر من نیست.  
+نه، اون شوهر من نیست.  
 
 No, he's not.  
 نه، نیست.  
 
 Yes, he is.  
-بله، هست.  
+آره، هست.  
 
 Yes, he is my husband.  
-بله، او شوهر من است.  
+آره، اون شوهر منه.  
 
 He wants some tea.  
-او کمی چای می‌خواهد.  
+اون کمی چای می‌خواد.  
+
+> [!CAUTION]
+> 
+> **نکته:**
+>  
+> در زبان انگلیسی به سوم شخص مفرد در زمان حال، معمولاً به آخر فعل **s** اضافه می‌کنیم.  
+> 
+> البته بعضی فعل‌ها مثل `can` این `s` رو نمی‌گیرند.  
+>
+> <br/>
 
 He wants some water.  
-او کمی آب می‌خواهد.  
+اون کمی آب می‌خواد.  
 
 My husband speaks English very well.  
-شوهر من انگلیسی را خیلی خوب صحبت می‌کند.  
+شوهرم انگلیسی رو خیلی خوب صحبت می‌کنه.  
 
 He speaks English very well.  
-او انگلیسی را خیلی خوب صحبت می‌کند.  
+اون انگلیسی رو خیلی خوب صحبت می‌کنه.  
 
 He's at the mall now.  
-او الآن در مرکز خرید است.  
+اون الان پاساژه.  
 
 I'm going to the mall.  
-من به مرکز خرید می‌روم.  
+من دارم می‌رم پاساژ.  
 
 He's going to the mall.  
-او به مرکز خرید می‌رود.  
+اون داره می‌ره پاساژ.  
 
 Is he going to Iran?  
-آیا او به ایران می‌رود؟  
+آیا اون داره می‌ره ایران؟  
 
 Yes, he is.  
-بله، می‌رود.  
+آره.  
 
 No, he's not.  
-نه، نمی‌رود.  
+نه.  
 
 He wants to live here.  
-او می‌خواهد اینجا زندگی کند.  
+اون می‌خواد اینجا زندگی کنه.  
 
 He lives here.  
-او اینجا زندگی می‌کند.  
+اون اینجا زندگی می‌کنه.  
 
 Where's your son?  
 پسرت کجاست؟  
 
 He's at home.  
-او در خانه است.  
+اون خونه‌ست.  
 
 What is he doing there?  
-او آنجا چه کار می‌کند؟  
+اون اونجا داره چیکار می‌کنه؟  
 
 What's he doing there?  
-او آنجا چه کار می‌کند؟  
+اون اونجا داره چیکار می‌کنه؟  
 
 He's eating lunch.  
-او دارد ناهار می‌خورد.  
+داره ناهار می‌خوره.  
 
 My son's eating lunch.  
-پسر من دارد ناهار می‌خورد.  
-
-He's eating lunch.  
-او دارد ناهار می‌خورد.  
+پسرم داره ناهار می‌خوره.  
 
 Where's your daughter?  
 دخترت کجاست؟  
 
 My daughter's eating lunch, too.  
-دختر من هم دارد ناهار می‌خورد.  
+دخترم هم داره ناهار می‌خوره.  
 
 My daughter wants to go to Iran.  
-دختر من می‌خواهد به ایران برود.  
-
-But my son's here.  
-اما پسر من اینجاست.  
+دخترم می‌خواد بره ایران.  
 
 But my son is here.  
-اما پسر من اینجاست.  
+ولی پسرم اینجاست.  
 
 He's drinking tea.  
-او دارد چای می‌نوشد.  
+اون داره چای می‌خوره.  
 
 Who's that?  
-این کیست؟  
+اون کیه؟  
 
-He's my husband Ali.  
-او شوهر من علی است.  
+He's my husband, Ali.  
+اون شوهرمه، علیه.  
 
-And that's my daughter Sahar.  
-و این دختر من سحر است.  
+And that's my daughter, Sahar.  
+و اون دخترمه، سحر.  
 
 Your wallet's on the floor.  
-کیف پول تو روی زمین است.  
+کیف پولت روی زمینه.  
 
 Thanks a lot.  
 خیلی ممنون.  
 
 You're welcome.  
-خواهش می‌کنم.  
+خواهش می‌کنم.
 
-<br>
+<hr/><br/>
 
+### پایان درس شانزدهم
 
-## پایان درس شانزدهم
+[مطالعه درس قبلی](../15/README.md)  
+
+[مطالعه درس بعدی](../17/README.md)  
