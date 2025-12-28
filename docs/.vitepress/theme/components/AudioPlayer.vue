@@ -5,7 +5,12 @@
     
     <div class="controls">
       <button @click="togglePlay" class="play-btn">
-        {{ isPlaying ? '⏸' : '▶' }}
+        <svg v-if="!isPlaying" viewBox="0 0 24 24" width="24" height="24">
+          <path fill="currentColor" d="M8 5v14l11-7z"/>
+        </svg>
+        <svg v-else viewBox="0 0 24 24" width="24" height="24">
+          <path fill="currentColor" d="M6 4h4v16H6V4zm8 0h4v16h-4V4z"/>
+        </svg>
       </button>
       
       <div class="progress-container">
@@ -100,18 +105,26 @@ const formatTime = (seconds) => {
   border: none;
   background: var(--vp-c-brand);
   color: white;
-  font-size: 20px;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
   transition: all 0.3s;
   flex-shrink: 0;
+  padding: 0;
 }
 
 .play-btn:hover {
   background: var(--vp-c-brand-dark);
   transform: scale(1.05);
+}
+
+.play-btn:active {
+  transform: scale(0.95);
+}
+
+.play-btn svg {
+  display: block;
 }
 
 .progress-container {
@@ -127,14 +140,37 @@ const formatTime = (seconds) => {
   border-radius: 3px;
   background: var(--vp-c-divider);
   cursor: pointer;
+  -webkit-appearance: none;
+  appearance: none;
 }
 
 .progress-bar::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
   width: 14px;
   height: 14px;
   border-radius: 50%;
   background: var(--vp-c-brand);
   cursor: pointer;
+  transition: all 0.2s;
+}
+
+.progress-bar::-webkit-slider-thumb:hover {
+  transform: scale(1.2);
+}
+
+.progress-bar::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--vp-c-brand);
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s;
+}
+
+.progress-bar::-moz-range-thumb:hover {
+  transform: scale(1.2);
 }
 
 .time {
