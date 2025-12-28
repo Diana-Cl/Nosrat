@@ -24,7 +24,7 @@ head:
 ### 🎧 فایل صوتی
 
 <AudioPlayer
-  src="https://pdn.sharezilla.ir/d/audio/14.Amozesh.Zaban.Mp3.128kbps_p30do>
+  src="https://pdn.sharezilla.ir/d/audio/14.Amozesh.Zaban.Mp3.128kbps_p30download.com.mp3"
   title="🎵 گوش دادن به درس چهاردهم"
 />
 <br/>
