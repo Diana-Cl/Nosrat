@@ -28,18 +28,14 @@ head:
 hello  
 سلام  
 
-
 How are you?  
 حالت چطوره؟  
-
 
 fine  
 خوب  
 
-
 thanks  
 ممنون  
-
 
 yes  
 بله  
@@ -51,37 +47,37 @@ and
 و  
 
 you  
-تو  
+تو/شما  
 
 from  
-از  
+اهل/از  
 
 from Iran  
-از ایران  
+اهل ایران/از ایران  
 
 Canada  
 کانادا  
 
 from Canada  
-از کانادا  
+اهل کانادا/از کانادا  
 
-I am.  
-من هستم.  
+I am  
+من هستم  
 
-I'm fine.  
-حالم خوبه.  
+I'm fine  
+حالم خوبه  
 
-I'm from Iran.  
-من از ایران هستم.  
+I'm from Iran  
+من اهل ایران هستم  
 
-I'm not.  
-من نیستم.  
+I'm not  
+من نیستم  
 
-You are.  
-تو هستی.  
+You are  
+تو/شما هستی  
 
-You're from Canada.  
-تو از کانادا هستی.  
+You're from Canada  
+شما اهل کانادا هستی  
 
 Are you?  
 آیا تو هستی؟  
@@ -89,57 +85,47 @@ Are you?
 too  
 هم  
 
-I'm from Iran, too.  
-من هم از ایران هستم.  
+I'm from Iran, too  
+من هم اهل ایران هستم  
 
-<br/>
+<br/> 
 
-## بخش ۲: سوالات و جواب‌ها
+## بخش ۲: مکالمه
 
-A: Hello.  
-A: سلام.  
+A: Hello  
+سلام  
 
-<br/>
-
-B: Hello.  
-B: سلام.  
+B: Hello  
+سلام  
 
 <br/>
 
 A: How are you?  
-A: حالت چطوره؟  
+حالت چطوره؟  
 
-<br/>
-
-B: I'm fine, thanks.  
-B: حالم خوبه، ممنون.  
+B: I'm fine, thanks  
+حالم خوبه، ممنون  
 
 <br/>
 
 A: Are you from Iran?  
-A: آیا تو از ایران هستی؟  
-
-<br/>
+آیا شما اهل ایران هستی؟  
 
 B: Yes, I'm from Iran. And you? Are you from Iran, too?  
-B: بله، من از ایران هستم. و تو؟ آیا تو هم از ایران هستی؟  
+بله، من اهل ایران هستم. و تو؟ آیا شماهم اهل ایران هستی؟  
 
-<br/>
+A: No, I'm not from Iran. I'm from Canada  
+نه، من اهل ایران نیستم. من اهل کانادام  
 
-A: No, I'm not from Iran. I'm from Canada.  
-A: نه، من از ایران نیستم. من از کانادا هستم.  
-
-<br/>
+<br/> 
 
 ## بخش ۳: جملات تکمیلی
 
 hello  
 سلام  
 
-
-Hello, Jim.  
-سلام، جیم.  
-
+Hello, Jim  
+سلام، جیم  
 
 hello  
 سلام  
@@ -151,13 +137,13 @@ how
 چطور  
 
 you  
-تو  
+تو/شما  
 
-You are.  
-تو هستی.  
+You are  
+تو/شما هستی  
 
 Are you?  
-آیا تو هستی؟  
+آیا شما هستی؟  
 
 How are you?  
 حالت چطوره؟  
@@ -168,95 +154,95 @@ I
 am  
 هستم  
 
-I am.  
-من هستم.  
+I am  
+من هستم  
 
-You are.  
-تو هستی.  
+You are  
+شما هستی/تو هستی  
 
 Hello. How are you?  
 سلام. حالت چطوره؟  
 
-I am.  
-من هستم.  
+I am  
+من هستم  
 
 fine  
 خوب  
 
-I am fine.  
-حالم خوب است.  
+I am fine  
+حالم خوب است  
 
-I am.  
-من هستم.  
+I am  
+من هستم  
 
-I'm.  
-من هستم.  
+I'm  
+من هستم  
 
 I am. I'm.  
-من هستم. من هستم.  
+من هستم. من هستم  
 
-I'm fine.  
-حالم خوبه.  
+I'm fine  
+حالم خوبه  
 
 thanks  
 ممنون  
 
-Hello, Joe.  
-سلام، جو.  
+Hello, Joe  
+سلام، جو  
 
 How are you?  
 حالت چطوره؟  
 
-I'm fine, thanks.  
-حالم خوبه، ممنون.  
+I'm fine, thanks  
+حالم خوبه، ممنون  
 
 from  
-از  
+از/اهل  
 
 Iran  
 ایران  
 
 from Iran  
-از ایران  
+از ایران/اهل ایران  
 
-You are.  
-تو هستی.  
+You are  
+شما هستی  
 
-You are from Iran.  
-تو از ایران هستی.  
+You are from Iran  
+شما اهل ایران هستی  
 
 Are you from Iran?  
-آیا تو از ایران هستی؟  
+آیا شما اهل ایران هستی؟  
 
-You are from Iran.  
-تو از ایران هستی.  
+You are from Iran  
+شما اهل ایران هستی  
 
-I am.  
-من هستم.  
+I am  
+من هستم  
 
-I am from Iran.  
-من از ایران هستم.  
+I am from Iran  
+من اهل ایران هستم  
 
-I'm from Iran.  
-من از ایران هستم.  
+I'm from Iran  
+من اهل ایران هستم  
 
 yes  
 بله  
 
 Are you from Iran?  
-آیا تو از ایران هستی؟  
+آیا شما اهل ایران هستی؟  
 
-Yes, I'm from Iran.  
-بله، من از ایران هستم.  
+Yes, I'm from Iran  
+بله، من اهل ایران هستم  
 
 and  
 و  
 
-Yes, I'm from Iran.  
-بله، من از ایران هستم.  
+Yes, I'm from Iran  
+بله، من اهل ایران هستم  
 
 and you?  
-و تو؟  
+و تو/شما؟  
 
 and  
 و  
@@ -264,87 +250,87 @@ and
 Hello. how are you?  
 سلام. حالت چطوره؟  
 
-I'm fine, thanks.  
-حالم خوبه، ممنون.  
+I'm fine, thanks  
+حالم خوبه، ممنون  
 
 and you?  
-و تو؟  
+و شما؟  
 
 too  
 هم  
 
-I'm fine, too.  
-من هم خوب هستم.  
+I'm fine, too  
+من هم خوبم  
 
-I'm from Iran, too.  
-من هم از ایران هستم.  
+I'm from Iran, too  
+من هم اهل ایران هستم  
 
 Are you from Iran?  
-آیا تو از ایران هستی؟  
+آیا شما اهل ایران هستی؟  
 
 Are you from Iran, too?  
-آیا تو هم از ایران هستی؟  
+آیا شماهم اهل ایران هستی؟  
 
 no  
 نه  
 
 Are you from Iran?  
-آیا تو از ایران هستی؟  
+آیا شما اهل ایران هستی؟  
 
 no  
 نه  
 
-I'm not.  
-من نیستم.  
+I'm not  
+من نیستم  
 
-I'm not from Iran.  
-من از ایران نیستم.  
+I'm not from Iran  
+من اهل ایران نیستم  
 
 Are you from Iran, too?  
-آیا تو هم از ایران هستی؟  
+آیا شماهم اهل ایران هستی؟  
 
-No, I'm not from Iran.  
-نه، من از ایران نیستم.  
+No, I'm not from Iran  
+نه، من اهل ایران نیستم  
 
 Canada  
 کانادا  
 
-I'm from Iran.  
-من از ایران هستم.  
+I'm from Iran  
+من اهل ایران هستم  
 
-I'm from Canada.  
-من از کانادا هستم.  
+I'm from Canada  
+من اهل کانادا هستم  
 
-I'm from Canada, too.  
-من هم از کانادا هستم.  
+I'm from Canada, too  
+من هم اهل کانادا هستم  
 
 Hello. How are you?  
 سلام. حالت چطوره؟  
 
-I'm fine, thanks.  
-حالم خوبه، ممنون.  
+I'm fine, thanks  
+حالم خوبه، ممنون  
 
 Are you from Iran?  
-آیا تو از ایران هستی؟  
+آیا شما اهل ایران هستی؟  
 
-Yes, I'm from Iran.  
-بله، من از ایران هستم.  
+Yes, I'm from Iran  
+بله، من اهل ایران هستم  
 
 and you?  
 و تو؟  
 
 Are you from Iran, too?  
-آیا تو هم از ایران هستی؟  
+آیا شماهم اهل ایران هستی؟  
 
-No, I'm not from Iran.  
-نه، من از ایران نیستم.  
+No, I'm not from Iran  
+نه، من اهل ایران نیستم  
 
-I'm from Canada.  
-من از کانادا هستم.  
+I'm from Canada  
+من اهل کانادا هستم  
 
-<br/>
+<br/> 
 
-## بخش ۴: واژگان درس
+## بخش ۴: جملات و واژه‌های کلیدی درس
 
 hello  
 سلام  
@@ -356,7 +342,7 @@ thanks
 ممنون  
 
 from  
-از  
+از/اهل  
 
 Iran  
 ایران  
@@ -364,39 +350,35 @@ Iran
 Canada  
 کانادا  
 
-You are.  
-تو هستی.  
+You are  
+شما/تو هستی  
 
-You're.  
-تو هستی.  
+You're  
+شما هستی  
 
-<br/>
+You are from Canada  
+شما اهل کانادا هستی  
 
-## بخش ۵: مکالمه
+You are  
+تو هستی  
 
-You are from Canada.  
-تو از کانادا هستی.  
+You're  
+تو هستی  
 
-You are.  
-تو هستی.  
+You are  
+تو هستی  
 
-You're.  
-تو هستی.  
+You're  
+تو هستی  
 
-You are.  
-تو هستی.  
-
-You're.  
-تو هستی.  
-
-You're from Canada.  
-تو از کانادا هستی.  
+You're from Canada  
+شما اهل کانادا هستی  
 
 hello  
 سلام  
 
 Are you from Iran?  
-آیا تو از ایران هستی؟  
+آیا شما اهل ایران هستی؟  
 
 How are you?  
 حالت چطوره؟  
@@ -404,8 +386,8 @@ How are you?
 Hello. how are you?  
 سلام. حالت چطوره؟  
 
-I'm fine.  
-حالم خوبه.  
+I'm fine  
+حالم خوبه  
 
 hello  
 سلام  
@@ -413,32 +395,32 @@ hello
 How are you?  
 حالت چطوره؟  
 
-I'm fine.  
-حالم خوبه.  
+I'm fine  
+حالم خوبه  
 
 Are you from Canada?  
-آیا تو از کانادا هستی؟  
+آیا شما اهل کانادا هستی؟  
 
-Yes, I am.  
-بله، من هستم.  
+Yes, I am  
+بله، من هستم  
 
 Are you from Canada, too?  
-آیا تو هم از کانادا هستی؟  
+آیا شماهم اهل کانادا هستی؟  
 
-No, I'm from Iran.  
-نه، من از ایران هستم.  
+No, I'm from Iran  
+نه، من اهل ایران هستم  
 
-I'm not from Canada.  
-من از کانادا نیستم.  
+I'm not from Canada  
+من اهل کانادا نیستم  
 
 Are you from Iran, too?  
-آیا تو هم از ایران هستی؟  
+آیا شماهم اهل ایران هستی؟  
 
-No, I'm from Canada.  
-نه، من از کانادا هستم.  
+No, I'm from Canada  
+نه، من اهل کانادا هستم  
 
-You're from Iran, too.  
-تو هم از ایران هستی.  
+You're from Iran, too  
+شماهم اهل ایران هستی  
 
 hello  
 سلام  
@@ -446,17 +428,17 @@ hello
 How are you?  
 حالت چطوره؟  
 
-I'm fine, thanks.  
-حالم خوبه، ممنون.  
+I'm fine, thanks  
+حالم خوبه، ممنون  
 
 Are you from Iran?  
-آیا تو از ایران هستی؟  
+آیا شما اهل ایران هستی؟  
 
 Yes, I'm from Iran. And you? Are you from Iran, too?  
-بله، من از ایران هستم. و تو؟ آیا تو هم از ایران هستی؟  
+بله، من اهل ایران هستم. و شما؟ آیا شماهم اهل ایران هستی؟  
 
 No, I'm not from Iran. I'm from Canada  
-نه، من از ایران نیستم. من از کانادا هستم.  
+نه، من اهل ایران نیستم. من اهل کانادام.  
 
 hello  
 سلام  
@@ -467,68 +449,61 @@ hello
 How are you?  
 حالت چطوره؟  
 
-I'm fine, thanks.  
-حالم خوبه، ممنون.  
+I'm fine, thanks  
+حالم خوبه، ممنون  
 
 Are you from Iran?  
-آیا تو از ایران هستی؟  
+آیا شما اهل ایران هستی؟  
 
-Yes, I'm from Iran.  
-بله، من از ایران هستم.  
+Yes, I'm from Iran  
+بله، من اهل ایران هستم  
 
 and you?  
 و تو؟  
 
 Are you from Iran, too?  
-آیا تو هم از ایران هستی؟  
+آیا شماهم اهل ایران هستی؟  
 
-
-No, I'm not from Iran. I'm from Canada.  
-نه، من از ایران نیستم. من از کانادا هستم.  
-
-<br/>
-
-## بخش ۶: سوالات و جواب‌ها
-
-A: Hello.  
-A: سلام.  
+No, I'm not from Iran. I'm from Canada  
+نه، من اهل ایران نیستم. من اهل کانادا هستم  
 
 <br/>
 
-B: Hello.  
-B: سلام.  
+## بخش ۵: مکالمه
+
+A: Hello  
+سلام  
+
+B: Hello  
+سلام  
 
 <br/>
 
 A: How are you?  
-A: حالت چطوره؟  
+حالت چطوره؟  
 
-<br/>
-
-B: I'm fine, thanks.  
-B: حالم خوبه، ممنون.  
+B: I'm fine, thanks  
+حالم خوبه، ممنون  
 
 <br/>
 
 A: Are you from Iran?  
-A: آیا تو از ایران هستی؟  
+آیا شما اهل ایران هستی؟  
+
+B: Yes, I'm from Iran And you? Are you from Iran, too?  
+بله، من اهل ایران هستم و تو؟ آیا شماهم اهل ایران هستی؟  
 
 <br/>
 
-B: Yes, I'm from Iran. And you? Are you from Iran, too?  
-B: بله، من از ایران هستم. و تو؟ آیا تو هم از ایران هستی؟  
-
-<br/>
-
-A: No, I'm not from Iran. I'm from Canada.  
-A: نه، من از ایران نیستم. من از کانادا هستم.
+A: No, I'm not from Iran. I'm from Canada  
+نه، من اهل ایران نیستم. من اهل کانادام.  
 
 </div>
 
 <hr/><br/>
 
-::: tip پایان درس اول
+::: tip **پایان درس اول**
 
-برای مطالعه درس قبلی یا بعدی، از دکمه‌های زیر استفاده کنید.
+برای مطالعه درس قبل یا بعدی، از دکمه‌های زیر استفاده کنید.
 
 :::
