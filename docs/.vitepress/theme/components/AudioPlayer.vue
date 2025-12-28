@@ -1,5 +1,6 @@
 <template>
-  <div class="audio-player">
+  <div class="audio-player" dir="ltr">
+    <div class="audio-title" v-if="title">{{ title }}</div>
     <audio ref="audio" :src="src" @timeupdate="updateTime" @loadedmetadata="onLoad"></audio>
     
     <div class="controls">
@@ -29,7 +30,8 @@
 import { ref, onMounted } from 'vue';
 
 const props = defineProps({
-  src: String
+  src: String,
+  title: String
 });
 
 const audio = ref(null);
@@ -74,6 +76,15 @@ const formatTime = (seconds) => {
   padding: 20px;
   margin: 20px 0;
   max-width: 600px;
+  direction: ltr;
+}
+
+.audio-title {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 12px;
+  color: var(--vp-c-text-1);
+  text-align: left;
 }
 
 .controls {
@@ -95,6 +106,7 @@ const formatTime = (seconds) => {
   align-items: center;
   justify-content: center;
   transition: all 0.3s;
+  flex-shrink: 0;
 }
 
 .play-btn:hover {
