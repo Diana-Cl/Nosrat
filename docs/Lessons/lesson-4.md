@@ -19,671 +19,660 @@ head:
 # درس چهارم
 > آموزش زبان انگلیسی نصرت
 
+<br/>
 
-<br/><br/>
+## بخش ۱: جملات پایه
 
+<div dir="ltr">
 
-<hr/><br/>
+here  
+اینجا  
 
+I live here  
+من اینجا زندگی می‌کنم  
 
+in Iran  
+در ایران  
 
-here
-اینجا
+home  
+خانه  
 
-I live here.
-من اینجا زندگی می‌کنم.
+now  
+حالا  
 
-in Iran
-در ایران
+I'm going  
+من دارم می‌روم  
 
-home
-خانه
+I'm going home  
+من دارم به خانه می‌روم  
 
-now
-حالا
+I'm speaking Persian  
+من دارم فارسی صحبت می‌کنم  
 
-I'm going.
-من دارم می‌روم.
+mall  
+مرکز خرید  
 
-I'm going home.
-من دارم به خانه می‌روم.
+to a mall  
+به یک مرکز خرید  
 
-I'm speaking Persian.
-من دارم فارسی صحبت می‌کنم.
+We're going to a mall  
+ما داریم به یک مرکز خرید می‌رویم  
 
-mall
-مرکز خرید
+to the mall  
+به مرکز خرید  
 
-to a mall
-به یک مرکز خرید
+a store  
+یک مغازه  
 
-We're going to a mall.
-ما داریم به یک مرکز خرید می‌رویم.
+I'm at home  
+من در خانه هستم  
 
-to the mall
-به مرکز خرید
+goodbye  
+خداحافظ  
 
-a store
-یک مغازه
+<br/> 
 
-I'm at home.
-من در خانه هستم.
+I want some tea  
+من مقداری چای می‌خواهم  
 
-goodbye
-خداحافظ
+I want a tea  
+من یک چای می‌خواهم  
 
-<hr/><br/>
+I want tea  
+من چای می‌خواهم  
 
+I don't want tea  
+من چای نمی‌خواهم  
 
-I want some tea.
-من مقداری چای می‌خواهم.
+I want some coffee  
+من مقداری قهوه می‌خواهم  
 
-I want a tea.
-من یک چای می‌خواهم.
+Can you speak English?  
+آیا می‌توانید انگلیسی صحبت کنید؟  
 
-I want tea.
-من چای می‌خواهم.
+Do you speak English?  
+آیا انگلیسی صحبت می‌کنید؟  
 
-I don't want tea.
-من چای نمی‌خواهم.
+Yes, we speak English  
+بله، ما انگلیسی صحبت می‌کنیم  
 
-I want some coffee.
-من مقداری قهوه می‌خواهم.
+We're from Canada  
+ما اهل کانادا هستیم  
 
-Can you speak English?
-آیا می‌توانید انگلیسی صحبت کنید؟
+I know  
+من می‌دانم  
 
-Do you speak English?
-آیا انگلیسی صحبت می‌کنید؟
+I know you're from Canada  
+من می‌دانم شما اهل کانادا هستی  
 
-Yes, we speak English.
-بله، ما انگلیسی صحبت می‌کنیم.
+Do I know you?  
+آیا من تو را می‌شناسم؟  
 
-We're from Canada.
-ما از کانادا هستیم.
+I think you know me, too  
+من فکر می‌کنم تو هم مرا می‌شناسی  
 
-I know.
-من می‌دانم.
+I speak English  
+من انگلیسی صحبت می‌کنم  
 
-I know you're from Canada.
-من می‌دانم تو از کانادا هستی.
+better than you  
+بهتر از تو  
 
-Do I know you?
-آیا من تو را می‌شناسم؟
+I speak English better than you  
+من انگلیسی را بهتر از تو صحبت می‌کنم  
 
-I think you know me, too.
-من فکر می‌کنم تو هم مرا می‌شناسی.
+Can you?  
+آیا می‌توانی؟  
 
-I speak English.
-من انگلیسی صحبت می‌کنم.
+Can you speak Persian, too?  
+آیا تو هم می‌توانی فارسی صحبت کنی؟  
 
-better than you
-بهتر از تو
+I think I can  
+من فکر می‌کنم می‌توانم  
 
-I speak English better than you.
-من انگلیسی را بهتر از تو صحبت می‌کنم.
+Do you want some tea?  
+آیا مقداری چای می‌خواهید؟  
 
-Can you?
-آیا می‌توانی؟
+No, thank you  
+نه، ممنون  
 
-Can you speak Persian, too?
-آیا تو هم می‌توانی فارسی صحبت کنی؟
+I want some coffee  
+من مقداری قهوه می‌خواهم  
 
-I think I can.
-من فکر می‌کنم می‌توانم.
+I don't want tea  
+من چای نمی‌خواهم  
 
-Do you want some tea?
-آیا مقداری چای می‌خواهید؟
+I want coffee  
+من قهوه می‌خواهم  
 
-No, thank you.
-نه، ممنون.
+please  
+لطفا  
 
-I want some coffee.
-من مقداری قهوه می‌خواهم.
-
-I don't want tea.
-من چای نمی‌خواهم.
-
-I want coffee.
-من قهوه می‌خواهم.
-
-please
-لطفا
-
-I want some coffee, please.
-لطفا، من مقداری قهوه می‌خواهم.
-
-<hr/><br/>
-
-
-A: Hello, George. How are you?
-A: سلام، جورج. حالت چطوره؟
-
-B: I'm fine, Helen, thanks. And you?
-B: حالم خوبه، هلن، ممنون. و تو؟
+I want some coffee, please  
+لطفا، من مقداری قهوه می‌خواهم  
 
 <br/>
 
-A: I'm fine, too. Do you want some coffee?
-A: من هم خوبم. مقداری قهوه می‌خواهی؟
+## بخش ۲: مکالمه‌
 
-B: No, thanks. I want some tea.
-B: نه، ممنون. من مقداری چای می‌خواهم.
+A: Hello, George. How are you?  
+سلام، جورج. حالت چطوره؟  
 
-<br/>
-
-A: You speak English better than me. Can you speak Persian, too?
-A: تو انگلیسی را بهتر از من صحبت می‌کنی. آیا تو هم می‌توانی فارسی صحبت کنی؟
-
-B: I think I speak Persian better than English. I'm from Iran.
-B: من فکر می‌کنم فارسی را بهتر از انگلیسی صحبت می‌کنم. من از ایران هستم.
+B: I'm fine, Helen, thanks. And you?  
+حالم خوبه، هلن، ممنون. و تو؟  
 
 <br/>
 
-A: I'm from Iran, too, and I speak English better than Persian.
-A: من هم از ایران هستم و انگلیسی را بهتر از فارسی صحبت می‌کنم.
+A: I'm fine, too. Do you want some coffee?  
+من هم خوبم. مقداری قهوه می‌خواهی؟  
 
-<hr/><br/>
+B: No, thanks. I want some tea  
+نه، ممنون. من مقداری چای می‌خواهم  
 
+<br/>
 
-I speak Persian.
-من فارسی صحبت می‌کنم.
+A: You speak English better than me. Can you speak Persian, too?  
+تو انگلیسی را بهتر از من صحبت می‌کنی. آیا تو هم می‌توانی فارسی صحبت کنی؟  
 
-I don't speak English.
-من انگلیسی صحبت نمی‌کنم.
+B: I think I speak Persian better than English. I'm from Iran.  
+من فکر می‌کنم فارسی را بهتر از انگلیسی صحبت می‌کنم. من اهل ایران هستم  
 
-I know.
-من می‌دانم.
+<br/>
 
-I don't know.
-من نمی‌دانم.
+A: I'm from Iran, too, and I speak English better than Persian  
+من هم اهل ایران هستم و انگلیسی را بهتر از فارسی صحبت می‌کنم  
 
-Do you want some coffee?
-آیا مقداری قهوه می‌خواهید؟
+<br/> 
 
-I don't know.
-من نمی‌دانم.
+## بخش ۳: مرور واژه‌ها و جملات کلیدی 
 
-I want a tea, please.
-لطفا، من یک چای می‌خواهم.
+I speak Persian  
+من فارسی صحبت می‌کنم  
 
-Do you want some tea, too?
-آیا تو هم مقداری چای می‌خواهی؟
+I don't speak English  
+من انگلیسی صحبت نمی‌کنم  
 
-I don't know.
-من نمی‌دانم.
+I know  
+من می‌دانم  
 
-Are you from Iran?
-آیا تو از ایران هستی؟
+I don't know  
+من نمی‌دانم  
 
-Yes, I'm from Iran.
-بله، من از ایران هستم.
+Do you want some coffee?  
+آیا مقداری قهوه می‌خواهید؟  
 
-here
-اینجا
+I don't know  
+من نمی‌دانم  
 
-I'm fine.
-حالم خوب است.
+I want a tea, please  
+لطفا، من یک چای می‌خواهم  
 
-I'm here.
-من اینجا هستم.
+Do you want some tea, too?  
+آیا تو هم مقداری چای می‌خواهی؟  
 
-Are you here, too?
-آیا تو هم اینجا هستی؟
+I don't know  
+من نمی‌دانم  
 
-No, I'm not here.
-نه، من اینجا نیستم.
+Are you from Iran?  
+آیا شما اهل ایران هستی؟  
 
-I live here.
-من اینجا زندگی می‌کنم.
+Yes, I'm from Iran  
+بله، من اهل ایران هستم  
 
-I don't speak English.
-من انگلیسی صحبت نمی‌کنم.
+here  
+اینجا  
 
-I don't know.
-من نمی‌دانم.
+I'm fine  
+حالم خوب است  
 
-I don't live here.
-من اینجا زندگی نمی‌کنم.
+I'm here  
+من اینجا هستم  
 
-You live here.
-تو اینجا زندگی می‌کنی.
+Are you here, too?  
+آیا تو هم اینجا هستی؟  
 
-You speak English.
-تو انگلیسی صحبت می‌کنی.
+No, I'm not here  
+نه، من اینجا نیستم  
 
-Do you speak English?
-آیا انگلیسی صحبت می‌کنی؟
+I live here  
+من اینجا زندگی می‌کنم  
 
-Do you live here?
-آیا اینجا زندگی می‌کنی؟
+I don't speak English  
+من انگلیسی صحبت نمی‌کنم  
 
-Yes, I live here.
-بله، من اینجا زندگی می‌کنم.
+I don't know  
+من نمی‌دانم  
 
-I'm not from here.
-من از اینجا نیستم.
+I don't live here  
+من اینجا زندگی نمی‌کنم  
 
-We're from Iran, too.
-ما هم از ایران هستیم.
+You live here  
+تو اینجا زندگی می‌کنی  
 
-We live here.
-ما اینجا زندگی می‌کنیم.
+You speak English  
+تو انگلیسی صحبت می‌کنی  
 
-We don't live here.
-ما اینجا زندگی نمی‌کنیم.
+Do you speak English?  
+آیا انگلیسی صحبت می‌کنی؟  
 
-in Iran
-در ایران
+Do you live here?  
+آیا اینجا زندگی می‌کنی؟  
 
-We live in Iran.
-ما در ایران زندگی می‌کنیم.
+Yes, I live here  
+بله، من اینجا زندگی می‌کنم  
 
-We live in Canada.
-ما در کانادا زندگی می‌کنیم.
+I'm not from here  
+من اهل اینجا نیستم  
 
-We don't live here.
-ما اینجا زندگی نمی‌کنیم.
+We're from Iran, too  
+ما هم اهل ایران هستیم  
 
-We don't live in Iran.
-ما در ایران زندگی نمی‌کنیم.
+We live here  
+ما اینجا زندگی می‌کنیم  
 
-We're from Iran.
-ما از ایران هستیم.
+We don't live here  
+ما اینجا زندگی نمی‌کنیم  
 
-Do you live here, too?
-آیا تو هم اینجا زندگی می‌کنی؟
+in Iran  
+در ایران  
 
-No, we live in Canada.
-نه، ما در کانادا زندگی می‌کنیم.
+We live in Iran  
+ما در ایران زندگی می‌کنیم  
 
-home
-خانه
+We live in Canada  
+ما در کانادا زندگی می‌کنیم  
 
-now
-حالا
+We don't live here  
+ما اینجا زندگی نمی‌کنیم  
 
-I live here.
-من اینجا زندگی می‌کنم.
+We don't live in Iran  
+ما در ایران زندگی نمی‌کنیم  
 
-Do you live here?
-آیا اینجا زندگی می‌کنی؟
+We're from Iran  
+ما اهل ایران هستیم  
 
-No, I don't live here.
-نه، من اینجا زندگی نمی‌کنیم
+Do you live here, too?  
+آیا تو هم اینجا زندگی می‌کنی؟  
 
-I'm living in Iran now.
-من الان در ایران زندگی می‌کنم.
+No, we live in Canada  
+نه، ما در کانادا زندگی می‌کنیم  
 
+home  
+خانه  
 
-I'm speaking Persian.
-من دارم فارسی صحبت می‌کنم.
+now  
+حالا  
 
+I live here  
+من اینجا زندگی می‌کنم  
 
-now
-حالا
+Do you live here?  
+آیا اینجا زندگی می‌کنی؟  
 
+No, I don't live here  
+نه، من اینجا زندگی نمی‌کنیم  
 
-I'm speaking Persian now.
-من حالا دارم فارسی صحبت می‌کنم.
+I'm living in Iran now  
+من الان در ایران زندگی می‌کنم 
 
+I'm speaking Persian  
+من دارم فارسی صحبت می‌کنم 
 
-I speak Persian.
-من فارسی صحبت می‌کنم.
+now  
+حالا  
 
-I'm speaking Persian.
-من دارم فارسی صحبت می‌کنم.
+I'm speaking Persian now  
+من حالا دارم فارسی صحبت می‌کنم 
 
-I live in Iran.
-من در ایران زندگی می‌کنم.
+I speak Persian  
+من فارسی صحبت می‌کنم  
 
-I'm living in Canada now.
-من الان در کانادا زندگی می‌کنم.
+I'm speaking Persian  
+من دارم فارسی صحبت می‌کنم  
 
-home
-خانه
+I live in Iran  
+من در ایران زندگی می‌کنم  
 
-I'm going.
-من دارم می‌روم.
+I'm living in Canada now  
+من الان در کانادا زندگی می‌کنم  
 
-I'm going home.
-من دارم به خانه می‌روم.
+home  
+خانه  
 
-I'm from Iran.
-من از ایران هستم.
+I'm going  
+من دارم می‌روم  
 
-I live in Canada.
-من در کانادا زندگی می‌کنم.
+I'm going home  
+من دارم به خانه می‌روم  
 
-I'm not Persian.
-من ایرانی نیستم.
+I'm from Iran  
+من اهل ایران هستم  
 
-I'm not better than you.
-من از تو بهتر نیستم.
+I live in Canada  
+من در کانادا زندگی می‌کنم  
 
-I'm going home now.
-من الان دارم به خانه می‌روم.
+I'm not Persian  
+من ایرانی نیستم  
 
-I'm not going home now.
-من الان دارم به خانه نمی‌روم.
+I'm not better than you  
+من اهل تو بهتر نیستم  
 
-Do you live here?
-آیا اینجا زندگی می‌کنی؟
+I'm going home now  
+من الان دارم به خانه می‌روم  
 
-No, we don't live here.
-نه، ما اینجا زندگی نمی‌کنیم.
+I'm not going home now  
+من الان دارم به خانه نمی‌روم  
 
+Do you live here?  
+آیا اینجا زندگی می‌کنی؟  
 
-We're living in Canada now.
-ما الان در کانادا زندگی می‌کنیم.
+No, we don't live here  
+نه، ما اینجا زندگی نمی‌کنیم  
 
+We're living in Canada now  
+ما الان در کانادا زندگی می‌کنیم 
 
-We live in Iran.
-ما در ایران زندگی می‌کنیم.
+We live in Iran  
+ما در ایران زندگی می‌کنیم  
 
+We're living in Iran  
+ما در ایران زندگی می‌کنیم 
 
-We're living in Iran.
-ما در ایران زندگی می‌کنیم.
+I'm going  
+من دارم می‌روم  
 
+I'm from Iran  
+من اهل ایران هستم  
 
-I'm going.
-من دارم می‌روم.
+We're from Iran  
+ما اهل ایران هستیم  
 
-I'm from Iran.
-من از ایران هستم.
+We're going  
+ما داریم می‌رویم  
 
-We're from Iran.
-ما از ایران هستیم.
+You're from Iran  
+شما اهل ایران هستی  
 
-We're going.
-ما داریم می‌رویم.
+You're going now  
+تو حالا داری می‌روی  
 
-You're from Iran.
-تو از ایران هستی.
+We're not going home now  
+ما الان داریم به خانه نمی‌رویم  
 
-You're going now.
-تو حالا داری می‌روی.
+mall  
+مرکز خرید  
 
-We're not going home now.
-ما الان داریم به خانه نمی‌رویم.
+a tea  
+یک چای  
 
-mall
-مرکز خرید
+a mall  
+یک مرکز خرید  
 
-a tea
-یک چای
+We're going to a mall  
+ما داریم به یک مرکز خرید می‌رویم  
 
-a mall
-یک مرکز خرید
+to a mall  
+به یک مرکز خرید  
 
-We're going to a mall.
-ما داریم به یک مرکز خرید می‌رویم.
+We're going to a mall  
+ما داریم به یک مرکز خرید می‌رویم  
 
-to a mall
-به یک مرکز خرید
+We're going home  
+ما داریم به خانه می‌رویم  
 
-We're going to a mall.
-ما داریم به یک مرکز خرید می‌رویم.
+We're going to a mall  
+ما داریم به یک مرکز خرید می‌رویم  
 
-We're going home.
-ما داریم به خانه می‌رویم.
+I'm going to a mall  
+من دارم به یک مرکز خرید می‌روم  
 
-We're going to a mall.
-ما داریم به یک مرکز خرید می‌رویم.
+to the mall  
+به مرکز خرید  
 
-I'm going to a mall.
-من دارم به یک مرکز خرید می‌روم.
+I'm going to the mall  
+من دارم به مرکز خرید می‌روم  
 
-to the mall
-به مرکز خرید
+I think we're going to the mall  
+من فکر می‌کنم ما داریم به مرکز خرید می‌رویم  
 
-I'm going to the mall.
-من دارم به مرکز خرید می‌روم.
+a store  
+یک مغازه  
 
-I think we're going to the mall.
-من فکر می‌کنم ما داریم به مرکز خرید می‌رویم.
+I'm going to a store  
+من دارم به یک مغازه می‌روم  
 
-a store
-یک مغازه
+I think we're going to the store  
+من فکر می‌کنم ما داریم به مغازه می‌رویم  
 
-I'm going to a store.
-من دارم به یک مغازه می‌روم.
+We're from Canada  
+ما اهل کانادا هستیم  
 
-I think we're going to the store.
-من فکر می‌کنم ما داریم به مغازه می‌رویم.
+Are you from Iran?  
+آیا شما اهل ایران هستی؟  
 
-We're from Canada.
-ما از کانادا هستیم.
+Are you going to the mall?  
+آیا تو داری به مرکز خرید می‌روی؟  
 
-Are you from Iran?
-آیا تو از ایران هستی؟
+Yes, we're going to the mall  
+بله، ما داریم به مرکز خرید می‌رویم  
 
-Are you going to the mall?
-آیا تو داری به مرکز خرید می‌روی؟
+Are you going to the store?  
+آیا تو داری به مغازه می‌روی؟  
 
-Yes, we're going to the mall.
-بله، ما داریم به مرکز خرید می‌رویم.
+No, we're going to the mall  
+نه، ما داریم به مرکز خرید می‌رویم  
 
-Are you going to the store?
-آیا تو داری به مغازه می‌روی؟
+I'm going to the store  
+من دارم به مغازه می‌روم  
 
-No, we're going to the mall.
-نه، ما داریم به مرکز خرید می‌رویم.
+Are you going home?  
+آیا تو داری به خانه می‌روی؟  
 
-I'm going to the store.
-من دارم به مغازه می‌روم.
+I'm at home  
+من در خانه هستم  
 
-Are you going home?
-آیا تو داری به خانه می‌روی؟
+Are you at home?  
+آیا تو در خانه هستی؟  
 
-I'm at home.
-من در خانه هستم.
+Are you home?  
+آیا تو در خانه هستی؟  
 
-Are you at home?
-آیا تو در خانه هستی؟
+No, we're at the mall  
+نه، ما در مرکز خرید هستیم  
 
-Are you home?
-آیا تو در خانه هستی؟
+I'm home  
+من در خانه هستم  
 
-No, we're at the mall.
-نه، ما در مرکز خرید هستیم.
+I'm at home  
+من در خانه هستم  
 
-I'm home.
-من در خانه هستم.
+I want some tea  
+من مقداری چای می‌خواهم  
 
-I'm at home.
-من در خانه هستم.
+at the mall  
+در مرکز خرید  
 
-I want some tea.
-من مقداری چای می‌خواهم.
+I'm going to the store  
+من دارم به مغازه می‌روم  
 
-at the mall
-در مرکز خرید
+from Iran  
+از ایران  
 
-I'm going to the store.
-من دارم به مغازه می‌روم.
+from the store  
+از مغازه  
 
-from Iran
-از ایران
+I want some tea from the store  
+من مقداری چای از مغازه می‌خواهم  
 
-from the store
-از مغازه
+I live here  
+من اینجا زندگی می‌کنم  
 
-I want some tea from the store.
-من مقداری چای از مغازه می‌خواهم.
+I think you know me  
+من فکر می‌کنم تو مرا می‌شناسی  
 
-I live here.
-من اینجا زندگی می‌کنم.
+Do you think I know you?  
+فکر می‌کنی من تو را می‌شناسم؟  
 
-I think you know me.
-من فکر می‌کنم تو مرا می‌شناسی.
+I know you think  
+من می‌دانم تو فکر می‌کنی  
 
-Do you think I know you?
-فکر می‌کنی من تو را می‌شناسم؟
+I know you  
+من تو را می‌شناسم  
 
-I know you think.
-من می‌دانم تو فکر می‌کنی.
+I know you think I know you  
+من می‌دانم تو فکر می‌کنی من تو را می‌شناسم  
 
-I know you.
-من تو را می‌شناسم.
 
-I know you think I know you.
-من می‌دانم تو فکر می‌کنی من تو را می‌شناسم.
+I don't know  
+من نمی‌دانم  
 
+You don't live here  
+تو اینجا زندگی نمی‌کنی  
 
-I don't know.
-من نمی‌دانم.
+I know  
+من می‌دانم  
 
-You don't live here.
-تو اینجا زندگی نمی‌کنی.
+I'm going to the mall  
+من دارم به مرکز خرید می‌روم  
 
-I know
-من می‌دانم
+I'm going to a mall  
+من دارم به یک مرکز خرید می‌روم  
 
-I'm going to the mall.
-من دارم به مرکز خرید می‌روم.
+We're going to the store  
+ما داریم به مغازه می‌رویم  
 
-I'm going to a mall.
-من دارم به یک مرکز خرید می‌روم.
+We want some coffee from the store  
+ما مقداری قهوه از مغازه می‌خواهیم  
 
-We're going to the store.
-ما داریم به مغازه می‌رویم.
+goodbye  
+خداحافظ  
 
-We want some coffee from the store.
-ما مقداری قهوه از مغازه می‌خواهیم.
+I'm going home  
+من دارم به خانه می‌روم  
 
-goodbye
-خداحافظ
+goodbye  
+خداحافظ  
 
-I'm going home.
-من دارم به خانه می‌روم.
+## بخش۴: واژگان کلیدی درس
 
-goodbye
-خداحافظ
+live  
+زندگی کردن  
 
-<hr/><br/>
+I live in Iran  
+من در ایران زندگی می‌کنم  
 
+here  
+اینجا  
 
-live
-زندگی کردن
+I'm going to Canada  
+من دارم به کانادا می‌روم  
 
-I live in Iran.
-من در ایران زندگی می‌کنم.
+now  
+حالا  
 
-here
-اینجا
+mall  
+مرکز خرید  
 
-I'm going to Canada.
-من دارم به کانادا می‌روم.
+the mall  
+مرکز خرید  
 
-now
-حالا
+We speak Persian  
+ما فارسی صحبت می‌کنیم  
 
-mall
-مرکز خرید
+store  
+مغازه  
 
-the mall
-مرکز خرید
+a store  
+یک مغازه  
 
-We speak Persian.
-ما فارسی صحبت می‌کنیم.
+a mall  
+یک مرکز خرید  
 
-store
-مغازه
+the store  
+مغازه  
 
-a store
-یک مغازه
+We want  
+ما می‌خواهیم.  
 
-a mall
-یک مرکز خرید
+good  
+خوب  
 
-the store
-مغازه
+goodbye  
+خداحافظ  
 
-We want.
-ما می‌خواهیم.
+## بخش ۵: مرور و تکرار
 
-good
-خوب
+I'm at home  
+من در خانه هستم  
 
-goodbye
-خداحافظ
+Are you at the mall?  
+آیا تو در مرکز خرید هستی؟  
 
-<hr/><br/>
+Yes, we're at the mall  
+بله، ما در مرکز خرید هستیم  
 
+Are you at the mall, too?  
+آیا تو هم در مرکز خرید هستی؟  
 
-I'm at home.
-من در خانه هستم.
+No, we're at the store  
+نه، ما در مغازه هستیم  
 
-Are you at the mall?
-آیا تو در مرکز خرید هستی؟
+I'm going home  
+من دارم به خانه می‌روم  
 
-Yes, we're at the mall.
-بله، ما در مرکز خرید هستیم.
+goodbye  
+خداحافظ  
 
-Are you at the mall, too?
-آیا تو هم در مرکز خرید هستی؟
+I live in Iran  
+من در ایران زندگی می‌کنم  
 
-No, we're at the store.
-نه، ما در مغازه هستیم.
+I'm from Canada  
+من اهل کانادا هستم  
 
-I'm going home.
-من دارم به خانه می‌روم.
+Can you speak English?  
+آیا می‌توانی انگلیسی صحبت کنی؟  
 
-goodbye
-خداحافظ
+Yes, I can  
+بله، می‌توانم  
 
-I live in Iran.
-من در ایران زندگی می‌کنم.
+Can you speak better than me?  
+آیا می‌توانی بهتر از من صحبت کنی؟  
 
-I'm from Canada.
-من از کانادا هستم.
+Yes, I can  
+بله، می‌توانم  
 
-Can you speak English?
-آیا می‌توانی انگلیسی صحبت کنی؟
+I don't know  
+من نمی‌دانم  
 
-Yes, I can.
-بله، می‌توانم.
+I'm at home  
+من در خانه هستم  
 
-Can you speak better than me?
-آیا می‌توانی بهتر از من صحبت کنی؟
+I'm going to the mall  
+من دارم به مرکز خرید می‌روم  
 
-Yes, I can.
-بله، می‌توانم.
+I'm going to a store  
+من دارم به یک مغازه می‌روم  
 
-I don't know.
-من نمی‌دانم.
+at the mall  
+در مرکز خرید  
 
-I'm at home.
-من در خانه هستم.
+I'm going to a store at the mall  
+من دارم به یک مغازه در مرکز خرید می‌روم  
 
-I'm going to the mall.
-من دارم به مرکز خرید می‌روم.
+Are you going to the mall, too?  
+آیا تو هم داری به مرکز خرید می‌روی؟  
 
-I'm going to a store.
-من دارم به یک مغازه می‌روم.
+No, we're going to a store  
+نه، ما داریم به یک مغازه می‌رویم  
 
-at the mall.
-در مرکز خرید.
+We're not going to the mall  
+ما داریم به مرکز خرید نمی‌رویم  
 
-I'm going to a store at the mall.
-من دارم به یک مغازه در مرکز خرید می‌روم.
+</div>
 
-Are you going to the mall, too?
-آیا تو هم داری به مرکز خرید می‌روی؟
-
-No, we're going to a store.
-نه، ما داریم به یک مغازه می‌رویم.
-
-We're not going to the mall.
-ما داریم به مرکز خرید نمی‌رویم.
-
-<hr/><br/>
-
-
+<br/>
 
 ::: tip پایان درس چهارم
 
-برای مطالعه درس قبلی یا بعدی، از دکمه‌های پایین صفحه استفاده کنید.
+برای مطالعه درس قبل یا بعدی، از دکمه‌های زیر استفاده کنید.  
 
 :::
