@@ -19,37 +19,44 @@ head:
 # درس پانزدهم
 > آموزش زبان انگلیسی نصرت
 
+<hr/><br/>
+### 🎧 فایل صوتی
+
+<AudioPlayer 
+  src="https://pdn.sharezilla.ir/d/audio/15.Amozesh.Zaban.Mp3.128kbps_p30download.com.mp3" 
+  title="🎵 گوش دادن به درس پانزدهم"
+/>
 <br/>
 
 ## بخش ۱: جملات پایه
 
 <div dir="ltr">
 
-Thanks a lot.  
+Thanks a lot  
 خیلی ممنون  
 
-It's late.  
+It's late  
 دیره  
 
 It's too late now  
 الان خیلی دیره.  
 
-We need eleven dollars.  
+We need eleven dollars  
 یازده دلار لازم داریم.  
 
-But twelve dollars is better.  
+But twelve dollars is better  
 ولی دوازده دلار بهتره  
 
-I can buy it tomorrow night.  
+I can buy it tomorrow night  
 می‌توانم فردا شب بخرمش  
 
-That's too much.  
+That's too much  
 اون خیلی زیاده (بیش از حد)  
 
-That's a lot.  
+That's a lot  
 اون یه عالمه‌ست  
 
-It's a lot of water.  
+It's a lot of water  
 یه عالمه آبه  
 
 Do you know where my son is?  
@@ -57,7 +64,7 @@ Do you know where my son is?
 
 <br/>
 
-## بخش ۲: سوالات و جواب‌ها
+## بخش ۲: سوال و جواب‌
 
 Hello. How are you?  
 سلام. حالت چطوره؟  
@@ -68,7 +75,7 @@ I'm fine, Thanks. And you?
 I'm fine, too. Thank you  
 منم خوبم. متشکرم  
 
-I have to borrow some money.  
+I have to borrow some money  
 من باید یه کم پول قرض کنم  
 
 With whom?  
@@ -89,49 +96,49 @@ I only have ten dollars.
 I can give you nine dollars.  
 می‌تونم نه دلار بهت بدم  
 
-I need one dollar.  
+I need one dollar  
 یه دلار لازم دارم  
 
-Then I have more than you.  
+Then I have more than you  
 پس من بیشتر از تو دارم  
 
-More than you.  
+More than you  
 بیشتر از تو  
 
-More than that.  
+More than that  
 بیشتر از اون  
 
-I need more than that.  
+I need more than that  
 من بیشتر از اون لازم دارم  
 
-But thanks anyway.  
+But thanks anyway  
 ولی به هر حال مرسی  
 
 Do you want to go to a restaurant together?  
 می‌خوای با هم بریم رستوران؟  
 
-Yes, I do.  
+Yes, I do  
 آره  
 
 But I have to go to the store, too.  
 ولی من باید برم مغازه، منم  
 
-I want to buy that book.  
+I want to buy that book  
 می‌خوام اون کتاب رو بخرم  
 
-I want to buy it today.  
+I want to buy it today  
 می‌خوام امروز بخرمش  
 
-We can go to the mall tonight.  
+We can go to the mall tonight  
 می‌تونیم امشب بریم پاساژ  
 
-But I'd like to go early.  
+But I'd like to go early  
 ولی دلم می‌خواد زود برم  
 
-I want some water.  
+I want some water  
 یه کم آب می‌خوام  
 
-Here you are.  
+Here you are  
 بفرمایید  
 
 Can you drink it now?  
@@ -141,28 +148,28 @@ Can you drink it now?
 
 ## بخش ۳: جملات تکمیلی
 
-Some more.  
+Some more  
 یه کم بیشتر  
 
-I want some more water.  
+I want some more water  
 یه کم بیشتر آب می‌خوام  
 
-I need ten dollars.  
+I need ten dollars  
 ده دلار لازم دارم  
 
-But I only have nine dollars.  
+But I only have nine dollars  
 ولی فقط نه دلار دارم  
 
-I need more money.  
+I need more money  
 پول بیشتری لازم دارم  
 
-Some more money.  
+Some more money  
 یه کم پول بیشتر  
 
-One more dollar.  
+One more dollar  
 یک دلار دیگه  
 
-I need one more dollar.  
+I need one more dollar  
 یک دلار دیگه لازم دارم  
 
 <br/>
@@ -177,15 +184,15 @@ B: How much is the book?
 
 <br/>
 
-A: It's ten dollars.  
+A: It's ten dollars  
 ده دلاره  
 
-B: I'm sorry, but I only have nine dollars.  
+B: I'm sorry, but I only have nine dollars  
 متاسفم، ولی من فقط نه دلار دارم  
 
 <br/>
 
-A: No, I need more than that. But thanks anyway.  
+A: No, I need more than that. But thanks anyway  
 نه، من بیشتر از اون لازم دارم. ولی به هر حال مرسی  
 
 B: I want some water. Where can I buy some water?  
@@ -196,12 +203,12 @@ B: I want some water. Where can I buy some water?
 A: Do you have to buy it now?  
 آیا باید الان بخرمش؟  
 
-B: I don't have to, but it's better to buy it now.  
+B: I don't have to, but it's better to buy it now  
 نباید الان بخرمش، ولی بهتره الان بخرمش  
 
 <br/>
 
-A: Then buy it later.  
+A: Then buy it later  
 پس بعداً بخرش  
 
 B: All right. Goodbye.  
@@ -213,24 +220,24 @@ A: Goodbye.
 
 <br/>
 
-## بخش ۵: جملات و تمرین‌ها
+## بخش ۵: تمرین‌ مکالمه
 
-Here's ten dollars.  
+Here's ten dollars  
 بفرما ده دلار  
 
-Thanks.  
+Thanks  
 مرسی  
 
-Thanks a lot.  
+Thanks a lot  
 خیلی ممنون  
 
-I'm going to give you two more dollars.  
+I'm going to give you two more dollars  
 دارم دو دلار دیگه بهت می‌دم  
 
-Thanks a lot.  
+Thanks a lot  
 خیلی ممنون  
 
-Now I have nine dollars.  
+Now I have nine dollars  
 حالا نه دلار دارم  
 
  
@@ -242,52 +249,52 @@ Now I have nine dollars.
 
 <br/> 
 
-Now I have nine dollars.  
+Now I have nine dollars  
 حالا نه دلار دارم (با تأکید)  
 
-Thanks a lot.  
+Thanks a lot  
 خیلی ممنون  
 
-You're welcome.  
+You're welcome  
 خواهش می‌کنم  
 
-Now I have to buy something.  
+Now I have to buy something  
 الان باید یه چیزی بخرم (با تأکید)  
 
-From the store.  
+From the store  
 از مغازه  
 
 What are you going to buy?  
 چی داری می‌خری؟  
 
-I want to buy some water.  
+I want to buy some water  
 می‌خوام یه کم آب بخرم  
 
-Now I have ten dollars.  
+Now I have ten dollars  
 حالا ده دلار دارم (با تأکید)  
 
-Thanks a lot.  
+Thanks a lot  
 خیلی ممنون  
 
-But it's early.  
+But it's early  
 ولی زوده  
 
-No, it's late.  
+No, it's late  
 نه، دیره  
 
-Maybe you can go tomorrow.  
+Maybe you can go tomorrow  
 شاید بتونی فردا بری  
 
-It's not early.  
+It's not early  
 زود نیست  
 
-It's not late.  
+It's not late  
 دیر نیست.  
 
-I don't think it's late.  
+I don't think it's late  
 فکر نمی‌کنم دیره  
 
-Then we can go together.  
+Then we can go together  
 پس می‌تونیم با هم بریم  
 
 Thanks a lot.  
