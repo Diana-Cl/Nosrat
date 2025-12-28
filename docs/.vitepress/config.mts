@@ -7,8 +7,8 @@ export default defineConfig({
   base: base,
   lang: 'fa-IR',
   dir: 'rtl',
-  title: 'آموزش زبان نصرت',
-  description: 'یادگیری سریع و آسان زبان انگلیسی',
+  title: '🦋',
+  description: 'یادگیری سریع زبان انگلیسی',
   cleanUrls: true,
 
   head: [
@@ -27,7 +27,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'خانه', link: '/' },
-      { text: 'درس‌ها', link: '/Lessons/lesson-1' },
+      { text: 'درس‌ اول', link: '/Lessons/lesson-1' },
     ],
 
     sidebar: [
