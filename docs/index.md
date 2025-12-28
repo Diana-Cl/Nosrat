@@ -47,8 +47,8 @@ features:
     <a href="/Lessons/lesson-6" class="lesson-card">درس ۶</a>
     <a href="/Lessons/lesson-7" class="lesson-card">درس ۷</a>
     <a href="/Lessons/lesson-8" class="lesson-card">درس ۸</a>
-    <a href="/Lessons/lesson-9" class="lesson-card">درس ۹</a>
-    <a href="/Lessons/lesson-10" class="lesson-card">درس ۱۰</a>
+    <a href="/docs/Lessons/lesson-9" class="lesson-card">درس ۹</a>
+    <a href="/Nosrat/Lessons/lesson-10" class="lesson-card">درس ۱۰</a>
     <a href="/Lessons/lesson-11" class="lesson-card">درس ۱۱</a>
     <a href="/Lessons/lesson-12" class="lesson-card">درس ۱۲</a>
     <a href="/Lessons/lesson-13" class="lesson-card">درس ۱۳</a>
