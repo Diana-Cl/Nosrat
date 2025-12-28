@@ -1,6 +1,8 @@
 ---
 layout: doc
 outline: deep
+land: "fa-IR"
+dir: "rtl"
 title: "درس پنجم"
 description: "آموزش زبان انگلیسی نصرت"
 date: 2025-12-25

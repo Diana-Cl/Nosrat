@@ -4,4 +4,7 @@ import './custom.css';
 
 export default {
   extends: DefaultTheme,
+  enhanceApp({ app }) {
+    DefaultTheme.enhanceApp?.({ app });
+  },
 } satisfies Theme;

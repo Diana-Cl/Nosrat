@@ -7,7 +7,7 @@ export default defineConfig({
   base: base,
   lang: 'fa-IR',
   dir: 'rtl',
-  title: '🦋',
+  title: 'nosrat🦋',
   description: 'یادگیری سریع زبان انگلیسی',
   cleanUrls: true,
 

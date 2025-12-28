@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: شروع یادگیری
-      link: /Lessons/lesson-1
+      link: ./Lessons/lesson-1
     - theme: alt
       text: گروه ما در تلگرام
       link: https://t.me/your-group
@@ -39,29 +39,29 @@ features:
   <h2 style="text-align: center; border: none; margin-bottom: 30px;">📚 فهرست درس‌ها</h2>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
-    <a href="/Lessons/lesson-1" class="lesson-card">درس ۱</a>
-    <a href="/Lessons/lesson-2" class="lesson-card">درس ۲</a>
-    <a href="/Lessons/lesson-3" class="lesson-card">درس ۳</a>
-    <a href="/Lessons/lesson-4" class="lesson-card">درس ۴</a>
-    <a href="/Lessons/lesson-5" class="lesson-card">درس ۵</a>
-    <a href="/Lessons/lesson-6" class="lesson-card">درس ۶</a>
-    <a href="/Lessons/lesson-7" class="lesson-card">درس ۷</a>
-    <a href="/Lessons/lesson-8" class="lesson-card">درس ۸</a>
-    <a href="/docs/Lessons/lesson-9" class="lesson-card">درس ۹</a>
-    <a href="/Nosrat/Lessons/lesson-10" class="lesson-card">درس ۱۰</a>
-    <a href="/Lessons/lesson-11" class="lesson-card">درس ۱۱</a>
-    <a href="/Lessons/lesson-12" class="lesson-card">درس ۱۲</a>
-    <a href="/Lessons/lesson-13" class="lesson-card">درس ۱۳</a>
-    <a href="/Lessons/lesson-14" class="lesson-card">درس ۱۴</a>
-    <a href="/Lessons/lesson-15" class="lesson-card">درس ۱۵</a>
-    <a href="/Lessons/lesson-16" class="lesson-card">درس ۱۶</a>
-    <a href="/Lessons/lesson-17" class="lesson-card">درس ۱۷</a>
-    <a href="/Lessons/lesson-18" class="lesson-card">درس ۱۸</a>
-    <a href="/Lessons/lesson-19" class="lesson-card">درس ۱۹</a>
-    <a href="/Lessons/lesson-20" class="lesson-card">درس ۲۰</a>
-    <a href="/Lessons/lesson-21" class="lesson-card">درس ۲۱</a>
-    <a href="/Lessons/lesson-22" class="lesson-card">درس ۲۲</a>
-    <a href="/Lessons/lesson-23" class="lesson-card">درس ۲۳</a>
+    <a href="./Lessons/lesson-1" class="lesson-card">درس ۱</a>
+    <a href="./Lessons/lesson-2" class="lesson-card">درس ۲</a>
+    <a href="./Lessons/lesson-3" class="lesson-card">درس ۳</a>
+    <a href="./Lessons/lesson-4" class="lesson-card">درس ۴</a>
+    <a href="./Lessons/lesson-5" class="lesson-card">درس ۵</a>
+    <a href="./Lessons/lesson-6" class="lesson-card">درس ۶</a>
+    <a href="./Lessons/lesson-7" class="lesson-card">درس ۷</a>
+    <a href="./Lessons/lesson-8" class="lesson-card">درس ۸</a>
+    <a href="./Lessons/lesson-9" class="lesson-card">درس ۹</a>
+    <a href="./Lessons/lesson-10" class="lesson-card">درس ۱۰</a>
+    <a href="./Lessons/lesson-11" class="lesson-card">درس ۱۱</a>
+    <a href="./Lessons/lesson-12" class="lesson-card">درس ۱۲</a>
+    <a href="./Lessons/lesson-13" class="lesson-card">درس ۱۳</a>
+    <a href="./Lessons/lesson-14" class="lesson-card">درس ۱۴</a>
+    <a href="./Lessons/lesson-15" class="lesson-card">درس ۱۵</a>
+    <a href="./Lessons/lesson-16" class="lesson-card">درس ۱۶</a>
+    <a href="./Lessons/lesson-17" class="lesson-card">درس ۱۷</a>
+    <a href="./Lessons/lesson-18" class="lesson-card">درس ۱۸</a>
+    <a href="./Lessons/lesson-19" class="lesson-card">درس ۱۹</a>
+    <a href="./Lessons/lesson-20" class="lesson-card">درس ۲۰</a>
+    <a href="./Lessons/lesson-21" class="lesson-card">درس ۲۱</a>
+    <a href="./Lessons/lesson-22" class="lesson-card">درس ۲۲</a>
+    <a href="./Lessons/lesson-23" class="lesson-card">درس ۲۳</a>
   </div>
 </div>
 
