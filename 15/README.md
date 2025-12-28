@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!WARNING]
 > 
 > ## درس پانزدهم
 > 
@@ -8,51 +8,53 @@
 
 ## بخش ۱: جملات پایه
 
-Thanks a lot.  
-خیلی ممنون.  
+<div dir="ltr">
 
-It's late.  
-دیره.  
+Thanks a lot  
+خیلی ممنون  
 
-It's too late now.  
-الان خیلی دیره.  
+It's late  
+دیره  
 
-We need eleven dollars.  
-یازده دلار لازم داریم.  
+It's too late now  
+الان خیلی دیره  
 
-But twelve dollars is better.  
-ولی دوازده دلار بهتره.  
+We need eleven dollars  
+یازده دلار لازم داریم  
 
-I can buy it tomorrow night.  
-می‌توانم فردا شب بخرمش.  
+But twelve dollars is better  
+ولی دوازده دلار بهتره  
 
-That's too much.  
-اون خیلی زیاده (بیش از حد).  
+I can buy it tomorrow night  
+می‌توانم فردا شب بخرمش  
 
-That's a lot.  
-اون یه عالمه‌ست.  
+That's too much  
+اون خیلی زیاده (بیش از حد)  
 
-It's a lot of water.  
-یه عالمه آبه.  
+That's a lot  
+اون یه عالمه‌ست  
+
+It's a lot of water  
+یه عالمه آبه  
 
 Do you know where my son is?  
 آیا می‌دونی پسرم کجاست؟  
 
-<hr/><br/>
+<br/>
 
 ## بخش ۲: سوالات و جواب‌ها
 
-Hello. How are you?  
+Hello How are you?  
 سلام. حالت چطوره؟  
 
 I'm fine, Thanks. And you?  
 خوبم، مرسی. شما چطور؟  
 
-I'm fine, too. Thank you.  
-منم خوبم. متشکرم.  
+I'm fine, too. Thank you  
+منم خوبم. متشکرم  
 
-I have to borrow some money.  
-من باید یه کم پول قرض کنم.  
+I have to borrow some money  
+من باید یه کم پول قرض کنم  
 
 With whom?  
 با کی؟  
@@ -60,399 +62,409 @@ With whom?
 From whom?  
 از کی؟  
 
-I'd like to borrow money from you.  
-دلم می‌خواد از تو پول قرض کنم.  
+I'd like to borrow money from you  
+دلم می‌خواد از تو پول قرض کنم  
 
-I don't have any cash.  
-من هیچ پول نقدی ندارم.  
+I don't have any cash  
+من هیچ پول نقدی ندارم  
 
-I only have ten dollars.  
-من فقط ده دلار دارم.  
+I only have ten dollars  
+من فقط ده دلار دارم  
 
-I can give you nine dollars.  
-می‌تونم نه دلار بهت بدم.  
+I can give you nine dollars  
+می‌تونم نه دلار بهت بدم  
 
-I need one dollar.  
-یه دلار لازم دارم.  
+I need one dollar  
+یه دلار لازم دارم  
 
-Then I have more than you.  
-پس من بیشتر از تو دارم.  
+Then I have more than you  
+پس من بیشتر از تو دارم  
 
-More than you.  
-بیشتر از تو.  
+More than you  
+بیشتر از تو  
 
-More than that.  
-بیشتر از اون.  
+More than that  
+بیشتر از اون  
 
-I need more than that.  
-من بیشتر از اون لازم دارم.  
+I need more than that  
+من بیشتر از اون لازم دارم  
 
-But thanks anyway.  
-ولی به هر حال مرسی.  
+But thanks anyway  
+ولی به هر حال مرسی  
 
 Do you want to go to a restaurant together?  
 می‌خوای با هم بریم رستوران؟  
 
-Yes, I do.  
-آره.  
+Yes, I do  
+آره  
 
-But I have to go to the store, too.  
-ولی من باید برم مغازه، منم.  
+But I have to go to the store, too  
+ولی من باید برم مغازه، منم  
 
-I want to buy that book.  
-می‌خوام اون کتاب رو بخرم.  
+I want to buy that book  
+می‌خوام اون کتاب رو بخرم  
 
-I want to buy it today.  
-می‌خوام امروز بخرمش.  
+I want to buy it today  
+می‌خوام امروز بخرمش  
 
-We can go to the mall tonight.  
-می‌تونیم امشب بریم پاساژ.  
+We can go to the mall tonight  
+می‌تونیم امشب بریم پاساژ  
 
-But I'd like to go early.  
-ولی دلم می‌خواد زود برم.  
+But I'd like to go early  
+ولی دلم می‌خواد زود برم  
 
-I want some water.  
-یه کم آب می‌خوام.  
+I want some water  
+یه کم آب می‌خوام  
 
-Here you are.  
-بفرمایید.  
+Here you are  
+بفرمایید  
 
 Can you drink it now?  
 می‌تونی الان بنوشیش؟  
 
-<hr/><br/>
+<br/>
 
 ## بخش ۳: جملات تکمیلی
 
-Some more.  
-یه کم بیشتر.  
+Some more  
+یه کم بیشتر  
 
-I want some more water.  
-یه کم بیشتر آب می‌خوام.  
+I want some more water  
+یه کم بیشتر آب می‌خوام  
 
-I need ten dollars.  
-ده دلار لازم دارم.  
+I need ten dollars  
+ده دلار لازم دارم  
 
-But I only have nine dollars.  
-ولی فقط نه دلار دارم.  
+But I only have nine dollars  
+ولی فقط نه دلار دارم  
 
-I need more money.  
-پول بیشتری لازم دارم.  
+I need more money  
+پول بیشتری لازم دارم  
 
-Some more money.  
-یه کم پول بیشتر.  
+Some more money  
+یه کم پول بیشتر  
 
-One more dollar.  
-یک دلار دیگه.  
+One more dollar  
+یک دلار دیگه  
 
-I need one more dollar.  
-یک دلار دیگه لازم دارم.  
+I need one more dollar  
+یک دلار دیگه لازم دارم  
 
-<hr/><br/>
+<br/>
 
 ## بخش ۴: مکالمه
 
-I have to buy a book, but I don't have any cash. Can I borrow some money from you?  
+A: I have to buy a book, but I don't have any cash Can I borrow some money from you?  
 من باید یه کتابی بخرم، اما هیچ پول نقدی ندارم. می‌تونم کمی پول از تو قرض بگیرم؟  
 
-How much is the book?  
+B: How much is the book?  
 کتابه چنده؟  
 
-It's ten dollars.  
-ده دلاره.  
+<br/>
 
-I'm sorry, but I only have nine dollars.  
-متاسفم، ولی من فقط نه دلار دارم.  
+A: It's ten dollars  
+ده دلاره  
 
-No, I need more than that. But thanks anyway.  
-نه، من بیشتر از اون لازم دارم. ولی به هر حال مرسی.  
+B: I'm sorry, but I only have nine dollars  
+متاسفم، ولی من فقط نه دلار دارم  
 
-I want some water. Where can I buy some water?  
+<br/>
+
+A: No, I need more than that. But thanks anyway.  
+نه، من بیشتر از اون لازم دارم. ولی به هر حال مرسی  
+
+B: I want some water. Where can I buy some water?  
 من کمی آب می‌خوام. کجا می‌تونم کمی آب بخرم؟  
 
-Do you have to buy it now?  
+<br/>
+
+A: Do you have to buy it now?  
 آیا باید الان بخرمش؟  
 
-I don't have to, but it's better to buy it now.  
-نباید الان بخرمش، ولی بهتره الان بخرمش.  
+B: I don't have to, but it's better to buy it now  
+نباید الان بخرمش، ولی بهتره الان بخرمش  
 
-Then buy it later.  
-پس بعداً بخرش.  
+<br/>
 
-All right. Goodbye.  
-باشه. بای.  
+A: Then buy it later  
+پس بعداً بخرش  
 
-Goodbye.  
-بای.  
+B: All right. Goodbye.  
+باشه. بای  
 
-<hr/><br/>
+
+A: Goodbye  
+بای  
+
+<br/>
 
 ## بخش ۵: جملات و تمرین‌ها
 
-Here's ten dollars.  
-بفرما ده دلار.  
+Here's ten dollars  
+بفرما ده دلار  
 
-Thanks.  
-مرسی.  
+Thanks  
+مرسی  
 
-Thanks a lot.  
-خیلی ممنون.  
+Thanks a lot  
+خیلی ممنون  
 
-I'm going to give you two more dollars.  
-دارم دو دلار دیگه بهت می‌دم.  
+I'm going to give you two more dollars  
+دارم دو دلار دیگه بهت می‌دم  
 
-Thanks a lot.  
-خیلی ممنون.  
+Thanks a lot  
+خیلی ممنون  
 
-Now I have nine dollars.  
-حالا نه دلار دارم.  
+Now I have nine dollars  
+حالا نه دلار دارم  
 
+ 
 > [!CAUTION]
 > 
 > **نکته:**
 > 
-> در درس‌های قبل گفتیم که برای تاکید کردن باید زمان رو در ابتدای جمله بیاریم.  
+> در درس‌های قبل گفتیم که برای تاکید کردن باید زمان رو در ابتدای جمله بیاریم  
 > 
 > <br/> 
 
-Now I have nine dollars.  
-حالا نه دلار دارم (با تأکید).  
+Now I have nine dollars  
+حالا نه دلار دارم (با تأکید)  
 
-Thanks a lot.  
-خیلی ممنون.  
+Thanks a lot  
+خیلی ممنون  
 
-You're welcome.  
-خواهش می‌کنم.  
+You're welcome  
+خواهش می‌کنم  
 
-Now I have to buy something.  
-الان باید یه چیزی بخرم (با تأکید).  
+Now I have to buy something  
+الان باید یه چیزی بخرم (با تأکید)  
 
-From the store.  
-از مغازه.  
+From the store  
+از مغازه  
 
 What are you going to buy?  
 چی داری می‌خری؟  
 
-I want to buy some water.  
-می‌خوام یه کم آب بخرم.  
+I want to buy some water  
+می‌خوام یه کم آب بخرم  
 
-Now I have ten dollars.  
-حالا ده دلار دارم (با تأکید).  
+Now I have ten dollars  
+حالا ده دلار دارم (با تأکید)  
 
-Thanks a lot.  
-خیلی ممنون.  
+Thanks a lot  
+خیلی ممنون  
 
-But it's early.  
-ولی زوده.  
+But it's early  
+ولی زوده  
 
-No, it's late.  
-نه، دیره.  
+No, it's late  
+نه، دیره  
 
-Maybe you can go tomorrow.  
-شاید بتونی فردا بری.  
+Maybe you can go tomorrow  
+شاید بتونی فردا بری  
 
-It's not early.  
-زود نیست.  
+It's not early  
+زود نیست  
 
-It's not late.  
-دیر نیست.  
+It's not late  
+دیر نیست  
 
-I don't think it's late.  
-فکر نمی‌کنم دیره.  
+I don't think it's late  
+فکر نمی‌کنم دیره  
 
-Then we can go together.  
-پس می‌تونیم با هم بریم.  
+Then we can go together  
+پس می‌تونیم با هم بریم  
 
-Thanks a lot.  
-خیلی ممنون.  
+Thanks a lot  
+خیلی ممنون  
 
-I don't have any cash with me.  
-هیچ پول نقدی همراهم ندارم.  
+I don't have any cash with me  
+هیچ پول نقدی همراهم ندارم  
 
 Can we go to my house?  
 می‌تونیم بریم خونه‌ی من؟  
 
-No, it's late now.  
-نه، الان دیره.  
+No, it's late now  
+نه، الان دیره  
 
-But I only have ten dollars.  
-ولی من فقط ده دلار دارم.  
+But I only have ten dollars  
+ولی من فقط ده دلار دارم  
 
-We need more than that.  
-بیشتر از اون لازم داریم.  
+We need more than that  
+بیشتر از اون لازم داریم  
 
-We need one more dollar.  
-یه دلار دیگه لازم داریم.  
+We need one more dollar  
+یه دلار دیگه لازم داریم  
 
-We need eleven dollars.  
-یازده دلار لازم داریم.  
+We need eleven dollars  
+یازده دلار لازم داریم  
 
 Can we go tomorrow?  
 می‌تونیم فردا بریم؟  
 
-It's late now.  
-الان دیره.  
+It's late now  
+الان دیره  
 
-And we don't have eleven dollars.  
-و یازده دلار نداریم.  
+And we don't have eleven dollars  
+و یازده دلار نداریم  
 
-We need more money.  
-پول بیشتری لازم داریم.  
+We need more money  
+پول بیشتری لازم داریم  
 
-Eleven dollars is fine.  
-یازده دلار خوبه.  
+Eleven dollars is fine  
+یازده دلار خوبه  
 
-But twelve dollars is better.  
-ولی دوازده دلار بهتره.  
+But twelve dollars is better  
+ولی دوازده دلار بهتره  
 
-We have eleven dollars now.  
-الان یازده دلار داریم.  
+We have eleven dollars now  
+الان یازده دلار داریم  
 
-But we need twelve dollars.  
-ولی دوازده دلار لازم داریم.  
+But we need twelve dollars  
+ولی دوازده دلار لازم داریم  
 
-Here's a dollar.  
-بفرما یه دلار.  
+Here's a dollar  
+بفرما یه دلار  
 
-Thanks a lot.  
-خیلی ممنون.  
+Thanks a lot  
+خیلی ممنون  
 
-I want to buy some coffee, too.  
-من می‌خوام یه کم قهوه هم بخرم.  
+I want to buy some coffee, too  
+من می‌خوام یه کم قهوه هم بخرم  
 
-And you have to buy some water.  
-و تو باید یه کم آب بخری.  
+And you have to buy some water  
+و تو باید یه کم آب بخری  
 
-More than twelve dollars.  
-بیشتر از دوازده دلار.  
+More than twelve dollars  
+بیشتر از دوازده دلار  
 
-We need more than twelve dollars.  
-ما بیشتر از دوازده دلار لازم داریم.  
+We need more than twelve dollars  
+ما بیشتر از دوازده دلار لازم داریم  
 
-I can borrow some money.  
-می‌تونم یه کم پول قرض کنم.  
+I can borrow some money  
+می‌تونم یه کم پول قرض کنم  
 
-From my son.  
-از پسرم.  
+From my son  
+از پسرم  
 
-I can borrow some money from my son.  
-می‌تونم از پسرم یه کم پول قرض کنم.  
+I can borrow some money from my son  
+می‌تونم از پسرم یه کم پول قرض کنم  
 
-But it's late now.  
-ولی الان دیره.  
+But it's late now  
+ولی الان دیره  
 
-It's too late.  
-خیلی دیره (بیش از حد).  
+It's too late  
+خیلی دیره (بیش از حد)  
 
-It's too late now.  
-الان خیلی دیره.  
+It's too late now  
+الان خیلی دیره  
 
-It's too late to go to the store now.  
-الان برای رفتن به مغازه خیلی دیره.  
+It's too late to go to the store now  
+الان برای رفتن به مغازه خیلی دیره  
 
-We only have twelve dollars.  
-ما فقط دوازده دلار داریم.  
+We only have twelve dollars  
+ما فقط دوازده دلار داریم  
 
-We need eleven more dollars.  
-یازده دلار دیگه لازم داریم.  
+We need eleven more dollars  
+یازده دلار دیگه لازم داریم  
 
-And it's too late.  
-و خیلی دیره.  
+And it's too late  
+و خیلی دیره  
 
 Do you have to buy it tonight?  
 آیا باید امشب بخرمش؟  
 
-No, I don't.  
-نه.  
+No, I don't  
+نه  
 
-It's too late now.  
-الان خیلی دیره.  
+It's too late now  
+الان خیلی دیره  
 
-I can buy it tomorrow night.  
-می‌تونم فردا شب بخرمش.  
+I can buy it tomorrow night  
+می‌تونم فردا شب بخرمش  
 
-We can go to the supermarket.  
-می‌تونیم بریم سوپرمارکت.  
+We can go to the supermarket  
+می‌تونیم بریم سوپرمارکت  
 
-Tomorrow night.  
-فردا شب.  
+Tomorrow night  
+فردا شب  
 
-We can go tomorrow night.  
-می‌تونیم فردا شب بریم.  
+We can go tomorrow night  
+می‌تونیم فردا شب بریم  
 
-It's too late tonight.  
-امشب خیلی دیره.  
+It's too late tonight  
+امشب خیلی دیره  
 
-We can go together tomorrow night.  
-می‌تونیم فردا شب با هم بریم.  
+We can go together tomorrow night  
+می‌تونیم فردا شب با هم بریم  
 
-Thanks a lot.  
-خیلی ممنون.  
+Thanks a lot  
+خیلی ممنون  
 
-I can borrow twelve dollars from my son.  
-می‌تونم دوازده دلار از پسرم قرض کنم.  
+I can borrow twelve dollars from my son  
+می‌تونم دوازده دلار از پسرم قرض کنم  
 
-That's too much.  
-اون خیلی زیاده.  
+That's too much  
+اون خیلی زیاده  
 
-Ten dollars is too much for a book.  
-ده دلار برای یه کتاب خیلی زیاده.  
+Ten dollars is too much for a book  
+ده دلار برای یه کتاب خیلی زیاده  
 
-We only need eleven more dollars.  
-ما فقط یازده دلار دیگه لازم داریم.  
+We only need eleven more dollars  
+ما فقط یازده دلار دیگه لازم داریم  
 
-But thanks anyway.  
-ولی به هر حال مرسی.  
+But thanks anyway  
+ولی به هر حال مرسی  
 
-That's too much money.  
-اون پول خیلی زیادیه.  
+That's too much money  
+اون پول خیلی زیادیه  
 
-It's not too much.  
-خیلی زیاد نیست.  
+It's not too much  
+خیلی زیاد نیست  
 
-We want to buy water, too.  
-ما می‌خوایم آب هم بخریم.  
+We want to buy water, too  
+ما می‌خوایم آب هم بخریم  
 
-It's too late.  
-خیلی دیره.  
+It's too late  
+خیلی دیره  
 
-It's too early.  
-خیلی زوده.  
+It's too early  
+خیلی زوده  
 
-We can go tomorrow night.  
-می‌تونیم فردا شب بریم.  
+We can go tomorrow night  
+می‌تونیم فردا شب بریم  
 
-I only want water now.  
-من الان فقط آب می‌خوام.  
+I only want water now  
+من الان فقط آب می‌خوام  
 
-Here you are.  
-بفرمایید.  
+Here you are  
+بفرمایید  
 
-That's too much water.  
-اون آب خیلی زیادیه.  
+That's too much water  
+اون آب خیلی زیادیه  
 
-That's a lot.  
-اون یه عالمه‌ست.  
+That's a lot  
+اون یه عالمه‌ست  
 
-It's not too much.  
-خیلی زیاد نیست.  
+It's not too much  
+خیلی زیاد نیست  
 
-But it's a lot.  
-ولی یه عالمه‌ست.  
+But it's a lot  
+ولی یه عالمه‌ست  
 
-It's a lot of water.  
-یه عالمه آبه.  
+It's a lot of water  
+یه عالمه آبه  
 
-But it's not too much.  
-ولی خیلی زیاد نیست.  
+But it's not too much  
+ولی خیلی زیاد نیست  
 
-I have a lot of money.  
-یه عالمه پول دارم.  
+I have a lot of money  
+یه عالمه پول دارم  
 
-But I don't have any cash.  
-ولی هیچی پول نقد ندارم.  
+But I don't have any cash  
+ولی هیچی پول نقد ندارم  
 
-<hr/><br/>
+<br/>
 
 ## بخش ۶: واژگان درس
 
@@ -477,48 +489,48 @@ A lot of
 A lot of money  
 یه عالمه پول  
 
-<hr/><br/>
+<br/>
 
 ## بخش ۷: سوال جواب‌ها 
 
 Can I borrow some cash?  
 می‌تونم یه کم پول نقد قرض کنم؟  
 
-I don't have a lot of money.  
-من پول زیادی ندارم.  
+I don't have a lot of money  
+من پول زیادی ندارم  
 
-I need more money.  
-پول بیشتری لازم دارم.  
+I need more money  
+پول بیشتری لازم دارم  
 
-I'm sorry. I can't give you more.  
+I'm sorry. I can't give you more  
 متاسفم، نمی‌تونم بیشتر بهت بدم.  
 
-I only have eleven dollars.  
-من فقط یازده دلار دارم.  
+I only have eleven dollars  
+من فقط یازده دلار دارم  
 
-That's a lot of money.  
-اون یه عالمه پوله.  
+That's a lot of money  
+اون یه عالمه پوله  
 
-Yes, but you need twelve dollars.  
-آره، ولی تو دوازده دلار لازم داری.  
+Yes, but you need twelve dollars  
+آره، ولی تو دوازده دلار لازم داری  
 
-But I don't need it today.  
-ولی امروز لازمش ندارم.  
+But I don't need it today  
+ولی امروز لازمش ندارم  
 
-For tomorrow night.  
-واسه فردا شب.  
+For tomorrow night  
+واسه فردا شب  
 
-I need it for tomorrow night.  
-واسه فردا شب لازمش دارم.  
+I need it for tomorrow night  
+واسه فردا شب لازمش دارم  
 
-It's too early now.  
-الان خیلی زوده.  
+It's too early now  
+الان خیلی زوده  
 
-But tomorrow night it's too late.  
-ولی فردا شب خیلی دیره.  
+But tomorrow night it's too late  
+ولی فردا شب خیلی دیره  
 
-I'd like to have the money tonight.  
-دلم می‌خواد پول رو امشب داشته باشم.  
+I'd like to have the money tonight  
+دلم می‌خواد پول رو امشب داشته باشم  
 
 Do you know where my son is?  
 می‌دونی پسرم کجاست؟  
@@ -529,73 +541,75 @@ Where's the Persian restaurant?
 Do you know where the restaurant is?  
 می‌دونی رستوران کجاست؟  
 
-It's far.  
-دوره.  
+It's far  
+دوره  
 
-And it's too late now.  
-و الان خیلی دیره.  
+And it's too late now  
+و الان خیلی دیره  
 
-It's too far.  
-خیلی دوره.  
+It's too far  
+خیلی دوره  
 
 Are you going to eat there?  
 می‌خوای اونجا غذا بخوری؟  
 
-No, it's too far.  
-نه، خیلی دوره.  
+No, it's too far  
+نه، خیلی دوره  
 
-And I don't have a lot of money.  
-و پول زیادی هم ندارم.  
+And I don't have a lot of money  
+و پول زیادی هم ندارم  
 
 How much do you have?  
 چقدر پول داری؟  
 
-I have eleven dollars.  
-یازده دلار دارم.  
+I have eleven dollars  
+یازده دلار دارم  
 
-Or maybe I have twelve dollars.  
-یا شاید دوازده دلار داشته باشم.  
+Or maybe I have twelve dollars  
+یا شاید دوازده دلار داشته باشم  
 
-I'm not sure.  
-مطمئن نیستم.  
+I'm not sure  
+مطمئن نیستم  
 
-That's a lot of money.  
-اون یه عالمه پوله.  
+That's a lot of money  
+اون یه عالمه پوله  
 
 Do you know where your money is?  
 می‌دونی پولت کجاست؟  
 
-No, I don't know where it is.  
-نه، نمی‌دونم کجاست.  
+No, I don't know where it is  
+نه، نمی‌دونم کجاست  
 
-I have more money at home.  
-خونه پول بیشتری دارم.  
+I have more money at home  
+خونه پول بیشتری دارم  
 
 Do you know where my house is?  
 می‌دونی خونه‌م کجاست؟  
 
-No, I don't know where your house is.  
-نه، نمی‌دونم خونه‌ت کجاست.  
+No, I don't know where your house is  
+نه، نمی‌دونم خونه‌ت کجاست  
 
-No, I don't know where it is.  
-نه، نمی‌دونم کجاست.  
+No, I don't know where it is  
+نه، نمی‌دونم کجاست  
 
-I want some water.  
-یه کم آب می‌خوام.  
+I want some water  
+یه کم آب می‌خوام  
 
-Here you are.  
-بفرمایید.  
+Here you are  
+بفرمایید  
 
-Thanks a lot.  
-خیلی ممنون.  
+Thanks a lot  
+خیلی ممنون  
 
-That's a lot of water.  
-اون یه عالمه آبه.
+That's a lot of water  
+اون یه عالمه آبه
 
-<hr/><br/>
+</div>
 
-### پایان درس پانزدهم  
+<br/> 
 
-[مطالعه درس قبلی](../14/README.md)  
+## پایان درس پانزدهم  
 
-[مطالعه درس بعدی](../16/README.md)  
+**[مطالعه درس قبلی](../14/README.md)**  
+
+**[مطالعه درس بعدی](../16/README.md)**  
