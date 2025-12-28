@@ -10,501 +10,805 @@ editLink: true
 head:
   - - meta
     - name: description
-      content: تندخوانی, آموزش زبان نصرت, زبان انگلیسی
+      content: آموزش زبان نصرت, زبان انگلیسی, تندخوانی
   - - meta
     - name: keywords
-      content: تندخوانی, آموزش زبان نصرت, زبان انگلیسی
+      content: آموزش زبان نصرت, زبان انگلیسی, تندخوانی
 ---
 
 # درس هفدهم
 > آموزش زبان انگلیسی نصرت
 
+<br/>
 
-<br/><br/>
+## بخش ۱: جملات پایه
 
-## بخش 1: اعداد و کلمات پایه
+<div dir="ltr">
 
-fifteen
-پانزده
+Fifteen  
+پانزده  
 
-sixteen
-شانزده
+Sixteen  
+شانزده  
 
-seventeen
-هفده
+Seventeen  
+هفده  
 
-eighteen
-هجده
+Eighteen  
+هجده  
 
-nineteen
-نوزده
+Nineteen  
+نوزده  
 
-she
-او (زن)
+She  
+او (مونث)  
+
+She's my daughter  
+او دختر منه  
+
+He'd like to eat something, too  
+او هم میل داره یه چیزی بخوره  
+
+Does your daughter live here?  
+آیا دختر شما اینجا زندگی می‌کنه؟  
+
+Does your son want to eat?  
+آیا پسرتون می‌خواد غذا بخوره؟  
+
+Ask me  
+از من بپرس  
+
+Ask me where Tehran is  
+از من بپرس تهران کجاست  
+
+Ask me if I have a car  
+از من بپرس که آیا من ماشین دارم  
+
+Tell me  
+به من بگو  
+
+Tell me you live in Iran  
+به من بگو شما در ایران زندگی می‌کنی  
+
+I don't know who that is  
+نمی‌دونم اون کیه  
+
+Where does your daughter want to go?  
+دخترتون می‌خواد کجا بره؟  
+
+Who's that?  
+اون کیه؟  
+
+That's my husband  
+اون شوهرمه  
+
+Is Ali home?  
+آیا علی منزله؟  
+
+No, he's not home  
+نه، خونه نیست  
+
+Ali's not home  
+علی خونه نیست  
+
+He's not home  
+اون خونه نیست  
+
+Where's my wallet?  
+کیف پولم کجاست؟  
+
+It's on the floor  
+روی زمینه  
+
+I owe you a lot  
+من یه عالمه به شما بدهکارم  
+
+I owe you fourteen dollars  
+من بهت چهارده دلار بدهکارم  
+
+You don't owe me fourteen dollars  
+تو به من چهارده دلار بدهکار نیستی  
+
+Then how much do I owe you?  
+پس چقدر بهت بدهکارم؟  
+
+You only owe me thirteen dollars  
+تو فقط سیزده دلار به من بدهکاری  
+
+Fifteen dollars  
+پانزده دلار  
+
+Fifteen  
+پانزده  
+
+I owe you a lot of money  
+من یه عالمه پول بهت بدهکارم  
+
+Ali owes you a lot, too  
+علی هم یه عالمه بهت بدهکاره  
+
+He only owes me fifteen dollars  
+اون فقط پانزده دلار به من بدهکاره  
 
 <br/>
 
-## بخش 2: جملات پایه
+## بخش ۲: ضمایر و واژگان درس
 
-She's my daughter.
-او دختر من است.
+Sixteen  
+شانزده  
 
-He'd like to eat something, too.
-او هم می‌خواهد چیزی بخورد.
+Sixteen dollars  
+شانزده دلار  
 
-Does your daughter live here?
-آیا دخترت اینجا زندگی می‌کند؟
+Six  
+شش  
 
-Does your son want to eat?
-آیا پسرت می‌خواهد غذا بخورد؟
+Seven  
+هفت  
 
-<br/>
+Seventeen  
+هفده  
 
-## بخش 3: سوالات و جواب‌ها
+Eight  
+هشت  
 
-Ask me.
-از من بپرس.
+Eighteen  
+هجده  
 
-Ask me where Tehran is?
-از من بپرس تهران کجاست؟
+Four  
+چهار  
 
-Ask me if I have a car?
-از من بپرس آیا ماشین دارم؟
+Fourteen  
+چهارده  
 
-Tell me.
-به من بگو.
+Five  
+پنج  
 
-Tell me you live in Iran.
-به من بگو که تو در ایران زندگی می‌کنی.
+Twelve  
+دوازده  
 
-I don't know who that is.
-من نمی‌دانم آن شخص کیست.
+Eleven  
+یازده  
 
-Where does your daughter want to go?
-دخترت می‌خواهد کجا برود؟
+Thirteen  
+سیزده  
 
-<br/>
+Three  
+سه  
 
-## بخش 4: مکالمه نمونه
-
-A: Mina, where's your daughter?
-مینا، دخترت کجاست؟
-
-B: She's at the mall.
-او در فروشگاه است.
-
-A: What does she want to buy?
-او چه چیزی می‌خواهد بخرد؟
-
-B: She wants to buy a book.
-او می‌خواهد یک کتاب بخرد.
-
-A: What are you doing tonight Mina?
-امشب چه کار می‌کنی مینا؟
-
-B: I'm going to the supermarket. I need to buy some food. Would you like to go with me?
-من می‌روم به سوپرمارکت. باید کمی غذا بخرم. دوست داری با من بیایی؟
-
-A: Maybe, I'm not sure. I don't have any money with me.
-شاید، مطمئن نیستم. پولی با خودم ندارم.
-
-B: I can give you some money. I owe you some money anyway. How much do I owe you?
-می‌توانم به تو کمی پول بدهم. به هر حال به تو مقداری پول بدهکارم. چقدر به تو بدهکارم؟
-
-A: you owe me thirteen dollars.
-تو به من سیزده دلار بدهکار هستی.
-
-B: Here's fourteen dollars.
-این چهارده دلار است.
-
-A: But that's a dollar more than you owe me.
-اما این یک دلار بیشتر از چیزی است که به من بدهکار هستی.
-
-B: Give it to your daughter. I'm sure she wants to buy something.
-آن را به دخترت بده. مطمئنم او می‌خواهد چیزی بخرد.
-
-A: All right, thanks.
-خیلی خوب، ممنون.
-
-B: You're welcome.
-خواهش می‌کنم.
+A lot  
+یه عالمه  
 
 <br/>
 
-## بخش 5: جملات کاربردی
+## بخش ۳: ادامه جملات
 
-Who's that?
-آن کیست؟
+A lot of money  
+یه عالمه پول  
 
-That's my husband.
-آن شوهر من است.
+A lot of water  
+یه عالمه آب  
 
-Is Ali home?
-آیا علی خانه است؟
+That's a lot of water  
+اون یه عالمه آبه  
 
-No, he's not home.
-نه، او خانه نیست.
+That's too much water  
+اون آبش خیلی زیاده  
 
-Ali's not home.
-علی خانه نیست.
+My son's going to go to Iran  
+پسرم داره می‌ره ایران  
 
-He's not home.
-او خانه نیست.
+He wants to go tomorrow  
+اون می‌خواد فردا بره  
 
-Where's my wallet?
-کیف پولم کجاست؟
+He's going to go tomorrow night  
+اون داره فرداشب می‌ره  
 
-It's on the floor.
-روی زمین است.
+My son wants to speak with you  
+پسرم می‌خواد با شما صحبت کنه  
 
-I owe you a lot.
-من به تو خیلی بدهکارم.
+He wants to speak with you  
+اون می‌خواد با شما صحبت کنه  
 
-I owe you fourteen dollars.
-من به تو چهارده دلار بدهکارم.
+Is that your daughter?  
+آیا اون دختر شماست؟  
 
-You don't owe me fourteen dollars.
-تو به من چهارده دلار بدهکار نیستی.
+Yes, she is my daughter  
+آره، اون دختر منه  
 
-Then how much do I owe you?
-پس چقدر به تو بدهکارم؟
+She  
+او (مونث)  
 
-You only owe me thirteen dollars.
-تو فقط به من سیزده دلار بدهکار هستی.
+She is  
+او هست  
+
+She is my daughter  
+اون دخترمه  
+
+He's my son  
+اون پسرمه (فشرده)  
+
+He is my son  
+اون پسرمه  
+
+She's my daughter  
+اون دخترمه (فشرده)  
+
+She's not my daughter  
+اون دختر من نیست  
+
+She lives in Canada  
+اون تو کانادا زندگی می‌کنه  
+
+My husband's there, too  
+شوهرم هم اونجاست  
+
+Where's my daughter?  
+دخترم کجاست؟  
+
+Where's she?  
+اون کجاست؟  
+
+Where's my son?  
+پسرم کجاست؟  
+
+Where's he?  
+اون کجاست؟  
+
+Where is he?  
+اون کجاست؟  
+
+Is my husband there?  
+آیا شوهرم اونجاست؟  
+
+No, he's not  
+نه  
+
+Yes, he is  
+آره  
+
+Do you want to speak with your husband?  
+می‌خوای با شوهرت صحبت کنی؟  
+
+Yes, I do  
+بله  
+
+Yes, please  
+بله، لطفاً  
+
+No, not now  
+نه، الان نه  
+
+Where's my daughter?  
+دخترم کجاست؟  
+
+She's here  
+اون اینجاست  
+
+She can speak English  
+اون می‌تونه انگلیسی صحبت کنه  
+
+I would like to eat something  
+من میل دارم یه چیزی بخورم  
+
+And your husband?  
+و شوهرتون؟  
+
+My husband would like to eat something, too  
+شوهرم هم میل داره یه چیزی بخوره  
+
+He would like to eat something, too  
+اون هم میل داره یه چیزی بخوره  
+
+I'd like to eat something  
+من میل دارم یه چیزی بخورم (فشرده)  
+
+He'd like to eat something, too  
+اون هم میل داره یه چیزی بخوره (فشرده)  
+
+And your daughter?  
+و دخترتون؟  
+
+She'd like to eat something, too  
+اون هم میل داره یه چیزی بخوره (فشرده)  
+
+She wants to eat something  
+اون می‌خواد یه چیزی بخوره  
+
+You want to eat  
+شما می‌خواید غذا بخورید  
+
+Do you want to eat?  
+آیا شما می‌خواید غذا بخورید؟  
+
+Your son wants to eat  
+پسرتون می‌خواد غذا بخوره  
+
+Does your son want to eat?  
+آیا پسرتون می‌خواد غذا بخوره؟  
 
 <br/>
 
-## بخش 6: کلمات کلیدی
+## بخش ۴: مرور جملات کلیدی
 
-fifteen dollars
-پانزده دلار
+I live here  
+من اینجا زندگی می‌کنم  
 
-fifteen
-پانزده
+Do you live here?  
+آیا شما اینجا زندگی می‌کنید؟  
 
-I owe you a lot of money.
-من به تو خیلی پول بدهکارم.
+My son lives here   
+پسرم اینجا زندگی می‌کنه  
 
-Ali owes you a lot, too.
-علی هم به تو خیلی بدهکار است.
+Does your son live here?  
+آیا پسرتون اینجا زندگی می‌کنه؟  
 
-He only owes me fifteen dollars.
-او فقط به من پانزده دلار بدهکار است.
+Does he live here?  
+آیا اون اینجا زندگی می‌کنه؟  
 
-sixteen
-شانزده
+My daughter understands English   
+دخترم انگلیسی می‌فهمه  
 
-sixteen dollars
-شانزده دلار
+She understands English  
+اون انگلیسی می‌فهمه  
 
-six
-شش
+Does she understand Persian?  
+آیا اون فارسی می‌فهمه؟  
 
-sixteen
-شانزده
+No, she can't speak Persian  
+نه، اون نمی‌تونه فارسی صحبت کنه  
 
-seven
-هفت
+But my son understands Persian  
+ولی پسرم فارسی می‌فهمه  
 
-seventeen
-هفده
-
-eight
-هشت
-
-eighteen
-هجده
-
-four
-چهار
-
-fourteen
-چهارده
-
-fifteen
-پانزده
-
-five
-پنج
-
-twelve
-دوازده
-
-eleven
-یازده
-
-thirteen
-سیزده
-
-three
-سه
-
-a lot
-خیلی زیاد
-
-a lot of money
-خیلی پول
-
-a lot of water
-خیلی آب
-
-That's a lot of water.
-این خیلی آب است.
-
-That's too much water.
-این آب خیلی زیاد است.
+He speaks English, too  
+اون انگلیسی هم صحبت می‌کنه  
 
 <br/>
 
-## بخش 7: جملات کاربردی
+## بخش ۵: مکالمه
 
-My son's going to go to Iran.
-پسر من می‌خواهد به ایران برود.
+A: Mina, where's your daughter?  
+مینا، دخترت کجاست  
 
-He wants to go tomorrow.
-او می‌خواهد فردا برود.
+B: She's at the mall  
+اون پاساژه  
 
-He's going to go tomorrow night.
-او فردا شب می‌رود.
+<br/> 
 
-My son wants to speak with you.
-پسر من می‌خواهد با تو صحبت کند.
+A: What does she want to buy?  
+اون چی می‌خواد بخره  
 
-He wants to speak with you.
-او می‌خواهد با تو صحبت کند.
+B: She wants to buy a book  
+می‌خواد یه کتاب بخره  
 
-Is that your daughter?
-آیا آن دختر تو است؟
+<br/> 
 
-Yes, she is my daughter.
-بله، او دختر من است.
+A: What are you doing tonight, Mina?  
+مینا امشب داری چکار می‌کنی  
 
-she
-او (زن)
+B: I'm going to the supermarket  
+دارم می‌رم به سوپرمارکت  
 
-She is.
-او هست.
+<br/> 
 
-She is my daughter.
-او دختر من است.
+A: I need to buy some food  
+لازم دارم کمی غذا بخرم  
 
-He's my son.
-او پسر من است.
+B: Would you like to go with me?  
+دلت می‌خواد با من بیای  
 
-He is my son.
-او پسر من است.
+<br/> 
 
-She's my daughter.
-او دختر من است.
+A: Maybe, I'm not sure  
+شاید، مطمئن نیستم  
 
-She's not my daughter.
-او دختر من نیست.
+B: I don't have any money with me  
+من هیچ پولی همراهم ندارم  
 
-She lives in Canada.
-او در کانادا زندگی می‌کند.
+<br/> 
 
-My husband's there, too.
-شوهرم هم آنجاست.
+A: I can give you some money  
+می‌تونم کمی پول بهت بدم  
 
-Where's my daughter?
-دخترم کجاست؟
+B: I owe you some money anyway  
+به هر حال من کمی پول بهت بدهکارم  
 
-Where's she?
-او کجاست؟
+<br/> 
 
-Where's my son?
-پسرم کجاست؟
+A: How much do I owe you?  
+چقدر بهت بدهکارم  
 
-Where's he?
-او کجاست؟
+B: You owe me thirteen dollars  
+تو سیزده دلار به من بدهکاری  
 
-Where is he?
-او کجاست؟
+<br/> 
 
-Is my husband there?
-آیا شوهرم آنجاست؟
+A: Here's fourteen dollars  
+بفرما چهارده دلار  
 
-No, he's not.
-نه، او نیست.
+B: But that's a dollar more than you owe me  
+اما اون یه دلار بیشتر از بدهی تو به منه  
 
-Yes, he is.
-بله، او هست.
+<br/> 
 
-Do you want to speak with your husband?
-آیا می‌خواهی با شوهرت صحبت کنی؟
+A: Give it to your daughter  
+بده به دخترت  
 
-Yes, I do.
-بله، می‌خواهم.
+B: I'm sure she wants to buy something  
+مطمئنم اون می‌خواد یه چیزی بخره  
 
-Yes, please.
-بله، لطفاً.
+<br/> 
 
-No, not now.
-نه، الان نه.
+A: All right, thanks  
+باشه، مرسی  
 
-Where's my daughter?
-دخترم کجاست؟
-
-She's here.
-او اینجاست.
-
-She can speak English.
-او می‌تواند انگلیسی صحبت کند.
-
-I would like to eat something.
-من می‌خواهم چیزی بخورم.
-
-and your husband?
-و شوهرت؟
-
-My husband would like to eat something, too.
-شوهرم هم می‌خواهد چیزی بخورد.
-
-He would like to eat something, too.
-او هم می‌خواهد چیزی بخورد.
-
-I'd like to eat something.
-من می‌خواهم چیزی بخورم.
-
-He'd like to eat something, too.
-او هم می‌خواهد چیزی بخورد.
-
-and your daughter?
-و دخترت؟
-
-She'd like to eat something, too.
-او هم می‌خواهد چیزی بخورد.
-
-She wants to eat something.
-او می‌خواهد چیزی بخورد.
-
-You want to eat.
-تو می‌خواهی غذا بخوری.
-
-Do you want to eat?
-آیا می‌خواهی غذا بخوری؟
-
-Your son wants to eat.
-پسرت می‌خواهد غذا بخورد.
-
-Does your son want to eat?
-آیا پسرت می‌خواهد غذا بخورد؟
-
-do you?
-تو چطور؟
-
-does your daughter?
-دخترت چطور؟
-
-does she?
-او چطور؟
-
-do you?
-تو چطور؟
-
-does your husband?
-شوهرت چطور؟
-
-does he?
-او چطور؟
-
-I live here.
-من اینجا زندگی می‌کنم.
-
-Do you live here?
-آیا تو اینجا زندگی می‌کنی؟
-
-My son lives here.
-پسر من اینجا زندگی می‌کند.
-
-Does your son live here?
-آیا پسرت اینجا زندگی می‌کند؟
-
-Does he live here?
-آیا او اینجا زندگی می‌کند؟
-
-My daughter understands English.
-دخترم انگلیسی می‌فهمد.
-
-She understands English.
-او انگلیسی می‌فهمد.
-
-Does she understand Persian?
-آیا او فارسی می‌فهمد؟
-
-No, she can't speak Persian.
-نه، او نمی‌تواند فارسی صحبت کند.
-
-But my son understands Persian.
-اما پسر من فارسی می‌فهمد.
-
-He speaks English, too.
-او انگلیسی هم صحبت می‌کند.
+B: You're welcome  
+خواهش می‌کنم  
 
 <br/>
 
-## بخش 8: مکالمه نمونه
+## بخش ۶: Ask - Tell - Where - When
 
-A: Who's that? Do you know who that is?
-آن کیست؟ آیا می‌دانی آن کیست؟
+Ask me  
+از من بپرس  
 
-B: I don't know who that is.
-من نمی‌دانم آن کیست.
+Where's my daughter?  
+دخترم کجاست  
 
-A: Where's my son? Do you know where my son is?
-پسرم کجاست؟ آیا می‌دانی پسرم کجاست؟
+I don't know where your daughter is  
+نمی‌دونم دخترت کجاست  
 
-B: I don't know where he is.
-من نمی‌دانم او کجاست.
+Who's that?  
+اون کیه  
 
-A: Where's my wallet? Do you know where my wallet is?
-کیف پولم کجاست؟ آیا می‌دانی کیف پولم کجاست؟
+I don't know who that is  
+نمی‌دونم اون کیه  
 
-B: I don't know where your wallet is. I don't know where it is.
-من نمی‌دانم کیف پولت کجاست. من نمی‌دانم کجاست.
+Do you want to go?  
+می‌خوای بری  
 
-A: What's that? Do you know what that is?
-آن چیست؟ آیا می‌دانی آن چیست؟
+Does your daughter want to go?  
+دخترت می‌خواد بره  
 
-B: I don't know what that is.
-من نمی‌دانم آن چیست.
+Where do you want to go?  
+کجا می‌خوای بری  
 
-A: When does your daughter want to go to Iran? Do you know when your daughter wants to go to Iran?
-دخترت چه زمانی می‌خواهد به ایران برود؟ آیا می‌دانی دخترت چه زمانی می‌خواهد به ایران برود؟
+Where does your daughter want to go?  
+دخترت می‌خواد کجا بره  
 
-B: I don't know when she wants to go to Iran.
-من نمی‌دانم او چه زمانی می‌خواهد به ایران برود.
+She wants to go to the restaurant  
+اون می‌خواد بره رستوران  
 
-A: Does your husband drink coffee? Do you know if your husband drinks coffee?
-آیا شوهرت قهوه می‌نوشد؟ آیا می‌دانی آیا شوهرت قهوه می‌نوشد؟
+When is she going there?  
+اون کی داره می‌ره اونجا  
 
-B: I don't know if he drinks coffee.
-من نمی‌دانم آیا او قهوه می‌نوشد.
+I don't know when she's going there  
+نمی‌دونم کی داره می‌ره اونجا  
 
-A: How much does my son owe you? Do you know how much my son owes you?
-پسرم چقدر به تو بدهکار است؟ آیا می‌دانی پسرم چقدر به تو بدهکار است؟
+Ask me  
+از من بپرس  
 
-B: I don't know how much he owes me, but I know he doesn't owe me a lot.
-من نمی‌دانم او چقدر به من بدهکار است، اما می‌دانم که خیلی به من بدهکار نیست.
+Where's Tehran?  
+تهران کجاست  
 
-A: Is your son in Canada now? Do you know if your son is in Canada now?
-آیا پسرم الان در کانادا است؟ آیا می‌دانی آیا پسرم الان در کانادا است؟
+Tehran is in Iran  
+تهران تو ایرانه  
 
-B: I don't know if he is in Canada.
-من نمی‌دانم آیا او در کانادا است.
+Tehran's in Iran  
+تهران تو ایرانه  
 
-A: Does your son know you're here?
-آیا پسرم می‌داند تو اینجا هستی؟
+When are you going to Iran?  
+کی داری می‌ری ایران  
 
-B: I don't know if he knows I'm here. I don't know if he knows that. I think he knows that. Yes, he does. No, he doesn't.
-من نمی‌دانم آیا او می‌داند من اینجا هستم. من نمی‌دانم آیا او این را می‌داند. فکر می‌کنم او این را می‌داند. بله، او می‌داند. نه، او نمی‌داند.
+I'm going to Iran tomorrow  
+دارم فردا می‌رم ایران  
+
+Where are you from?  
+اهل کجایی  
+
+Where's your husband from?  
+شوهرت اهل کجاست  
+
+He's from Iran  
+اهل ایرانه  
+
+Ask me where my husband is from  
+از من بپرس شوهرم اهل کجاست  
+
+Ask me where he is now  
+از من بپرس الان کجاست  
+
+He's in Canada now  
+الان تو کاناداست  
+
+::: danger **نکته** ‌
+
+توجه کنید  کلمه `If` معمولا معنی اگر دارد اما در اینجا به معنی `که آیا` یا `آیا` هم میاد
+
+:::
+
+Do you have a car?  
+ماشین داری  
+
+Yes, I do  
+آره  
+
+No, I don't  
+نه  
+
+Live  
+زندگی کردن  
+
+I live  
+من زندگی می‌کنم  
+
+Lives  
+زندگی کردن  
+
+She lives  
+اون زندگی می‌کنه  
+
+She lives in Canada  
+اون تو کانادا زندگی می‌کنه  
+
+One  
+یک  
+
+Eleven  
+یازده  
+
+Twelve  
+دوازده 
+
+Three  
+سه  
+
+Thirteen  
+سیزده  
+
+Fourteen  
+چهارده  
+
+Fifteen  
+پونزده  
+
+Six  
+شش  
+
+Sixteen  
+شونزده  
+
+Seventeen  
+هفده  
+
+Eighteen  
+هجده  
+
+Nineteen  
+نوزده  
+
+If  
+اگه  
+
+<br/> 
+
+## بخش ۷: مروری بر کلیات درس امروز
+
+Does your son live here?  
+آیا پسرت اینجا زندگی می‌کنه؟ 
+
+Ask me if my son lives here  
+از من بپرسید که آیا پسرم اینجا زندگی می‌کنه  
+
+Does your son live here?  
+آیا پسرت اینجا زندگی می‌کنه؟  
+
+No, he lives in Iran  
+نه، اون تو ایران زندگی می‌کنه  
+
+What do you want to buy?  
+چی می‌خوای بخری  
+
+I want to buy a book  
+می‌خوام یه کتاب بخرم  
+
+Is my son at your house?  
+پسرم خونه شماست  
+
+No, he's not here  
+نه، اینجا نیست  
+
+Yes, he's here  
+آره، اینجاست  
+
+Is she your daughter?  
+آیا اون دختر شماست؟  
+
+Yes, she is  
+آره  (جواب مثبت کوتاه)
+
+No, she's not   
+نه  (جواب منفی کوتاه)
+
+Does she drink coffee?  
+آیا اون قهوه می‌خوره؟  
+
+Yes, she does  
+آره  (جواب مثبت کوتاه)
+
+Yes she drinks coffee  
+
+Do you want to buy a car?  
+آیا شما میخواید ماشین بخرید؟  
+
+Does your husband want to buy a car?  
+آیا شوهرت می‌خواد ماشین بخره؟  
+
+Does he want to buy a car?  
+آیا او میخواد ماشین بخره؟  
+
+Yes, he does  
+آره  (جواب مثبت کوتاه)
+
+No, he doesn't  
+نه  (جواب منفی کوتاه)  
+
+He doesn't want to buy a car  
+اون نمی‌خواد ماشین بخره  
 
 <br/>
 
+My daughter doesn't want to live here  
+She doesn't want to live here  
+دخترم نمی‌خواد اینجا زندگی کنه  
 
+Where does she live?  
+کجا زندگی می‌کنه؟  
 
-::: tip پایان درس هفدهم
+What does she do?  
+چکار می‌کنه؟  
 
-برای مطالعه درس قبلی یا بعدی، از دکمه‌های پایین صفحه استفاده کنید.
+What does she want to buy?  
+چی می‌خواد بخره؟ (مونث)  
+
+Do you live in Iran?  
+تو ایران زندگی می‌کنی؟  
+
+No, I don't  
+نه  (جواب منفی کوتاه)  
+
+Yes, I do  
+آره  (جواب مثبت کوتاه)  
+
+Does your husband want some coffee?  
+شوهرت یه کم قهوه می‌خواد  
+
+Yes, he does  
+آره  (جواب مثبت کوتاه)  
+
+No, he doesn't  
+نه  (جواب منفی کوتاه)  
+
+Tell me  
+به من بگو (به من بگید) 
+
+Tell me you live in Iran  
+به من بگو تو ایران زندگی می‌کنی  
+
+I live in Iran  
+من تو ایران زندگی می‌کنم  
+
+Ali wants to buy a car  
+علی می‌خواد ماشین بخره  
+
+I live in Canada  
+من تو کانادا زندگی می‌کنم  
+
+Your daughter doesn't drink coffee  
+دخترت قهوه نمی‌خوره  
+
+She speaks English very well  
+اون انگلیسی رو خیلی خوب صحبت می‌کنه  
+
+A lot  
+یه عالمه  
+
+Better  
+بهتر  
+
+A lot better  
+یه عالمه بهتر  
+
+I speak English a lot better now  
+الان انگلیسی رو خیلی بهتر صحبت می‌کنم  
+
+<br/>
+
+## مکالمه پایانی
+
+A: Who's that? Do you know who that is?  
+اون کیه، می‌دونی اون کیه؟؟  
+
+B: I don't know who that is  
+نمی‌دونم اون کیه  
+
+<br/> 
+
+A: Where's my son? Do you know where my son is?  
+پسرم کجاست، می‌دونی پسرم کجاست؟  
+
+B: I don't know where he is  
+نمی‌دونم کجاست  
+
+<br/> 
+
+A: Where's my wallet? Do you know where my wallet is?  
+کیف پولم کجاست، می‌دونی کیف پولم کجاست  
+
+B: I don't know where your wallet is, I don't know where it is  
+نمی‌دونم کیف پولت کجاست، نمی‌دونم کجاست  
+
+<br/> 
+
+A: What's that? Do you know what that is?  
+اون چیه، می‌دونی اون چی؟ه  
+
+B: I don't know what that is  
+نمی‌دونم اون چیه  
+
+<br/> 
+
+A: When does your daughter want to go to Iran?  Do you know when your daughter wants to go to Iran?  
+دخترت کی می‌خواد بره ایران؟ می‌دونی دخترت کی می‌خواد بره ایران؟‌‌
+
+B: I don't know when she wants to go to Iran  
+نمی‌دونم کی می‌خواد بره ایران  
+
+<br/> 
+
+A: Does your husband drink coffee?  Do you know if your husband drinks coffee?  
+شوهرت قهوه می‌خوره؟  آیا می‌دونی که شوهرت قهوه می‌خوره؟  
+
+B: I don't know if he drinks coffee  
+نمی‌دونم قهوه می‌خوره یا نه  
+
+<br/> 
+
+A: How much does my son owe you? Do you know how much my son owes you?  
+پسرم چقدر به تو بدهکاره؟ می‌دونی پسرم چقدر به تو بدهکاره؟  
+
+B: I don't know how much he owes me, But I know he doesn't owe me a lot  
+نمی‌دونم چقدر به من بدهکاره، ولی می‌دونم خیلی به من بدهکار نیست  
+
+<br/> 
+
+A: Is your son in Canada now?  Do you know if your son is in Canada now?  
+پسرت الان تو کاناداست؟ آیا می‌دونی که پسزت الان تو کاناداست؟  می‌دونی پسرت الان تو کاناداست؟  
+
+B: I don't know if he is in Canada  
+من نمی‌دونم که اون تو کاناداست
+
+<br/> 
+
+A: Does your son know you're here?  
+پسرت می‌دونه تو اینجایی  
+
+B: I don't know if he knows I'm here, I don't know if he knows that, I think he knows that  
+نمی‌دونم می‌دونه من اینجام یا نه، نمی‌دونم اینو می‌دونه یا نه، فکر می‌کنم اینو می‌دونه  
+
+Yes, he does  
+آره  (جواب مثبت کوتاه)  
+
+No, he doesn't  
+نه  (جواب منفی کوتاه)  
+
+</div>
+
+<hr/><br/>
+
+::: tip **پایان درس هفدهم**  
+
+برای مطالعه درس قبلی یا بعدی، از دکمه‌های زیر استفاده کنید.
 
 :::
