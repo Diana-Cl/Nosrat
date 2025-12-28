@@ -1,509 +1,615 @@
-> [!NOTE]
-> ### درس اول آموزش زبان انگلیسی نصرت
+> [!WARNING]
+> 
+> ## درس پانزدهم
+> 
+> آموزش زبان انگلیسی نصرت
+
+<br/>
+
+## بخش ۱: جملات پایه
+
+<div dir="ltr">
+
+Thanks a lot  
+خیلی ممنون  
+
+It's late  
+دیره  
+
+It's too late now  
+الان خیلی دیره  
+
+We need eleven dollars  
+یازده دلار لازم داریم  
+
+But twelve dollars is better  
+ولی دوازده دلار بهتره  
+
+I can buy it tomorrow night  
+می‌توانم فردا شب بخرمش  
+
+That's too much  
+اون خیلی زیاده (بیش از حد)  
+
+That's a lot  
+اون یه عالمه‌ست  
+
+It's a lot of water  
+یه عالمه آبه  
+
+Do you know where my son is?  
+آیا می‌دونی پسرم کجاست؟  
+
+<br/>
+
+## بخش ۲: سوالات و جواب‌ها
+
+Hello How are you?  
+سلام. حالت چطوره؟  
+
+I'm fine, Thanks. And you?  
+خوبم، مرسی. شما چطور؟  
+
+I'm fine, too. Thank you  
+منم خوبم. متشکرم  
+
+I have to borrow some money  
+من باید یه کم پول قرض کنم  
+
+With whom?  
+با کی؟  
+
+From whom?  
+از کی؟  
+
+I'd like to borrow money from you  
+دلم می‌خواد از تو پول قرض کنم  
+
+I don't have any cash  
+من هیچ پول نقدی ندارم  
+
+I only have ten dollars  
+من فقط ده دلار دارم  
+
+I can give you nine dollars  
+می‌تونم نه دلار بهت بدم  
+
+I need one dollar  
+یه دلار لازم دارم  
+
+Then I have more than you  
+پس من بیشتر از تو دارم  
+
+More than you  
+بیشتر از تو  
+
+More than that  
+بیشتر از اون  
+
+I need more than that  
+من بیشتر از اون لازم دارم  
+
+But thanks anyway  
+ولی به هر حال مرسی  
+
+Do you want to go to a restaurant together?  
+می‌خوای با هم بریم رستوران؟  
+
+Yes, I do  
+آره  
+
+But I have to go to the store, too  
+ولی من باید برم مغازه، منم  
+
+I want to buy that book  
+می‌خوام اون کتاب رو بخرم  
+
+I want to buy it today  
+می‌خوام امروز بخرمش  
+
+We can go to the mall tonight  
+می‌تونیم امشب بریم پاساژ  
+
+But I'd like to go early  
+ولی دلم می‌خواد زود برم  
+
+I want some water  
+یه کم آب می‌خوام  
+
+Here you are  
+بفرمایید  
+
+Can you drink it now?  
+می‌تونی الان بنوشیش؟  
+
+<br/>
+
+## بخش ۳: جملات تکمیلی
+
+Some more  
+یه کم بیشتر  
+
+I want some more water  
+یه کم بیشتر آب می‌خوام  
+
+I need ten dollars  
+ده دلار لازم دارم  
+
+But I only have nine dollars  
+ولی فقط نه دلار دارم  
+
+I need more money  
+پول بیشتری لازم دارم  
+
+Some more money  
+یه کم پول بیشتر  
+
+One more dollar  
+یک دلار دیگه  
+
+I need one more dollar  
+یک دلار دیگه لازم دارم  
+
+<br/>
+
+## بخش ۴: مکالمه
+
+A: I have to buy a book, but I don't have any cash Can I borrow some money from you?  
+من باید یه کتابی بخرم، اما هیچ پول نقدی ندارم. می‌تونم کمی پول از تو قرض بگیرم؟  
+
+B: How much is the book?  
+کتابه چنده؟  
+
+<br/>
+
+A: It's ten dollars  
+ده دلاره  
+
+B: I'm sorry, but I only have nine dollars  
+متاسفم، ولی من فقط نه دلار دارم  
+
+<br/>
+
+A: No, I need more than that. But thanks anyway.  
+نه، من بیشتر از اون لازم دارم. ولی به هر حال مرسی  
+
+B: I want some water. Where can I buy some water?  
+من کمی آب می‌خوام. کجا می‌تونم کمی آب بخرم؟  
+
+<br/>
+
+A: Do you have to buy it now?  
+آیا باید الان بخرمش؟  
+
+B: I don't have to, but it's better to buy it now  
+نباید الان بخرمش، ولی بهتره الان بخرمش  
+
+<br/>
+
+A: Then buy it later  
+پس بعداً بخرش  
+
+B: All right. Goodbye.  
+باشه. بای  
 
 
-> برای دریافت فایل صوتی [کلیک کنید](https://raw.githubusercontent.com/Diana-Cl/Nosrat/refs/heads/main/01/01_11.amr)
+A: Goodbye  
+بای  
 
+<br/>
 
-<br> 
+## بخش ۵: جملات و تمرین‌ها
 
+Here's ten dollars  
+بفرما ده دلار  
 
-******
+Thanks  
+مرسی  
 
+Thanks a lot  
+خیلی ممنون  
 
-hello  
-سلام  
+I'm going to give you two more dollars  
+دارم دو دلار دیگه بهت می‌دم  
 
+Thanks a lot  
+خیلی ممنون  
 
-How are you?  
-حالت چطوره؟  
+Now I have nine dollars  
+حالا نه دلار دارم  
 
+ 
+> [!CAUTION]
+> 
+> **نکته:**
+> 
+> در درس‌های قبل گفتیم که برای تاکید کردن باید زمان رو در ابتدای جمله بیاریم  
+> 
+> <br/> 
 
-fine  
-خوب  
+Now I have nine dollars  
+حالا نه دلار دارم (با تأکید)  
 
+Thanks a lot  
+خیلی ممنون  
 
-thanks  
-ممنون  
+You're welcome  
+خواهش می‌کنم  
 
+Now I have to buy something  
+الان باید یه چیزی بخرم (با تأکید)  
 
-yes  
-بله  
+From the store  
+از مغازه  
 
-no  
+What are you going to buy?  
+چی داری می‌خری؟  
+
+I want to buy some water  
+می‌خوام یه کم آب بخرم  
+
+Now I have ten dollars  
+حالا ده دلار دارم (با تأکید)  
+
+Thanks a lot  
+خیلی ممنون  
+
+But it's early  
+ولی زوده  
+
+No, it's late  
+نه، دیره  
+
+Maybe you can go tomorrow  
+شاید بتونی فردا بری  
+
+It's not early  
+زود نیست  
+
+It's not late  
+دیر نیست  
+
+I don't think it's late  
+فکر نمی‌کنم دیره  
+
+Then we can go together  
+پس می‌تونیم با هم بریم  
+
+Thanks a lot  
+خیلی ممنون  
+
+I don't have any cash with me  
+هیچ پول نقدی همراهم ندارم  
+
+Can we go to my house?  
+می‌تونیم بریم خونه‌ی من؟  
+
+No, it's late now  
+نه، الان دیره  
+
+But I only have ten dollars  
+ولی من فقط ده دلار دارم  
+
+We need more than that  
+بیشتر از اون لازم داریم  
+
+We need one more dollar  
+یه دلار دیگه لازم داریم  
+
+We need eleven dollars  
+یازده دلار لازم داریم  
+
+Can we go tomorrow?  
+می‌تونیم فردا بریم؟  
+
+It's late now  
+الان دیره  
+
+And we don't have eleven dollars  
+و یازده دلار نداریم  
+
+We need more money  
+پول بیشتری لازم داریم  
+
+Eleven dollars is fine  
+یازده دلار خوبه  
+
+But twelve dollars is better  
+ولی دوازده دلار بهتره  
+
+We have eleven dollars now  
+الان یازده دلار داریم  
+
+But we need twelve dollars  
+ولی دوازده دلار لازم داریم  
+
+Here's a dollar  
+بفرما یه دلار  
+
+Thanks a lot  
+خیلی ممنون  
+
+I want to buy some coffee, too  
+من می‌خوام یه کم قهوه هم بخرم  
+
+And you have to buy some water  
+و تو باید یه کم آب بخری  
+
+More than twelve dollars  
+بیشتر از دوازده دلار  
+
+We need more than twelve dollars  
+ما بیشتر از دوازده دلار لازم داریم  
+
+I can borrow some money  
+می‌تونم یه کم پول قرض کنم  
+
+From my son  
+از پسرم  
+
+I can borrow some money from my son  
+می‌تونم از پسرم یه کم پول قرض کنم  
+
+But it's late now  
+ولی الان دیره  
+
+It's too late  
+خیلی دیره (بیش از حد)  
+
+It's too late now  
+الان خیلی دیره  
+
+It's too late to go to the store now  
+الان برای رفتن به مغازه خیلی دیره  
+
+We only have twelve dollars  
+ما فقط دوازده دلار داریم  
+
+We need eleven more dollars  
+یازده دلار دیگه لازم داریم  
+
+And it's too late  
+و خیلی دیره  
+
+Do you have to buy it tonight?  
+آیا باید امشب بخرمش؟  
+
+No, I don't  
 نه  
 
-and  
-و  
+It's too late now  
+الان خیلی دیره  
 
-you  
-تو  
+I can buy it tomorrow night  
+می‌تونم فردا شب بخرمش  
 
-from  
-از  
+We can go to the supermarket  
+می‌تونیم بریم سوپرمارکت  
 
-from Iran  
-از ایران  
+Tomorrow night  
+فردا شب  
 
-Canada  
-کانادا  
+We can go tomorrow night  
+می‌تونیم فردا شب بریم  
 
-from Canada  
-از کانادا  
+It's too late tonight  
+امشب خیلی دیره  
 
-I am.  
-من هستم.  
+We can go together tomorrow night  
+می‌تونیم فردا شب با هم بریم  
 
-I'm fine.  
-حالم خوبه.  
+Thanks a lot  
+خیلی ممنون  
 
-I'm from Iran.  
-من از ایران هستم.  
+I can borrow twelve dollars from my son  
+می‌تونم دوازده دلار از پسرم قرض کنم  
 
-I'm not.  
-من نیستم.  
+That's too much  
+اون خیلی زیاده  
 
-You are.  
-تو هستی.  
+Ten dollars is too much for a book  
+ده دلار برای یه کتاب خیلی زیاده  
 
-You're from Canada.  
-تو از کانادا هستی.  
+We only need eleven more dollars  
+ما فقط یازده دلار دیگه لازم داریم  
 
-Are you?  
-آیا تو هستی؟  
+But thanks anyway  
+ولی به هر حال مرسی  
 
-too  
-هم  
+That's too much money  
+اون پول خیلی زیادیه  
 
-I'm from Iran, too.  
-من هم از ایران هستم.  
+It's not too much  
+خیلی زیاد نیست  
 
+We want to buy water, too  
+ما می‌خوایم آب هم بخریم  
 
-*****  
+It's too late  
+خیلی دیره  
 
-A: Hello.  
-A: سلام.  
+It's too early  
+خیلی زوده  
 
-<br>
+We can go tomorrow night  
+می‌تونیم فردا شب بریم  
 
-B: Hello.  
-B: سلام.  
+I only want water now  
+من الان فقط آب می‌خوام  
 
-<br>
+Here you are  
+بفرمایید  
 
-A: How are you?  
-A: حالت چطوره؟  
+That's too much water  
+اون آب خیلی زیادیه  
 
-<br>
+That's a lot  
+اون یه عالمه‌ست  
 
-B: I'm fine, thanks.  
-B: حالم خوبه، ممنون.  
+It's not too much  
+خیلی زیاد نیست  
 
-<br>
+But it's a lot  
+ولی یه عالمه‌ست  
 
-A: Are you from Iran?  
-A: آیا تو از ایران هستی؟  
+It's a lot of water  
+یه عالمه آبه  
 
-<br>
+But it's not too much  
+ولی خیلی زیاد نیست  
 
-B: Yes, I'm from Iran. And you? Are you from Iran, too?  
-B: بله، من از ایران هستم. و تو؟ آیا تو هم از ایران هستی؟  
+I have a lot of money  
+یه عالمه پول دارم  
 
-<br>
+But I don't have any cash  
+ولی هیچی پول نقد ندارم  
 
-A: No, I'm not from Iran. I'm from Canada.  
-A: نه، من از ایران نیستم. من از کانادا هستم.  
+<br/>
 
-<br>
+## بخش ۶: واژگان درس
 
-*****
+Eleven  
+یازده  
 
-hello  
-سلام  
+Twelve  
+دوازده  
 
+Night  
+شب  
 
-Hello, Jim.  
-سلام، جیم.  
+Tomorrow night  
+فردا شب  
 
+A lot  
+یه عالمه  
 
-hello  
-سلام  
+A lot of  
+یه عالمه از  
 
-How are you?  
-حالت چطوره؟  
+A lot of money  
+یه عالمه پول  
 
-how  
-چطور  
+<br/>
 
-you  
-تو  
+## بخش ۷: سوال جواب‌ها 
 
-You are.  
-تو هستی.  
+Can I borrow some cash?  
+می‌تونم یه کم پول نقد قرض کنم؟  
 
-Are you?  
-آیا تو هستی؟  
+I don't have a lot of money  
+من پول زیادی ندارم  
 
-How are you?  
-حالت چطوره؟  
+I need more money  
+پول بیشتری لازم دارم  
 
-I  
-من  
+I'm sorry. I can't give you more  
+متاسفم، نمی‌تونم بیشتر بهت بدم.  
 
-am  
-هستم  
+I only have eleven dollars  
+من فقط یازده دلار دارم  
 
-I am.  
-من هستم.  
+That's a lot of money  
+اون یه عالمه پوله  
 
-You are.  
-تو هستی.  
+Yes, but you need twelve dollars  
+آره، ولی تو دوازده دلار لازم داری  
 
-Hello. How are you?  
-سلام. حالت چطوره؟  
+But I don't need it today  
+ولی امروز لازمش ندارم  
 
-I am.  
-من هستم.  
+For tomorrow night  
+واسه فردا شب  
 
-fine  
-خوب  
+I need it for tomorrow night  
+واسه فردا شب لازمش دارم  
 
-I am fine.  
-حالم خوب است.  
+It's too early now  
+الان خیلی زوده  
 
-I am.  
-من هستم.  
+But tomorrow night it's too late  
+ولی فردا شب خیلی دیره  
 
-I'm.  
-من هستم.  
+I'd like to have the money tonight  
+دلم می‌خواد پول رو امشب داشته باشم  
 
-I am. I'm.  
-من هستم. من هستم.  
+Do you know where my son is?  
+می‌دونی پسرم کجاست؟  
 
-I'm fine.  
-حالم خوبه.  
+Where's the Persian restaurant?  
+رستوران ایرانی کجاست؟  
 
-thanks  
-ممنون  
+Do you know where the restaurant is?  
+می‌دونی رستوران کجاست؟  
 
-Hello, Joe.  
-سلام، جو.  
+It's far  
+دوره  
 
-How are you?  
-حالت چطوره؟  
+And it's too late now  
+و الان خیلی دیره  
 
-I'm fine, thanks.  
-حالم خوبه، ممنون.  
+It's too far  
+خیلی دوره  
 
-from  
-از  
+Are you going to eat there?  
+می‌خوای اونجا غذا بخوری؟  
 
-Iran  
-ایران  
+No, it's too far  
+نه، خیلی دوره  
 
-from Iran  
-از ایران  
+And I don't have a lot of money  
+و پول زیادی هم ندارم  
 
-You are.  
-تو هستی.  
+How much do you have?  
+چقدر پول داری؟  
 
-You are from Iran.  
-تو از ایران هستی.  
+I have eleven dollars  
+یازده دلار دارم  
 
-Are you from Iran?  
-آیا تو از ایران هستی؟  
+Or maybe I have twelve dollars  
+یا شاید دوازده دلار داشته باشم  
 
-You are from Iran.  
-تو از ایران هستی.  
+I'm not sure  
+مطمئن نیستم  
 
-I am.  
-من هستم.  
+That's a lot of money  
+اون یه عالمه پوله  
 
-I am from Iran.  
-من از ایران هستم.  
+Do you know where your money is?  
+می‌دونی پولت کجاست؟  
 
-I'm from Iran.  
-من از ایران هستم.  
+No, I don't know where it is  
+نه، نمی‌دونم کجاست  
 
-yes  
-بله  
+I have more money at home  
+خونه پول بیشتری دارم  
 
-Are you from Iran?  
-آیا تو از ایران هستی؟  
+Do you know where my house is?  
+می‌دونی خونه‌م کجاست؟  
 
-Yes, I'm from Iran.  
-بله، من از ایران هستم.  
+No, I don't know where your house is  
+نه، نمی‌دونم خونه‌ت کجاست  
 
-and  
-و  
+No, I don't know where it is  
+نه، نمی‌دونم کجاست  
 
-Yes, I'm from Iran.  
-بله، من از ایران هستم.  
+I want some water  
+یه کم آب می‌خوام  
 
-and you?  
-و تو؟  
+Here you are  
+بفرمایید  
 
-and  
-و  
+Thanks a lot  
+خیلی ممنون  
 
-Hello. how are you?  
-سلام. حالت چطوره؟  
+That's a lot of water  
+اون یه عالمه آبه
 
-I'm fine, thanks.  
-حالم خوبه، ممنون.  
+</div>
 
-and you?  
-و تو؟  
+<br/> 
 
-too  
-هم  
+## پایان درس پانزدهم  
 
-I'm fine, too.  
-من هم خوب هستم.  
+**[مطالعه درس قبلی](../14/README.md)**  
 
-I'm from Iran, too.  
-من هم از ایران هستم.  
-
-Are you from Iran?  
-آیا تو از ایران هستی؟  
-
-Are you from Iran, too?  
-آیا تو هم از ایران هستی؟  
-
-no  
-نه  
-
-Are you from Iran?  
-آیا تو از ایران هستی؟  
-
-no  
-نه  
-
-I'm not.  
-من نیستم.  
-
-I'm not from Iran.  
-من از ایران نیستم.  
-
-Are you from Iran, too?  
-آیا تو هم از ایران هستی؟  
-
-No, I'm not from Iran.  
-نه، من از ایران نیستم.  
-
-Canada  
-کانادا  
-
-I'm from Iran.  
-من از ایران هستم.  
-
-I'm from Canada.  
-من از کانادا هستم.  
-
-I'm from Canada, too.  
-من هم از کانادا هستم.  
-
-Hello. How are you?  
-سلام. حالت چطوره؟  
-
-I'm fine, thanks.  
-حالم خوبه، ممنون.  
-
-Are you from Iran?  
-آیا تو از ایران هستی؟  
-
-Yes, I'm from Iran.  
-بله، من از ایران هستم.  
-
-and you?  
-و تو؟  
-
-Are you from Iran, too?  
-آیا تو هم از ایران هستی؟  
-
-No, I'm not from Iran.  
-نه، من از ایران نیستم.  
-
-I'm from Canada.  
-من از کانادا هستم.  
-
-******
-
-hello  
-سلام  
-
-how  
-چطور  
-
-thanks  
-ممنون  
-
-from  
-از  
-
-Iran  
-ایران  
-
-Canada  
-کانادا  
-
-You are.  
-تو هستی.  
-
-You're.  
-تو هستی.  
-
-*****
-
-You are from Canada.  
-تو از کانادا هستی.  
-
-You are.  
-تو هستی.  
-
-You're.  
-تو هستی.  
-
-You are.  
-تو هستی.  
-
-You're.  
-تو هستی.  
-
-You're from Canada.  
-تو از کانادا هستی.  
-
-hello  
-سلام  
-
-Are you from Iran?  
-آیا تو از ایران هستی؟  
-
-How are you?  
-حالت چطوره؟  
-
-Hello. how are you?  
-سلام. حالت چطوره؟  
-
-I'm fine.  
-حالم خوبه.  
-
-hello  
-سلام  
-
-How are you?  
-حالت چطوره؟  
-
-I'm fine.  
-حالم خوبه.  
-
-Are you from Canada?  
-آیا تو از کانادا هستی؟  
-
-Yes, I am.  
-بله، من هستم.  
-
-Are you from Canada, too?  
-آیا تو هم از کانادا هستی؟  
-
-No, I'm from Iran.  
-نه، من از ایران هستم.  
-
-I'm not from Canada.  
-من از کانادا نیستم.  
-
-Are you from Iran, too?  
-آیا تو هم از ایران هستی؟  
-
-No, I'm from Canada.  
-نه، من از کانادا هستم.  
-
-You're from Iran, too.  
-تو هم از ایران هستی.  
-
-hello  
-سلام  
-
-How are you?  
-حالت چطوره؟  
-
-I'm fine, thanks.  
-حالم خوبه، ممنون.  
-
-Are you from Iran?  
-آیا تو از ایران هستی؟  
-
-Yes, I'm from Iran. And you? Are you from Iran, too?  
-بله، من از ایران هستم. و تو؟ آیا تو هم از ایران هستی؟  
-
-No, I'm not from Iran. I'm from Canada  
-نه، من از ایران نیستم. من از کانادا هستم.  
-
-hello  
-سلام  
-
-hello  
-سلام  
-
-How are you?  
-حالت چطوره؟  
-
-I'm fine, thanks.  
-حالم خوبه، ممنون.  
-
-Are you from Iran?  
-آیا تو از ایران هستی؟  
-
-Yes, I'm from Iran.  
-بله، من از ایران هستم.  
-
-and you?  
-و تو؟  
-
-Are you from Iran, too?  
-آیا تو هم از ایران هستی؟  
-
-
-No, I'm not from Iran. I'm from Canada.  
-نه، من از ایران نیستم. من از کانادا هستم.  
-
-*****
-
-A: Hello.  
-A: سلام.  
-
-<br>
-
-B: Hello.  
-B: سلام.  
-
-<br>
-
-A: How are you?  
-A: حالت چطوره؟  
-
-<br>
-
-B: I'm fine, thanks.  
-B: حالم خوبه، ممنون.  
-
-<br>
-
-A: Are you from Iran?  
-A: آیا تو از ایران هستی؟  
-
-<br>
-
-B: Yes, I'm from Iran. And you? Are you from Iran, too?  
-B: بله، من از ایران هستم. و تو؟ آیا تو هم از ایران هستی؟  
-
-<br>
-
-A: No, I'm not from Iran. I'm from Canada.  
-A: نه، من از ایران نیستم. من از کانادا هستم.  
-
-<br>
-
-****
-
-## پایان درس اول
+**[مطالعه درس بعدی](../16/README.md)**  
